@@ -545,7 +545,7 @@
    "id": "w_rain_20261007",
    "c": "Random",
    "tag": "Weather",
-   "px": 3,
+   "px": 5,
    "t": "2026-10-08T04:59:00Z",
    "q": "Will it rain in Houston on Wednesday, Oct 7?",
    "src": "National Weather Service"
@@ -554,7 +554,7 @@
    "id": "w_hot_20261007",
    "c": "Random",
    "tag": "Weather",
-   "px": 90,
+   "px": 85,
    "t": "2026-10-08T04:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Wednesday, Oct 7?",
    "src": "National Weather Service"
