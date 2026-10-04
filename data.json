@@ -5,7 +5,7 @@
    "id": "w_rain_20261004",
    "c": "Random",
    "tag": "Weather",
-   "px": 37,
+   "px": 36,
    "t": "2026-10-05T04:59:00Z",
    "q": "Will it rain in Houston on Sunday, Oct 4?"
   },
@@ -21,7 +21,7 @@
    "id": "w_rain_20261005",
    "c": "Random",
    "tag": "Weather",
-   "px": 5,
+   "px": 7,
    "t": "2026-10-06T04:59:00Z",
    "q": "Will it rain in Houston on Monday, Oct 5?"
   },
@@ -29,7 +29,7 @@
    "id": "w_hot_20261005",
    "c": "Random",
    "tag": "Weather",
-   "px": 68,
+   "px": 56,
    "t": "2026-10-06T04:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Monday, Oct 5?"
   },
@@ -93,7 +93,7 @@
    "id": "r_sweepr",
    "c": "Politics",
    "tag": "Politics",
-   "px": 6,
+   "px": 8,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Republicans win both the House and the Senate in the Nov 3 midterms?"
   }
