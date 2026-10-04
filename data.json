@@ -61,7 +61,7 @@
    "id": "w_hot_20261007",
    "c": "Random",
    "tag": "Weather",
-   "px": 85,
+   "px": 90,
    "t": "2026-10-08T04:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Wednesday, Oct 7?"
   },
@@ -69,7 +69,7 @@
    "id": "r_house",
    "c": "Politics",
    "tag": "Politics",
-   "px": 93,
+   "px": 94,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Democrats win control of the U.S. House in the Nov 3 midterms?"
   },
@@ -77,7 +77,7 @@
    "id": "r_senate",
    "c": "Politics",
    "tag": "Politics",
-   "px": 65,
+   "px": 67,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Democrats win control of the U.S. Senate in the Nov 3 midterms?"
   },
@@ -85,7 +85,7 @@
    "id": "r_sweepd",
    "c": "Politics",
    "tag": "Politics",
-   "px": 64,
+   "px": 66,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Democrats win both the House and the Senate in the Nov 3 midterms?"
   },
