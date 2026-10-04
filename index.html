@@ -93,7 +93,7 @@ header .tabs{margin:0;flex:1;flex-wrap:wrap}
 </main>
 </div>
 <script>
-const M=[
+let M=[
 ['nfl_buf','Games','Will the Bills beat the Patriots?',73,'2026-10-04T17:00:00Z'],
 ['nfl_bal','Games','Will the Ravens beat the Titans?',87,'2026-10-04T17:00:00Z'],
 ['nfl_chi','Games','Will the Bears beat the Jets?',63,'2026-10-04T17:00:00Z'],
@@ -267,6 +267,15 @@ async function takeOffer(id){
   put('trades','t_'+id,{m:o.m,y:o.side==='yes'?o.o:uid,n:o.side==='yes'?uid:o.o,px:yesPx,q:o.q,t:Date.now()});
   del('offers',id);
 }
+const ruleFor=x=>x.tag==='Weather'?'Priced from the National Weather Service forecast. Resolves from the recorded weather for that day (simulated here).':x.c==='Politics'?'Priced from Polymarket prices. Would resolve on official election results. Simulated here.':'Priced from betting lines. Resolves Yes if the named team wins, per the official final score. Simulated here.';
+fetch('data.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(d=>{
+  if(!d||!d.markets||!d.markets.length)return;
+  const ids=new Set(d.markets.map(x=>x.id));
+  const dyn=/^(nfl_|mlb_|w_|r_house|r_senate|r_sweep|r_warm|r_dry)/;
+  M=M.filter(m=>!dyn.test(m.id)&&!ids.has(m.id)).concat(d.markets.map(x=>Object.assign({real:null,tag:''},x,{r:ruleFor(x)})));
+  if(d.asof)document.querySelector('.asof').textContent='Prices as of '+d.asof;
+  draw();
+}).catch(()=>{});
 draw();
 (async()=>{
   try{
