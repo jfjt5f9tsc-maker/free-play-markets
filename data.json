@@ -1,1 +1,101 @@
-{"asof": "Oct 3, 2026", "markets": []}
+{
+ "asof": "Oct 4, 2026",
+ "markets": [
+  {
+   "id": "w_rain_20261004",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 37,
+   "t": "2026-10-05T04:59:00Z",
+   "q": "Will it rain in Houston on Sunday, Oct 4?"
+  },
+  {
+   "id": "w_hot_20261004",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 22,
+   "t": "2026-10-05T04:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Sunday, Oct 4?"
+  },
+  {
+   "id": "w_rain_20261005",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 5,
+   "t": "2026-10-06T04:59:00Z",
+   "q": "Will it rain in Houston on Monday, Oct 5?"
+  },
+  {
+   "id": "w_hot_20261005",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 68,
+   "t": "2026-10-06T04:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Monday, Oct 5?"
+  },
+  {
+   "id": "w_rain_20261006",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "t": "2026-10-07T04:59:00Z",
+   "q": "Will it rain in Houston on Tuesday, Oct 6?"
+  },
+  {
+   "id": "w_hot_20261006",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 78,
+   "t": "2026-10-07T04:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Tuesday, Oct 6?"
+  },
+  {
+   "id": "w_rain_20261007",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "t": "2026-10-08T04:59:00Z",
+   "q": "Will it rain in Houston on Wednesday, Oct 7?"
+  },
+  {
+   "id": "w_hot_20261007",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 85,
+   "t": "2026-10-08T04:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Wednesday, Oct 7?"
+  },
+  {
+   "id": "r_house",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 93,
+   "t": "2026-11-04T06:00:00Z",
+   "q": "Will Democrats win control of the U.S. House in the Nov 3 midterms?"
+  },
+  {
+   "id": "r_senate",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 65,
+   "t": "2026-11-04T06:00:00Z",
+   "q": "Will Democrats win control of the U.S. Senate in the Nov 3 midterms?"
+  },
+  {
+   "id": "r_sweepd",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 64,
+   "t": "2026-11-04T06:00:00Z",
+   "q": "Will Democrats win both the House and the Senate in the Nov 3 midterms?"
+  },
+  {
+   "id": "r_sweepr",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 6,
+   "t": "2026-11-04T06:00:00Z",
+   "q": "Will Republicans win both the House and the Senate in the Nov 3 midterms?"
+  }
+ ]
+}
