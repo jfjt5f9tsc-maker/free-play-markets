@@ -2,6 +2,86 @@
  "asof": "Oct 4, 2026",
  "markets": [
   {
+   "id": "nfl_401872974",
+   "c": "Games",
+   "tag": "",
+   "px": 81,
+   "t": "2026-10-04T20:05:00Z",
+   "q": "Will the Vikings beat the Dolphins?"
+  },
+  {
+   "id": "nfl_401872976",
+   "c": "Games",
+   "tag": "",
+   "px": 34,
+   "t": "2026-10-04T20:25:00Z",
+   "q": "Will the Raiders beat the Chiefs?"
+  },
+  {
+   "id": "nfl_401872975",
+   "c": "Games",
+   "tag": "",
+   "px": 61,
+   "t": "2026-10-04T20:25:00Z",
+   "q": "Will the 49ers beat the Broncos?"
+  },
+  {
+   "id": "nfl_401872977",
+   "c": "Games",
+   "tag": "",
+   "px": 73,
+   "t": "2026-10-04T20:25:00Z",
+   "q": "Will the Seahawks beat the Chargers?"
+  },
+  {
+   "id": "nfl_401872978",
+   "c": "Games",
+   "tag": "",
+   "px": 38,
+   "t": "2026-10-05T00:20:00Z",
+   "q": "Will the Panthers beat the Lions?"
+  },
+  {
+   "id": "nfl_401872979",
+   "c": "Games",
+   "tag": "",
+   "px": 55,
+   "t": "2026-10-06T00:15:00Z",
+   "q": "Will the Saints beat the Falcons?"
+  },
+  {
+   "id": "mlb_401908003",
+   "c": "Games",
+   "tag": "",
+   "px": 97,
+   "t": "2026-10-04T20:00:00Z",
+   "q": "Will the Brewers beat the Padres?"
+  },
+  {
+   "id": "mlb_401908014",
+   "c": "Games",
+   "tag": "",
+   "px": 97,
+   "t": "2026-10-05T00:00:00Z",
+   "q": "Will the Dodgers beat the Braves?"
+  },
+  {
+   "id": "mlb_401907991",
+   "c": "Games",
+   "tag": "",
+   "px": 97,
+   "t": "2026-10-05T21:00:00Z",
+   "q": "Will the Guardians beat the White Sox?"
+  },
+  {
+   "id": "mlb_401907986",
+   "c": "Games",
+   "tag": "",
+   "px": 3,
+   "t": "2026-10-06T00:00:00Z",
+   "q": "Will the Rays beat the Yankees?"
+  },
+  {
    "id": "w_rain_20261004",
    "c": "Random",
    "tag": "Weather",
