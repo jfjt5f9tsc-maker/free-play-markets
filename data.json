@@ -5,7 +5,7 @@
    "id": "nfl_401872980",
    "c": "Sports",
    "tag": "NFL",
-   "px": 80,
+   "px": 77,
    "t": "2026-10-09T00:15:00Z",
    "q": "Will the Cowboys beat the Buccaneers?",
    "src": "ESPN point spread"
@@ -110,15 +110,6 @@
    "src": "Sleeper weekly projections"
   },
   {
-   "id": "cfb_401871090",
-   "c": "Sports",
-   "tag": "College football",
-   "px": 82,
-   "t": "2026-10-07T00:00:00Z",
-   "q": "Will the Troy beat the Southern Miss?",
-   "src": "ESPN point spread"
-  },
-  {
    "id": "cfb_401871051",
    "c": "Sports",
    "tag": "College football",
@@ -131,7 +122,7 @@
    "id": "cfb_401871066",
    "c": "Sports",
    "tag": "College football",
-   "px": 70,
+   "px": 72,
    "t": "2026-10-07T23:30:00Z",
    "q": "Will the FIU beat the New Mexico St?",
    "src": "ESPN point spread"
@@ -203,7 +194,7 @@
    "id": "cfb_401864519",
    "c": "Sports",
    "tag": "College football",
-   "px": 72,
+   "px": 70,
    "t": "2026-10-10T01:00:00Z",
    "q": "Will the San Jos\u00e9 St beat the Wyoming?",
    "src": "ESPN point spread"
@@ -215,24 +206,6 @@
    "px": 82,
    "t": "2026-10-10T02:15:00Z",
    "q": "Will the BYU beat the Iowa State?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "mlb_401908015",
-   "c": "Sports",
-   "tag": "MLB",
-   "px": 3,
-   "t": "2026-10-06T22:00:00Z",
-   "q": "Will the Braves beat the Dodgers?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "mlb_401908004",
-   "c": "Sports",
-   "tag": "MLB",
-   "px": 97,
-   "t": "2026-10-07T01:30:00Z",
-   "q": "Will the Padres beat the Brewers?",
    "src": "ESPN point spread"
   },
   {
@@ -248,10 +221,10 @@
    "id": "mlb_401908016",
    "c": "Sports",
    "tag": "MLB",
-   "px": 49,
+   "px": 3,
    "t": "2026-10-07T22:00:00Z",
    "q": "Will the Braves beat the Dodgers?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "mlb_401907987",
@@ -308,51 +281,6 @@
    "src": "team records (no betting line yet)"
   },
   {
-   "id": "nhl_401891815",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 78,
-   "t": "2026-10-06T23:00:00Z",
-   "q": "Will the Canadiens beat the Hurricanes?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892449",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 36,
-   "t": "2026-10-06T23:00:00Z",
-   "q": "Will the Maple Leafs beat the Predators?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892451",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 36,
-   "t": "2026-10-06T23:00:00Z",
-   "q": "Will the Devils beat the Mammoth?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892452",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 78,
-   "t": "2026-10-06T23:30:00Z",
-   "q": "Will the Rangers beat the Islanders?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892454",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 53,
-   "t": "2026-10-07T01:00:00Z",
-   "q": "Will the Kraken beat the Golden Knights?",
-   "src": "team records (no betting line yet)"
-  },
-  {
    "id": "nhl_401891806",
    "c": "Sports",
    "tag": "NHL",
@@ -371,37 +299,73 @@
    "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401901820",
+   "id": "nhl_401891820",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 75,
-   "t": "2026-10-06T23:00:00Z",
-   "q": "Will the Hornets beat the Nets?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 89,
+   "t": "2026-10-08T23:00:00Z",
+   "q": "Will the Senators beat the Flyers?",
+   "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401898389",
+   "id": "nhl_401892457",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 70,
-   "t": "2026-10-07T00:00:00Z",
-   "q": "Will the Thunder beat the Pelicans?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 28,
+   "t": "2026-10-08T23:00:00Z",
+   "q": "Will the Bruins beat the Mammoth?",
+   "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401914128",
+   "id": "nhl_401892458",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 44,
-   "t": "2026-10-07T01:00:00Z",
-   "q": "Will the Jazz beat the Nuggets?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 83,
+   "t": "2026-10-08T23:00:00Z",
+   "q": "Will the Sabres beat the Stars?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nhl_401892459",
+   "c": "Sports",
+   "tag": "NHL",
+   "px": 53,
+   "t": "2026-10-08T23:00:00Z",
+   "q": "Will the Canadiens beat the Predators?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nhl_401892460",
+   "c": "Sports",
+   "tag": "NHL",
+   "px": 32,
+   "t": "2026-10-08T23:00:00Z",
+   "q": "Will the Lightning beat the Wild?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nhl_401892461",
+   "c": "Sports",
+   "tag": "NHL",
+   "px": 66,
+   "t": "2026-10-08T23:00:00Z",
+   "q": "Will the Hurricanes beat the Canucks?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nhl_401891825",
+   "c": "Sports",
+   "tag": "NHL",
+   "px": 36,
+   "t": "2026-10-09T00:00:00Z",
+   "q": "Will the Blues beat the Sharks?",
+   "src": "team records (no betting line yet)"
   },
   {
    "id": "nba_401898390",
    "c": "Sports",
    "tag": "NBA",
-   "px": 63,
+   "px": 73,
    "t": "2026-10-07T02:00:00Z",
    "q": "Will the Warriors beat the Lakers?",
    "src": "ESPN point spread"
@@ -437,7 +401,7 @@
    "id": "wnba_401918297",
    "c": "Sports",
    "tag": "WNBA",
-   "px": 59,
+   "px": 56,
    "t": "2026-10-07T23:30:00Z",
    "q": "Will the Dream beat the Liberty?",
    "src": "ESPN point spread"
@@ -542,28 +506,10 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "w_rain_20261006",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 3,
-   "t": "2026-10-07T04:59:00Z",
-   "q": "Will it rain in Houston on Tuesday, Oct 6?",
-   "src": "National Weather Service"
-  },
-  {
-   "id": "w_hot_20261006",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 90,
-   "t": "2026-10-07T04:59:00Z",
-   "q": "Will Houston hit a high of 85\u00b0F or more on Tuesday, Oct 6?",
-   "src": "National Weather Service"
-  },
-  {
    "id": "w_rain_20261007",
    "c": "Random",
    "tag": "Weather",
-   "px": 12,
+   "px": 10,
    "t": "2026-10-08T04:59:00Z",
    "q": "Will it rain in Houston on Wednesday, Oct 7?",
    "src": "National Weather Service"
@@ -581,7 +527,7 @@
    "id": "w_rain_20261008",
    "c": "Random",
    "tag": "Weather",
-   "px": 7,
+   "px": 3,
    "t": "2026-10-09T04:59:00Z",
    "q": "Will it rain in Houston on Thursday, Oct 8?",
    "src": "National Weather Service"
@@ -590,7 +536,7 @@
    "id": "w_hot_20261008",
    "c": "Random",
    "tag": "Weather",
-   "px": 90,
+   "px": 94,
    "t": "2026-10-09T04:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Thursday, Oct 8?",
    "src": "National Weather Service"
@@ -599,7 +545,7 @@
    "id": "w_rain_20261009",
    "c": "Random",
    "tag": "Weather",
-   "px": 6,
+   "px": 22,
    "t": "2026-10-10T04:59:00Z",
    "q": "Will it rain in Houston on Friday, Oct 9?",
    "src": "National Weather Service"
@@ -611,6 +557,24 @@
    "px": 90,
    "t": "2026-10-10T04:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Friday, Oct 9?",
+   "src": "National Weather Service"
+  },
+  {
+   "id": "w_rain_20261010",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 20,
+   "t": "2026-10-11T04:59:00Z",
+   "q": "Will it rain in Houston on Saturday, Oct 10?",
+   "src": "National Weather Service"
+  },
+  {
+   "id": "w_hot_20261010",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 68,
+   "t": "2026-10-11T04:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Saturday, Oct 10?",
    "src": "National Weather Service"
   },
   {
@@ -626,7 +590,7 @@
    "id": "r_senate",
    "c": "Politics",
    "tag": "Politics",
-   "px": 66,
+   "px": 65,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Democrats win control of the U.S. Senate in the Nov 3 midterms?",
    "src": "Polymarket"
@@ -635,7 +599,7 @@
    "id": "r_sweepd",
    "c": "Politics",
    "tag": "Politics",
-   "px": 66,
+   "px": 64,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Democrats win both the House and the Senate in the Nov 3 midterms?",
    "src": "Polymarket"
@@ -659,6 +623,52 @@
    "away": "Falcons",
    "as": "45",
    "leaders": []
+  },
+  {
+   "league": "MLB",
+   "date": "2026-10-06T22:00:00Z",
+   "home": "Braves",
+   "hs": "1",
+   "away": "Dodgers",
+   "as": "3",
+   "leaders": [
+    {
+     "team": "Braves",
+     "cat": "Batting Average",
+     "name": "Matt Olson",
+     "val": "1-4, 2 K"
+    },
+    {
+     "team": "Braves",
+     "cat": "Home Runs",
+     "name": "Matt Olson",
+     "val": "1-4, 2 K"
+    },
+    {
+     "team": "Braves",
+     "cat": "Runs Batted In",
+     "name": "Drake Baldwin",
+     "val": "0-4, RBI, 2 K"
+    },
+    {
+     "team": "Dodgers",
+     "cat": "Batting Average",
+     "name": "Andy Pages",
+     "val": "2-4, R, K"
+    },
+    {
+     "team": "Dodgers",
+     "cat": "Home Runs",
+     "name": "Freddie Freeman",
+     "val": "1-4, HR, RBI, R, BB, K"
+    },
+    {
+     "team": "Dodgers",
+     "cat": "Runs Batted In",
+     "name": "Enrique Hernandez",
+     "val": "1-4, HR, 2 RBI, R, 2 K"
+    }
+   ]
   },
   {
    "league": "MLB",
@@ -749,6 +759,236 @@
      "cat": "Runs Batted In",
      "name": "Braden Montgomery",
      "val": "1-4, 2B, 2 RBI, R, 2 K"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-06T23:00:00Z",
+   "home": "Canadiens",
+   "hs": "4",
+   "away": "Hurricanes",
+   "as": "6",
+   "leaders": [
+    {
+     "team": "Canadiens",
+     "cat": "Goals",
+     "name": "Zack Bolduc",
+     "val": "2"
+    },
+    {
+     "team": "Canadiens",
+     "cat": "Assists",
+     "name": "Chris Kreider",
+     "val": "2"
+    },
+    {
+     "team": "Canadiens",
+     "cat": "Points",
+     "name": "Zack Bolduc",
+     "val": "2"
+    },
+    {
+     "team": "Hurricanes",
+     "cat": "Goals",
+     "name": "Taylor Hall",
+     "val": "2"
+    },
+    {
+     "team": "Hurricanes",
+     "cat": "Assists",
+     "name": "Sebastian Aho",
+     "val": "2"
+    },
+    {
+     "team": "Hurricanes",
+     "cat": "Points",
+     "name": "Sebastian Aho",
+     "val": "3"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-06T23:00:00Z",
+   "home": "Maple Leafs",
+   "hs": "5",
+   "away": "Predators",
+   "as": "4",
+   "leaders": [
+    {
+     "team": "Maple Leafs",
+     "cat": "Goals",
+     "name": "Auston Matthews",
+     "val": "1"
+    },
+    {
+     "team": "Maple Leafs",
+     "cat": "Assists",
+     "name": "Auston Matthews",
+     "val": "3"
+    },
+    {
+     "team": "Maple Leafs",
+     "cat": "Points",
+     "name": "Auston Matthews",
+     "val": "4"
+    },
+    {
+     "team": "Predators",
+     "cat": "Goals",
+     "name": "Nils Hoglander",
+     "val": "2"
+    },
+    {
+     "team": "Predators",
+     "cat": "Assists",
+     "name": "Filip Forsberg",
+     "val": "2"
+    },
+    {
+     "team": "Predators",
+     "cat": "Points",
+     "name": "Steven Stamkos",
+     "val": "2"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-06T23:00:00Z",
+   "home": "Red Wings",
+   "hs": "5",
+   "away": "Senators",
+   "as": "3",
+   "leaders": [
+    {
+     "team": "Red Wings",
+     "cat": "Goals",
+     "name": "Alex DeBrincat",
+     "val": "2"
+    },
+    {
+     "team": "Red Wings",
+     "cat": "Assists",
+     "name": "Lucas Raymond",
+     "val": "3"
+    },
+    {
+     "team": "Red Wings",
+     "cat": "Points",
+     "name": "Alex DeBrincat",
+     "val": "3"
+    },
+    {
+     "team": "Senators",
+     "cat": "Goals",
+     "name": "William Eklund",
+     "val": "1"
+    },
+    {
+     "team": "Senators",
+     "cat": "Assists",
+     "name": "William Eklund",
+     "val": "1"
+    },
+    {
+     "team": "Senators",
+     "cat": "Points",
+     "name": "Drake Batherson",
+     "val": "2"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-06T23:00:00Z",
+   "home": "Devils",
+   "hs": "3",
+   "away": "Mammoth",
+   "as": "5",
+   "leaders": [
+    {
+     "team": "Devils",
+     "cat": "Goals",
+     "name": "Luke Evangelista",
+     "val": "2"
+    },
+    {
+     "team": "Devils",
+     "cat": "Assists",
+     "name": "Timo Meier",
+     "val": "1"
+    },
+    {
+     "team": "Devils",
+     "cat": "Points",
+     "name": "Luke Evangelista",
+     "val": "2"
+    },
+    {
+     "team": "Mammoth",
+     "cat": "Goals",
+     "name": "Nick Schmaltz",
+     "val": "1"
+    },
+    {
+     "team": "Mammoth",
+     "cat": "Assists",
+     "name": "Mikhail Sergachev",
+     "val": "3"
+    },
+    {
+     "team": "Mammoth",
+     "cat": "Points",
+     "name": "Nick Schmaltz",
+     "val": "3"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-06T23:00:00Z",
+   "home": "Sabres",
+   "hs": "3",
+   "away": "Wild",
+   "as": "2",
+   "leaders": [
+    {
+     "team": "Sabres",
+     "cat": "Goals",
+     "name": "Owen Power",
+     "val": "1"
+    },
+    {
+     "team": "Sabres",
+     "cat": "Assists",
+     "name": "Owen Power",
+     "val": "1"
+    },
+    {
+     "team": "Sabres",
+     "cat": "Points",
+     "name": "Owen Power",
+     "val": "2"
+    },
+    {
+     "team": "Wild",
+     "cat": "Goals",
+     "name": "Maxim Shabanov",
+     "val": "1"
+    },
+    {
+     "team": "Wild",
+     "cat": "Assists",
+     "name": "Michael McCarron",
+     "val": "1"
+    },
+    {
+     "team": "Wild",
+     "cat": "Points",
+     "name": "Danila Yurov",
+     "val": "1"
     }
    ]
   },
@@ -867,48 +1107,48 @@
    ]
   },
   {
-   "league": "NHL",
-   "date": "2026-10-05T23:00:00Z",
-   "home": "Lightning",
-   "hs": "4",
-   "away": "Flyers",
-   "as": "1",
+   "league": "NBA",
+   "date": "2026-10-06T23:00:00Z",
+   "home": "Hornets",
+   "hs": "90",
+   "away": "Nets",
+   "as": "124",
    "leaders": [
     {
-     "team": "Lightning",
-     "cat": "Goals",
-     "name": "Ilya Mikheyev",
-     "val": "1"
-    },
-    {
-     "team": "Lightning",
-     "cat": "Assists",
-     "name": "Nikita Kucherov",
-     "val": "2"
-    },
-    {
-     "team": "Lightning",
+     "team": "Hornets",
      "cat": "Points",
-     "name": "Ilya Mikheyev",
-     "val": "2"
+     "name": "Liam McNeeley",
+     "val": "14"
     },
     {
-     "team": "Flyers",
-     "cat": "Goals",
-     "name": "Tyson Foerster",
-     "val": "1"
+     "team": "Hornets",
+     "cat": "Rebounds",
+     "name": "Naz Reid",
+     "val": "4"
     },
     {
-     "team": "Flyers",
+     "team": "Hornets",
      "cat": "Assists",
-     "name": "Nick Seeler",
-     "val": "1"
+     "name": "Royce O'Neale",
+     "val": "5"
     },
     {
-     "team": "Flyers",
+     "team": "Nets",
      "cat": "Points",
-     "name": "Tyson Foerster",
-     "val": "1"
+     "name": "Michael Porter Jr.",
+     "val": "16"
+    },
+    {
+     "team": "Nets",
+     "cat": "Rebounds",
+     "name": "Day'Ron Sharpe",
+     "val": "7"
+    },
+    {
+     "team": "Nets",
+     "cat": "Assists",
+     "name": "Danny Wolf",
+     "val": "5"
     }
    ]
   },
