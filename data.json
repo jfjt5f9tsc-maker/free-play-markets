@@ -1,114 +1,6 @@
 {
- "asof": "Oct 25, 2026",
+ "asof": "Oct 26, 2026",
  "markets": [
-  {
-   "id": "nfl_401873011",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 39,
-   "t": "2026-10-25T13:30:00Z",
-   "q": "Will the Saints beat the Steelers?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873017",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 41,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Falcons beat the 49ers?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873013",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 45,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Titans beat the Browns?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873014",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 72,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Vikings beat the Colts?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873015",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 66,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Jets beat the Dolphins?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873018",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 61,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Panthers beat the Buccaneers?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873012",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 39,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Ravens beat the Bengals?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873016",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 82,
-   "t": "2026-10-25T17:00:00Z",
-   "q": "Will the Texans beat the Giants?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873019",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 34,
-   "t": "2026-10-25T20:05:00Z",
-   "q": "Will the Cardinals beat the Broncos?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873020",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 62,
-   "t": "2026-10-25T20:25:00Z",
-   "q": "Will the Lions beat the Packers?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873021",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 39,
-   "t": "2026-10-25T20:25:00Z",
-   "q": "Will the Raiders beat the Rams?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873022",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 61,
-   "t": "2026-10-26T00:20:00Z",
-   "q": "Will the Seahawks beat the Chiefs?",
-   "src": "ESPN point spread"
-  },
   {
    "id": "nfl_401873009",
    "c": "Sports",
@@ -122,16 +14,124 @@
    "id": "nfl_401873023",
    "c": "Sports",
    "tag": "NFL",
-   "px": 61,
+   "px": 62,
    "t": "2026-10-30T00:15:00Z",
    "q": "Will the Packers beat the Panthers?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873026",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 62,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Bills beat the Ravens?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873031",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 81,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Bengals beat the Titans?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873024",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 72,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Cowboys beat the Cardinals?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873030",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 61,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Lions beat the Vikings?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873029",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 55,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Jets beat the Raiders?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873027",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 62,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Steelers beat the Browns?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873025",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 55,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Buccaneers beat the Falcons?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873028",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 75,
+   "t": "2026-11-01T18:00:00Z",
+   "q": "Will the Jaguars beat the Colts?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873032",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 73,
+   "t": "2026-11-01T21:05:00Z",
+   "q": "Will the Rams beat the Chargers?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873033",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 45,
+   "t": "2026-11-01T21:25:00Z",
+   "q": "Will the Broncos beat the Chiefs?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873034",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 25,
+   "t": "2026-11-01T21:25:00Z",
+   "q": "Will the Dolphins beat the Patriots?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nfl_401873035",
+   "c": "Sports",
+   "tag": "NFL",
+   "px": 62,
+   "t": "2026-11-02T01:20:00Z",
+   "q": "Will the Commanders beat the Eagles?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856844",
    "c": "Sports",
    "tag": "College football",
-   "px": 59,
+   "px": 45,
    "t": "2026-10-30T23:30:00Z",
    "q": "Will UCF beat Baylor?",
    "src": "ESPN point spread"
@@ -142,25 +142,16 @@
    "tag": "College football",
    "px": 3,
    "t": "2026-10-31T16:00:00Z",
-   "q": "Will Navy beat No. 4 Notre Dame?",
+   "q": "Will Navy beat No. 5 Notre Dame?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856842",
    "c": "Sports",
    "tag": "College football",
-   "px": 66,
-   "t": "2026-10-31T16:00:00Z",
-   "q": "Will No. 8 Texas Tech beat No. 25 Arizona?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cfb_401858502",
-   "c": "Sports",
-   "tag": "College football",
    "px": 62,
    "t": "2026-10-31T16:00:00Z",
-   "q": "Will No. 15 Iowa beat Wisconsin?",
+   "q": "Will No. 13 Texas Tech beat No. 22 Arizona?",
    "src": "ESPN point spread"
   },
   {
@@ -169,35 +160,44 @@
    "tag": "College football",
    "px": 20,
    "t": "2026-10-31T16:00:00Z",
-   "q": "Will Syracuse beat No. 23 SMU?",
+   "q": "Will Syracuse beat No. 19 SMU?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cfb_401858502",
+   "c": "Sports",
+   "tag": "College football",
+   "px": 62,
+   "t": "2026-10-31T16:00:00Z",
+   "q": "Will Iowa beat No. 25 Wisconsin?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858277",
    "c": "Sports",
    "tag": "College football",
-   "px": 59,
+   "px": 77,
    "t": "2026-10-31T16:00:00Z",
    "q": "Will NC State beat California?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858279",
    "c": "Sports",
    "tag": "College football",
-   "px": 68,
+   "px": 75,
    "t": "2026-10-31T16:00:00Z",
    "q": "Will Duke beat Boston College?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858503",
    "c": "Sports",
    "tag": "College football",
-   "px": 26,
+   "px": 41,
    "t": "2026-10-31T16:00:00Z",
    "q": "Will Maryland beat Illinois?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858507",
@@ -212,36 +212,27 @@
    "id": "cfb_401856735",
    "c": "Sports",
    "tag": "College football",
-   "px": 84,
+   "px": 88,
    "t": "2026-10-31T16:45:00Z",
-   "q": "Will No. 7 Ole Miss beat Auburn?",
+   "q": "Will No. 12 Ole Miss beat Auburn?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856846",
    "c": "Sports",
    "tag": "College football",
-   "px": 26,
+   "px": 41,
    "t": "2026-10-31T18:00:00Z",
    "q": "Will Colorado beat Kansas St?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858283",
    "c": "Sports",
    "tag": "College football",
-   "px": 60,
+   "px": 96,
    "t": "2026-10-31T19:15:00Z",
    "q": "Will Louisville beat Stanford?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cfb_401856843",
-   "c": "Sports",
-   "tag": "College football",
-   "px": 89,
-   "t": "2026-10-31T19:30:00Z",
-   "q": "Will No. 2 BYU beat Arizona St?",
    "src": "ESPN point spread"
   },
   {
@@ -250,35 +241,44 @@
    "tag": "College football",
    "px": 82,
    "t": "2026-10-31T19:30:00Z",
-   "q": "Will No. 5 Georgia beat No. 20 Florida?",
+   "q": "Will No. 3 Georgia beat No. 17 Florida?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858501",
    "c": "Sports",
    "tag": "College football",
-   "px": 95,
+   "px": 94,
    "t": "2026-10-31T19:30:00Z",
-   "q": "Will No. 6 Indiana beat Minnesota?",
+   "q": "Will No. 4 Indiana beat Minnesota?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cfb_401856843",
+   "c": "Sports",
+   "tag": "College football",
+   "px": 90,
+   "t": "2026-10-31T19:30:00Z",
+   "q": "Will No. 8 BYU beat Arizona St?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858505",
    "c": "Sports",
    "tag": "College football",
-   "px": 66,
+   "px": 62,
    "t": "2026-10-31T19:30:00Z",
-   "q": "Will Oregon beat No. 24 Northwestern?",
+   "q": "Will Oregon beat No. 20 Northwestern?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856845",
    "c": "Sports",
    "tag": "College football",
-   "px": 53,
+   "px": 69,
    "t": "2026-10-31T19:30:00Z",
    "q": "Will TCU beat Kansas?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856848",
@@ -286,7 +286,7 @@
    "tag": "College football",
    "px": 28,
    "t": "2026-10-31T19:45:00Z",
-   "q": "Will Cincinnati beat No. 10 Utah?",
+   "q": "Will Cincinnati beat No. 6 Utah?",
    "src": "ESPN point spread"
   },
   {
@@ -295,16 +295,16 @@
    "tag": "College football",
    "px": 88,
    "t": "2026-10-31T19:45:00Z",
-   "q": "Will No. 17 Wake Forest beat Virginia?",
+   "q": "Will No. 14 Wake Forest beat Virginia?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858508",
    "c": "Sports",
    "tag": "College football",
-   "px": 97,
+   "px": 96,
    "t": "2026-10-31T20:15:00Z",
-   "q": "Will No. 9 UCLA beat Nevada?",
+   "q": "Will No. 7 UCLA beat Nevada?",
    "src": "ESPN point spread"
   },
   {
@@ -320,25 +320,25 @@
    "id": "cfb_401858506",
    "c": "Sports",
    "tag": "College football",
-   "px": 53,
+   "px": 75,
    "t": "2026-10-31T20:15:00Z",
    "q": "Will Penn State beat Purdue?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856847",
    "c": "Sports",
    "tag": "College football",
-   "px": 26,
+   "px": 19,
    "t": "2026-10-31T23:00:00Z",
-   "q": "Will Iowa State beat Oklahoma St?",
-   "src": "team records (no betting line yet)"
+   "q": "Will Iowa State beat No. 24 Oklahoma St?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858280",
    "c": "Sports",
    "tag": "College football",
-   "px": 69,
+   "px": 70,
    "t": "2026-10-31T23:00:00Z",
    "q": "Will Florida St beat Clemson?",
    "src": "ESPN point spread"
@@ -347,7 +347,7 @@
    "id": "cfb_401858282",
    "c": "Sports",
    "tag": "College football",
-   "px": 8,
+   "px": 11,
    "t": "2026-10-31T23:30:00Z",
    "q": "Will North Carolina beat No. 1 Miami?",
    "src": "ESPN point spread"
@@ -358,7 +358,7 @@
    "tag": "College football",
    "px": 27,
    "t": "2026-10-31T23:30:00Z",
-   "q": "Will No. 16 USC beat No. 3 Ohio State?",
+   "q": "Will USC beat No. 2 Ohio State?",
    "src": "ESPN point spread"
   },
   {
@@ -367,32 +367,32 @@
    "tag": "College football",
    "px": 95,
    "t": "2026-10-31T23:30:00Z",
-   "q": "Will No. 19 Texas beat Mississippi St?",
+   "q": "Will No. 11 Texas beat Mississippi St?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858281",
    "c": "Sports",
    "tag": "College football",
-   "px": 84,
+   "px": 75,
    "t": "2026-10-31T23:30:00Z",
    "q": "Will Pitt beat Georgia Tech?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cfb_401856733",
    "c": "Sports",
    "tag": "College football",
-   "px": 18,
+   "px": 19,
    "t": "2026-10-31T23:45:00Z",
-   "q": "Will Arkansas beat No. 22 Missouri?",
+   "q": "Will Arkansas beat No. 23 Missouri?",
    "src": "ESPN point spread"
   },
   {
    "id": "cfb_401858504",
    "c": "Sports",
    "tag": "College football",
-   "px": 80,
+   "px": 77,
    "t": "2026-11-01T00:00:00Z",
    "q": "Will Nebraska beat Washington?",
    "src": "ESPN point spread"
@@ -401,10 +401,10 @@
    "id": "cfb_401860908",
    "c": "Sports",
    "tag": "College football",
-   "px": 85,
+   "px": 84,
    "t": "2026-11-01T02:00:00Z",
-   "q": "Will No. 21 Boise St beat Texas St?",
-   "src": "team records (no betting line yet)"
+   "q": "Will No. 20 Boise St beat Texas St?",
+   "src": "ESPN point spread"
   },
   {
    "id": "mlb_401908044",
@@ -421,6 +421,15 @@
    "tag": "MLB",
    "px": 50,
    "t": "2026-10-28T00:00:00Z",
+   "q": "Will the Rays beat the Brewers?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "mlb_401908046",
+   "c": "Sports",
+   "tag": "MLB",
+   "px": 50,
+   "t": "2026-10-29T00:00:00Z",
    "q": "Will the Rays beat the Brewers?",
    "src": "team records (no betting line yet)"
   },
@@ -497,49 +506,40 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "nhl_401892578",
+   "id": "p_mlb_401908046_4905921_homeRuns",
    "c": "Sports",
-   "tag": "NHL",
-   "px": 29,
-   "t": "2026-10-25T19:00:00Z",
-   "q": "Will the Blackhawks beat the Panthers?",
-   "src": "team records (no betting line yet)"
+   "tag": "MLB player stats",
+   "px": 23,
+   "t": "2026-10-29T00:00:00Z",
+   "q": "Will Junior Caminero hit a home run against the Brewers?",
+   "src": "ESPN season stat leaders"
   },
   {
-   "id": "nhl_401892579",
+   "id": "p_mlb_401908046_4905921_RBIs",
    "c": "Sports",
-   "tag": "NHL",
-   "px": 58,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will the Stars beat the Islanders?",
-   "src": "team records (no betting line yet)"
+   "tag": "MLB player stats",
+   "px": 43,
+   "t": "2026-10-29T00:00:00Z",
+   "q": "Will Junior Caminero drive in a run against the Brewers?",
+   "src": "ESPN season stat leaders"
   },
   {
-   "id": "nhl_401891807",
+   "id": "p_mlb_401908046_35013_homeRuns",
    "c": "Sports",
-   "tag": "NHL",
-   "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will the Jets beat the Canadiens?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892580",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 44,
-   "t": "2026-10-26T00:00:00Z",
-   "q": "Will the Predators beat the Avalanche?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892581",
-   "c": "Sports",
-   "tag": "NHL",
+   "tag": "MLB player stats",
    "px": 15,
-   "t": "2026-10-26T02:00:00Z",
-   "q": "Will the Canucks beat the Wild?",
-   "src": "team records (no betting line yet)"
+   "t": "2026-10-29T00:00:00Z",
+   "q": "Will Jake Bauers hit a home run against the Rays?",
+   "src": "ESPN season stat leaders"
+  },
+  {
+   "id": "p_mlb_401908046_41179_RBIs",
+   "c": "Sports",
+   "tag": "MLB player stats",
+   "px": 43,
+   "t": "2026-10-29T00:00:00Z",
+   "q": "Will Brice Turang drive in a run against the Rays?",
+   "src": "ESPN season stat leaders"
   },
   {
    "id": "nhl_401892582",
@@ -590,7 +590,7 @@
    "id": "nhl_401892587",
    "c": "Sports",
    "tag": "NHL",
-   "px": 49,
+   "px": 46,
    "t": "2026-10-28T00:00:00Z",
    "q": "Will the Blackhawks beat the Kings?",
    "src": "team records (no betting line yet)"
@@ -599,7 +599,7 @@
    "id": "nhl_401892588",
    "c": "Sports",
    "tag": "NHL",
-   "px": 43,
+   "px": 39,
    "t": "2026-10-28T00:00:00Z",
    "q": "Will the Blues beat the Canadiens?",
    "src": "team records (no betting line yet)"
@@ -608,7 +608,7 @@
    "id": "nhl_401892589",
    "c": "Sports",
    "tag": "NHL",
-   "px": 43,
+   "px": 53,
    "t": "2026-10-28T00:00:00Z",
    "q": "Will the Predators beat the Islanders?",
    "src": "team records (no betting line yet)"
@@ -617,7 +617,7 @@
    "id": "nhl_401892590",
    "c": "Sports",
    "tag": "NHL",
-   "px": 54,
+   "px": 58,
    "t": "2026-10-28T00:00:00Z",
    "q": "Will the Stars beat the Devils?",
    "src": "team records (no betting line yet)"
@@ -626,7 +626,7 @@
    "id": "nhl_401892591",
    "c": "Sports",
    "tag": "NHL",
-   "px": 53,
+   "px": 45,
    "t": "2026-10-28T00:00:00Z",
    "q": "Will the Jets beat the Panthers?",
    "src": "team records (no betting line yet)"
@@ -635,7 +635,7 @@
    "id": "nhl_401892592",
    "c": "Sports",
    "tag": "NHL",
-   "px": 53,
+   "px": 50,
    "t": "2026-10-28T01:00:00Z",
    "q": "Will the Mammoth beat the Wild?",
    "src": "team records (no betting line yet)"
@@ -653,7 +653,7 @@
    "id": "nhl_401892594",
    "c": "Sports",
    "tag": "NHL",
-   "px": 79,
+   "px": 81,
    "t": "2026-10-28T02:00:00Z",
    "q": "Will the Ducks beat the Canucks?",
    "src": "team records (no betting line yet)"
@@ -668,408 +668,480 @@
    "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401909861",
+   "id": "nhl_401892596",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 27,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will the Jazz beat the Lakers?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 77,
+   "t": "2026-10-28T23:30:00Z",
+   "q": "Will the Capitals beat the Flyers?",
+   "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401909862",
+   "id": "nhl_401892597",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 27,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will the Nets beat the Pacers?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 87,
+   "t": "2026-10-29T00:30:00Z",
+   "q": "Will the Oilers beat the Flames?",
+   "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401909863",
+   "id": "nhl_401892598",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 75,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will the Knicks beat the Magic?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 43,
+   "t": "2026-10-29T01:00:00Z",
+   "q": "Will the Avalanche beat the Devils?",
+   "src": "team records (no betting line yet)"
   },
   {
-   "id": "nba_401909864",
+   "id": "nhl_401892599",
    "c": "Sports",
-   "tag": "NBA",
-   "px": 56,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will the Timberwolves beat the Raptors?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nba_401909865",
-   "c": "Sports",
-   "tag": "NBA",
-   "px": 91,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will the Thunder beat the Clippers?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nba_401909866",
-   "c": "Sports",
-   "tag": "NBA",
-   "px": 59,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will the 76ers beat the Pistons?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nba_401909867",
-   "c": "Sports",
-   "tag": "NBA",
-   "px": 34,
-   "t": "2026-10-26T01:00:00Z",
-   "q": "Will the Kings beat the Grizzlies?",
-   "src": "ESPN point spread"
+   "tag": "NHL",
+   "px": 54,
+   "t": "2026-10-29T02:00:00Z",
+   "q": "Will the Kraken beat the Maple Leafs?",
+   "src": "team records (no betting line yet)"
   },
   {
    "id": "nba_401909868",
    "c": "Sports",
    "tag": "NBA",
-   "px": 53,
+   "px": 59,
    "t": "2026-10-26T23:00:00Z",
    "q": "Will the Hornets beat the Wizards?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909869",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 63,
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will the Cavaliers beat the Timberwolves?",
+   "src": "ESPN point spread"
   },
   {
    "id": "nba_401909870",
    "c": "Sports",
    "tag": "NBA",
-   "px": 70,
+   "px": 90,
    "t": "2026-10-26T23:30:00Z",
    "q": "Will the Celtics beat the Bulls?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909871",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 78,
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will the Heat beat the Mavericks?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909872",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 34,
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will the Bucks beat the Pacers?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909873",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 83,
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will the Thunder beat the Suns?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909874",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 70,
+   "t": "2026-10-27T00:30:00Z",
+   "q": "Will the Rockets beat the Hawks?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909875",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 56,
+   "t": "2026-10-27T01:00:00Z",
+   "q": "Will the Jazz beat the Grizzlies?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909876",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 75,
+   "t": "2026-10-27T02:00:00Z",
+   "q": "Will the Nuggets beat the Warriors?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "nba_401909882",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 36,
+   "t": "2026-10-28T23:00:00Z",
+   "q": "Will the Cavaliers beat the Wizards?",
    "src": "team records (no betting line yet)"
   },
   {
-   "id": "p_nba_401909861_4433627_pointsPerGame",
+   "id": "nba_401909884",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 43,
+   "t": "2026-10-28T23:00:00Z",
+   "q": "Will the Pacers beat the 76ers?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401909885",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 83,
+   "t": "2026-10-28T23:30:00Z",
+   "q": "Will the Raptors beat the Magic?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401909890",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 53,
+   "t": "2026-10-29T01:00:00Z",
+   "q": "Will the Jazz beat the Spurs?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "p_nba_401909868_4396971_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will Keyonte George have 20+ points against the Lakers?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Naz Reid have 20+ points against the Wizards?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909861_4066336_reboundsPerGame",
+   "id": "p_nba_401909868_4396971_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will Lauri Markkanen have 8+ rebounds against the Lakers?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Naz Reid have 9+ rebounds against the Wizards?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909861_4433627_assistsPerGame",
+   "id": "p_nba_401909868_3032979_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will Keyonte George have 8+ assists against the Lakers?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Dennis Schroder have 4+ assists against the Wizards?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909861_3945274_pointsPerGame",
+   "id": "p_nba_401909868_4277905_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will Luka Doncic have 26+ points against the Jazz?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Trae Young have 22+ points against the Hornets?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909861_4433136_reboundsPerGame",
+   "id": "p_nba_401909868_4432907_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will Walker Kessler have 8+ rebounds against the Jazz?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Justin Champagnie have 9+ rebounds against the Hornets?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909861_4066457_assistsPerGame",
+   "id": "p_nba_401909868_4277905_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T21:00:00Z",
-   "q": "Will Austin Reaves have 8+ assists against the Jazz?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Trae Young have 11+ assists against the Hornets?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909862_3064514_pointsPerGame",
+   "id": "p_nba_401909869_3908809_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will Julius Randle have 28+ points against the Pacers?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Donovan Mitchell have 27+ points against the Timberwolves?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909862_4278104_reboundsPerGame",
+   "id": "p_nba_401909869_4432158_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will Michael Porter Jr. have 8+ rebounds against the Pacers?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Evan Mobley have 9+ rebounds against the Timberwolves?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909862_3064514_assistsPerGame",
+   "id": "p_nba_401909869_3992_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will Julius Randle have 6+ assists against the Pacers?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will James Harden have 6+ assists against the Timberwolves?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909862_3149673_pointsPerGame",
+   "id": "p_nba_401909869_4594268_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will Pascal Siakam have 26+ points against the Nets?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Anthony Edwards have 29+ points against the Cavaliers?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909862_4017837_reboundsPerGame",
+   "id": "p_nba_401909869_3032976_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will Ivica Zubac have 13+ rebounds against the Nets?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will Rudy Gobert have 12+ rebounds against the Cavaliers?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909862_4396993_assistsPerGame",
+   "id": "p_nba_401909869_4432816_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T22:00:00Z",
-   "q": "Will Tyrese Haliburton have 10+ assists against the Nets?",
+   "t": "2026-10-26T23:00:00Z",
+   "q": "Will LaMelo Ball have 6+ assists against the Cavaliers?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909863_3136195_pointsPerGame",
+   "id": "p_nba_401909870_4251_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Karl-Anthony Towns have 20+ points against the Magic?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Paul George have 26+ points against the Bulls?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909863_3136195_reboundsPerGame",
+   "id": "p_nba_401909870_4065648_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Karl-Anthony Towns have 11+ rebounds against the Magic?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Jayson Tatum have 6+ rebounds against the Bulls?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909863_3062679_assistsPerGame",
+   "id": "p_nba_401909870_4065648_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Josh Hart have 4+ assists against the Magic?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Jayson Tatum have 9+ assists against the Bulls?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909863_4277847_pointsPerGame",
+   "id": "p_nba_401909870_5095151_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Wendell Carter Jr. have 21+ points against the Knicks?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Caleb Wilson have 22+ points against the Celtics?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909863_4277847_reboundsPerGame",
+   "id": "p_nba_401909870_4397189_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Wendell Carter Jr. have 8+ rebounds against the Knicks?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Jalen Smith have 8+ rebounds against the Celtics?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909863_4432165_assistsPerGame",
+   "id": "p_nba_401909870_4871145_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Jalen Suggs have 6+ assists against the Knicks?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Josh Giddey have 8+ assists against the Celtics?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909864_4594268_pointsPerGame",
+   "id": "p_nba_401909871_3032977_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Anthony Edwards have 30+ points against the Raptors?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Giannis Antetokounmpo have 28+ points against the Mavericks?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909864_3032976_reboundsPerGame",
+   "id": "p_nba_401909871_3032977_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Rudy Gobert have 12+ rebounds against the Raptors?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Giannis Antetokounmpo have 8+ rebounds against the Mavericks?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909864_4397002_assistsPerGame",
+   "id": "p_nba_401909871_4278053_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Ayo Dosunmu have 6+ assists against the Raptors?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Davion Mitchell have 9+ assists against the Mavericks?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909864_4433134_pointsPerGame",
+   "id": "p_nba_401909871_6442_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Scottie Barnes have 26+ points against the Timberwolves?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Kyrie Irving have 20+ points against the Heat?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909864_4433134_reboundsPerGame",
+   "id": "p_nba_401909871_4278078_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Scottie Barnes have 10+ rebounds against the Timberwolves?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will P.J. Washington have 7+ rebounds against the Heat?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909864_4395724_assistsPerGame",
+   "id": "p_nba_401909871_4432107_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Immanuel Quickley have 6+ assists against the Timberwolves?",
+   "t": "2026-10-26T23:30:00Z",
+   "q": "Will Marcus Sasser have 3+ assists against the Heat?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909865_4278073_pointsPerGame",
+   "id": "p_nba_401909872_4395725_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Shai Gilgeous-Alexander have 24+ points against the Clippers?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Tyler Herro have 24+ points against the Pacers?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909865_4433255_reboundsPerGame",
+   "id": "p_nba_401909872_3134907_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Chet Holmgren have 12+ rebounds against the Clippers?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Kyle Kuzma have 9+ rebounds against the Pacers?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909865_4278073_assistsPerGame",
+   "id": "p_nba_401909872_4395725_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Shai Gilgeous-Alexander have 4+ assists against the Clippers?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Tyler Herro have 5+ assists against the Pacers?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909865_4396907_pointsPerGame",
+   "id": "p_nba_401909872_3149673_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Darius Garland have 28+ points against the Thunder?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Pascal Siakam have 25+ points against the Bucks?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909865_3448_reboundsPerGame",
+   "id": "p_nba_401909872_4017837_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Brook Lopez have 8+ rebounds against the Thunder?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Ivica Zubac have 9+ rebounds against the Bucks?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909865_2991139_assistsPerGame",
+   "id": "p_nba_401909872_4396993_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:00:00Z",
-   "q": "Will Kris Dunn have 6+ assists against the Thunder?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Tyrese Haliburton have 10+ assists against the Bucks?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909866_4431678_pointsPerGame",
+   "id": "p_nba_401909873_4278073_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will Tyrese Maxey have 29+ points against the Pistons?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Shai Gilgeous-Alexander have 28+ points against the Suns?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909866_3059318_reboundsPerGame",
+   "id": "p_nba_401909873_4433255_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will Joel Embiid have 10+ rebounds against the Pistons?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Chet Holmgren have 9+ rebounds against the Suns?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909866_3059318_assistsPerGame",
+   "id": "p_nba_401909873_2991350_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will Joel Embiid have 6+ assists against the Pistons?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Alex Caruso have 4+ assists against the Suns?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909866_3157465_pointsPerGame",
+   "id": "p_nba_401909873_3136193_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will Duncan Robinson have 19+ points against the 76ers?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Devin Booker have 33+ points against the Thunder?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909866_4278562_reboundsPerGame",
+   "id": "p_nba_401909873_5203685_reboundsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will Paul Reed have 8+ rebounds against the 76ers?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Khaman Maluach have 8+ rebounds against the Thunder?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909866_4432166_assistsPerGame",
+   "id": "p_nba_401909873_4278585_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
-   "t": "2026-10-25T23:30:00Z",
-   "q": "Will Cade Cunningham have 8+ assists against the 76ers?",
+   "t": "2026-10-27T00:00:00Z",
+   "q": "Will Collin Gillespie have 6+ assists against the Thunder?",
    "src": "ESPN season stat leaders"
   },
   {
@@ -1136,24 +1208,6 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "w_rain_20261025",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 3,
-   "t": "2026-10-26T04:59:00Z",
-   "q": "Will it rain in Houston on Sunday, Oct 25?",
-   "src": "National Weather Service"
-  },
-  {
-   "id": "w_hot_20261025",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 15,
-   "t": "2026-10-26T04:59:00Z",
-   "q": "Will Houston hit a high of 85\u00b0F or more on Sunday, Oct 25?",
-   "src": "National Weather Service"
-  },
-  {
    "id": "w_rain_20261026",
    "c": "Random",
    "tag": "Weather",
@@ -1175,7 +1229,7 @@
    "id": "w_rain_20261027",
    "c": "Random",
    "tag": "Weather",
-   "px": 5,
+   "px": 12,
    "t": "2026-10-28T04:59:00Z",
    "q": "Will it rain in Houston on Tuesday, Oct 27?",
    "src": "National Weather Service"
@@ -1193,7 +1247,7 @@
    "id": "w_rain_20261028",
    "c": "Random",
    "tag": "Weather",
-   "px": 16,
+   "px": 19,
    "t": "2026-10-29T04:59:00Z",
    "q": "Will it rain in Houston on Wednesday, Oct 28?",
    "src": "National Weather Service"
@@ -1205,6 +1259,24 @@
    "px": 32,
    "t": "2026-10-29T04:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Wednesday, Oct 28?",
+   "src": "National Weather Service"
+  },
+  {
+   "id": "w_rain_20261029",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "t": "2026-10-30T04:59:00Z",
+   "q": "Will it rain in Houston on Thursday, Oct 29?",
+   "src": "National Weather Service"
+  },
+  {
+   "id": "w_hot_20261029",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 15,
+   "t": "2026-10-30T04:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Thursday, Oct 29?",
    "src": "National Weather Service"
   },
   {
@@ -1220,7 +1292,7 @@
    "id": "r_senate",
    "c": "Politics",
    "tag": "Politics",
-   "px": 67,
+   "px": 66,
    "t": "2026-11-04T06:00:00Z",
    "q": "Will Democrats win control of the U.S. Senate in the Nov 3 midterms?",
    "src": "Polymarket"
@@ -1247,7 +1319,7 @@
    "id": "pm_2589812",
    "c": "Politics",
    "tag": "Politics",
-   "px": 96,
+   "px": 95,
    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
    "t": "2026-10-29T03:59:00Z",
    "src": "Polymarket"
@@ -1262,21 +1334,102 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_4824600",
+   "id": "pm_562802",
    "c": "Politics",
    "tag": "Politics",
-   "px": 52,
-   "q": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
-   "t": "2026-10-25T23:59:00Z",
+   "px": 92,
+   "q": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+   "t": "2026-11-04T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_4824602",
+   "id": "pm_562803",
    "c": "Politics",
    "tag": "Politics",
-   "px": 48,
-   "q": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
-   "t": "2026-10-25T23:59:00Z",
+   "px": 8,
+   "q": "Will the Republican Party control the House after the 2026 Midterm elections?",
+   "t": "2026-11-04T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_682708",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 56,
+   "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+   "t": "2026-10-28T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_682705",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 26,
+   "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+   "t": "2026-10-28T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_682706",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 12,
+   "q": "Will Naftali Bennett be the next Prime Minister of Israel?",
+   "t": "2026-10-28T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686982",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 94,
+   "q": "US x Iran ceasefire continues through October 28?",
+   "t": "2026-10-29T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4641065",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 86,
+   "q": "US x Iran ceasefire continues through October 31?",
+   "t": "2026-10-31T23:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686980",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 66,
+   "q": "US x Iran ceasefire continues through November 8?",
+   "t": "2026-11-09T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5190747",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 52,
+   "q": "US x Iran ceasefire continues through November 15?",
+   "t": "2026-11-16T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686978",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 42,
+   "q": "US x Iran ceasefire continues through November 22?",
+   "t": "2026-11-23T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4713483",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 38,
+   "q": "US x Iran ceasefire continues through November 30?",
+   "t": "2026-11-30T23:59:00Z",
    "src": "Polymarket"
   },
   {
@@ -1307,226 +1460,10 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_5340071",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 48,
-   "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5340070",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 28,
-   "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5340072",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 18,
-   "q": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5340069",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 4,
-   "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8\u201312%?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686982",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 90,
-   "q": "US x Iran ceasefire continues through October 28?",
-   "t": "2026-10-29T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4641065",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 82,
-   "q": "US x Iran ceasefire continues through October 31?",
-   "t": "2026-10-31T23:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686980",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 62,
-   "q": "US x Iran ceasefire continues through November 8?",
-   "t": "2026-11-09T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5190747",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 48,
-   "q": "US x Iran ceasefire continues through November 15?",
-   "t": "2026-11-16T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686978",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 40,
-   "q": "US x Iran ceasefire continues through November 22?",
-   "t": "2026-11-23T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4713483",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 36,
-   "q": "US x Iran ceasefire continues through November 30?",
-   "t": "2026-11-30T23:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6051332",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 58,
-   "q": "Will Bitcoin reach $82,500 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5170739",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 46,
-   "q": "Will Bitcoin dip to $77,500 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5407561",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 24,
-   "q": "Will Bitcoin reach $85,000 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5170740",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 18,
-   "q": "Will Bitcoin dip to $75,000 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5170735",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 8,
-   "q": "Will Bitcoin reach $87,500 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5170741",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 7,
-   "q": "Will Bitcoin dip to $72,500 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_679018",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 45,
-   "q": "Will Marine Le Pen win the 2027 French presidential election?",
-   "t": "2027-04-19T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_679021",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 16,
-   "q": "Will \u00c9douard Philippe win the 2027 French presidential election?",
-   "t": "2027-04-19T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_679022",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 14,
-   "q": "Will David Lisnard win the 2027 French presidential election?",
-   "t": "2027-04-19T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_679030",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 12,
-   "q": "Will Jean-Luc M\u00e9lenchon win the 2027 French presidential election?",
-   "t": "2027-04-19T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_679029",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 3,
-   "q": "Will Rapha\u00ebl Glucksmann win the 2027 French presidential election?",
-   "t": "2027-04-19T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_682708",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 51,
-   "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-   "t": "2026-10-28T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_682705",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 28,
-   "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-   "t": "2026-10-28T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_682706",
-   "c": "Politics",
-   "tag": "Politics",
-   "px": 14,
-   "q": "Will Naftali Bennett be the next Prime Minister of Israel?",
-   "t": "2026-10-28T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
    "id": "pm_2100984",
    "c": "Politics",
    "tag": "Politics",
-   "px": 68,
+   "px": 70,
    "q": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
    "t": "2026-10-28T03:59:00Z",
    "src": "Polymarket"
@@ -1535,81 +1472,297 @@
    "id": "pm_2100981",
    "c": "Politics",
    "tag": "Politics",
-   "px": 32,
+   "px": 28,
    "q": "Will Likud win the most seats in the 2026 Israeli legislative election?",
    "t": "2026-10-28T03:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_559653",
+   "id": "pm_561229",
    "c": "Politics",
    "tag": "Politics",
-   "px": 17,
-   "q": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+   "px": 20,
+   "q": "Will JD Vance win the 2028 US Presidential Election?",
    "t": "2028-11-08T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_559652",
+   "id": "pm_561231",
    "c": "Politics",
    "tag": "Politics",
-   "px": 17,
-   "q": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+   "px": 13,
+   "q": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
    "t": "2028-11-08T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_559661",
+   "id": "pm_561230",
    "c": "Politics",
    "tag": "Politics",
-   "px": 16,
-   "q": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+   "px": 12,
+   "q": "Will Gavin Newsom win the 2028 US Presidential Election?",
    "t": "2028-11-08T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5889110",
+   "id": "pm_561261",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 9,
+   "q": "Will Jon Ossoff win the 2028 US Presidential Election?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_561234",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 9,
+   "q": "Will Marco Rubio win the 2028 US Presidential Election?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_561239",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 4,
+   "q": "Will Kamala Harris win the 2028 US Presidential Election?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_561974",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 38,
+   "q": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_561975",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 18,
+   "q": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_561979",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 3,
+   "q": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_561996",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 3,
+   "q": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+   "t": "2028-11-08T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5929064",
    "c": "Economics",
    "tag": "Crypto",
-   "px": 82,
-   "q": "Will the price of Bitcoin be above $80,000 on October 25?",
-   "t": "2026-10-25T16:00:00Z",
+   "px": 69,
+   "q": "Will the price of Bitcoin be above $80,000 on October 26?",
+   "t": "2026-10-26T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5929066",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 5,
+   "q": "Will the price of Bitcoin be above $82,000 on October 26?",
+   "t": "2026-10-26T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6051332",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 55,
+   "q": "Will Bitcoin reach $82,500 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5170739",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 40,
+   "q": "Will Bitcoin dip to $77,500 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5407561",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 20,
+   "q": "Will Bitcoin reach $85,000 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5170740",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 14,
+   "q": "Will Bitcoin dip to $75,000 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5170735",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 6,
+   "q": "Will Bitcoin reach $87,500 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5170741",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 5,
+   "q": "Will Bitcoin dip to $72,500 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_703257",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 4,
+   "q": "Will the US confirm that aliens exist before 2027?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_679018",
+   "c": "Politics",
+   "tag": "Politics",
+   "px": 44,
+   "q": "Will Marine Le Pen win the 2027 French presidential election?",
+   "t": "2027-04-19T03:59:00Z",
    "src": "Polymarket"
   },
   {
    "id": "pm_559651",
    "c": "Politics",
    "tag": "World",
-   "px": 3,
+   "px": 4,
    "q": "Xi Jinping out before 2027?",
    "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6140566",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 70,
-   "q": "Will Bitcoin dip to $80,000 October 19-25?",
-   "t": "2026-10-26T04:00:00Z",
+   "id": "pm_6027089",
+   "c": "Politics",
+   "tag": "World",
+   "px": 96,
+   "q": "Israel x Iran ceasefire continues through October 27?",
+   "t": "2026-10-28T03:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6085943",
+   "id": "pm_3399459",
+   "c": "Politics",
+   "tag": "World",
+   "px": 90,
+   "q": "Israel x Iran ceasefire continues through October 31?",
+   "t": "2026-10-31T20:29:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5339986",
+   "c": "Politics",
+   "tag": "World",
+   "px": 62,
+   "q": "Israel x Iran ceasefire continues through November 15?",
+   "t": "2026-11-16T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3902370",
+   "c": "Politics",
+   "tag": "World",
+   "px": 50,
+   "q": "Israel x Iran ceasefire continues through November 30?",
+   "t": "2026-11-30T20:29:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3399468",
+   "c": "Politics",
+   "tag": "World",
+   "px": 38,
+   "q": "Israel x Iran ceasefire continues through December 31?",
+   "t": "2026-12-31T20:29:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6085634",
    "c": "Economics",
-   "tag": "Crypto",
+   "tag": "Economy",
+   "px": 86,
+   "q": "Will WTI Crude Oil (WTI) hit (LOW) $100 in October?",
+   "t": "2026-11-01T03:59:59Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4951227",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 48,
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in October?",
+   "t": "2026-11-01T03:59:59Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5743142",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 32,
+   "q": "Will WTI Crude Oil (WTI) hit (LOW) $95 in October?",
+   "t": "2026-11-01T03:59:59Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4936102",
+   "c": "Economics",
+   "tag": "Economy",
    "px": 14,
-   "q": "Will Bitcoin reach $82,000 October 19-25?",
-   "t": "2026-10-26T04:00:00Z",
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in October?",
+   "t": "2026-11-01T03:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5912695",
+   "id": "pm_5612213",
    "c": "Economics",
-   "tag": "Crypto",
-   "px": 7,
-   "q": "Will Bitcoin dip to $78,000 October 19-25?",
-   "t": "2026-10-26T04:00:00Z",
+   "tag": "Economy",
+   "px": 9,
+   "q": "Will WTI Crude Oil (WTI) hit (LOW) $90 in October?",
+   "t": "2026-11-01T03:59:59Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4951229",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 3,
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in October?",
+   "t": "2026-11-01T03:59:59Z",
    "src": "Polymarket"
   },
   {
@@ -1643,7 +1796,7 @@
    "id": "pm_3865962",
    "c": "Economics",
    "tag": "Crypto",
-   "px": 24,
+   "px": 25,
    "q": "Will Bitcoin dip to $65,000 by December 31, 2026?",
    "t": "2027-01-01T05:00:00Z",
    "src": "Polymarket"
@@ -1667,326 +1820,29 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_6140696",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 47,
-   "q": "Will Ethereum dip to $2,300 October 19-25?",
-   "t": "2026-10-26T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6140697",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 14,
-   "q": "Will Ethereum reach $2,400 October 19-25?",
-   "t": "2026-10-26T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5912729",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 5,
-   "q": "Will Ethereum dip to $2,200 October 19-25?",
-   "t": "2026-10-26T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6027089",
-   "c": "Politics",
-   "tag": "World",
-   "px": 92,
-   "q": "Israel x Iran ceasefire continues through October 27?",
-   "t": "2026-10-28T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3399459",
-   "c": "Politics",
-   "tag": "World",
+   "id": "pm_3554659",
+   "c": "Random",
+   "tag": "AI",
    "px": 86,
-   "q": "Israel x Iran ceasefire continues through October 31?",
-   "t": "2026-10-31T20:29:00Z",
+   "q": "Will Google have the best AI model at the end of October 2026?",
+   "t": "2026-10-31T16:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5339986",
-   "c": "Politics",
-   "tag": "World",
-   "px": 64,
-   "q": "Israel x Iran ceasefire continues through November 15?",
-   "t": "2026-11-16T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3902370",
-   "c": "Politics",
-   "tag": "World",
-   "px": 48,
-   "q": "Israel x Iran ceasefire continues through November 30?",
-   "t": "2026-11-30T20:29:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3399468",
-   "c": "Politics",
-   "tag": "World",
-   "px": 38,
-   "q": "Israel x Iran ceasefire continues through December 31?",
-   "t": "2026-12-31T20:29:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_1393318",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 96,
-   "q": "Predict.fun FDV above $200M one day after launch?",
-   "t": "2028-01-01T05:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_1393319",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 94,
-   "q": "Predict.fun FDV above $300M one day after launch?",
-   "t": "2028-01-01T05:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_1393320",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 92,
-   "q": "Predict.fun FDV above $400M one day after launch?",
-   "t": "2028-01-01T05:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_1393321",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 88,
-   "q": "Predict.fun FDV above $500M one day after launch?",
-   "t": "2028-01-01T05:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_1393322",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 84,
-   "q": "Predict.fun FDV above $600M one day after launch?",
-   "t": "2028-01-01T05:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_1393323",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 76,
-   "q": "Predict.fun FDV above $800M one day after launch?",
-   "t": "2028-01-01T05:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6139608",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 67,
-   "q": "Will Ethereum reach $2,400 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5170789",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 40,
-   "q": "Will Ethereum dip to $2,200 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6051342",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 30,
-   "q": "Will Ethereum reach $2,500 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5170791",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 16,
-   "q": "Will Ethereum dip to $2,100 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5407572",
-   "c": "Economics",
-   "tag": "Crypto",
-   "px": 12,
-   "q": "Will Ethereum reach $2,600 in October?",
-   "t": "2026-11-01T04:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4951227",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 76,
-   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in October?",
-   "t": "2026-11-01T03:59:59Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6085634",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 58,
-   "q": "Will WTI Crude Oil (WTI) hit (LOW) $100 in October?",
-   "t": "2026-11-01T03:59:59Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4936102",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 31,
-   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in October?",
-   "t": "2026-11-01T03:59:59Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5743142",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 23,
-   "q": "Will WTI Crude Oil (WTI) hit (LOW) $95 in October?",
-   "t": "2026-11-01T03:59:59Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5612213",
-   "c": "Economics",
-   "tag": "Economy",
+   "id": "pm_3554657",
+   "c": "Random",
+   "tag": "AI",
    "px": 10,
-   "q": "Will WTI Crude Oil (WTI) hit (LOW) $90 in October?",
-   "t": "2026-11-01T03:59:59Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4951229",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 8,
-   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in October?",
-   "t": "2026-11-01T03:59:59Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4662585",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 16,
-   "q": "Will OpenAI announce bankruptcy by December 31, 2028?",
-   "t": "2029-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4662584",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 8,
-   "q": "Will OpenAI announce bankruptcy by December 31, 2027?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_616902",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 96,
-   "q": "Will no Fed rate cuts happen in 2026?",
-   "t": "2027-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5167167",
-   "c": "Politics",
-   "tag": "World",
-   "px": 92,
-   "q": "Will Russia target Kyiv on October 26, 2026?",
-   "t": "2026-10-27T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5167168",
-   "c": "Politics",
-   "tag": "World",
-   "px": 90,
-   "q": "Will Russia target Kyiv on October 27, 2026?",
-   "t": "2026-10-28T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5167169",
-   "c": "Politics",
-   "tag": "World",
-   "px": 90,
-   "q": "Will Russia target Kyiv on October 28, 2026?",
-   "t": "2026-10-29T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5167171",
-   "c": "Politics",
-   "tag": "World",
-   "px": 88,
-   "q": "Will Russia target Kyiv on October 30, 2026?",
-   "t": "2026-10-31T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5167170",
-   "c": "Politics",
-   "tag": "World",
-   "px": 88,
-   "q": "Will Russia target Kyiv on October 29, 2026?",
-   "t": "2026-10-30T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5167172",
-   "c": "Politics",
-   "tag": "World",
-   "px": 84,
-   "q": "Will Russia target Kyiv on October 31, 2026?",
-   "t": "2026-11-01T03:59:00Z",
+   "q": "Will Anthropic have the best AI model at the end of October 2026?",
+   "t": "2026-10-31T16:00:00Z",
    "src": "Polymarket"
   },
   {
    "id": "pm_2412747",
    "c": "Economics",
    "tag": "Economy",
-   "px": 30,
+   "px": 28,
    "q": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2412746",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 19,
-   "q": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?",
    "t": "2028-01-01T04:59:00Z",
    "src": "Polymarket"
   },
@@ -1994,8 +1850,17 @@
    "id": "pm_2412748",
    "c": "Economics",
    "tag": "Economy",
-   "px": 16,
+   "px": 20,
    "q": "Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?",
+   "t": "2028-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2412746",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 17,
+   "q": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?",
    "t": "2028-01-01T04:59:00Z",
    "src": "Polymarket"
   },
@@ -2009,15 +1874,6 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_2412745",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 9,
-   "q": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
    "id": "pm_2412744",
    "c": "Economics",
    "tag": "Economy",
@@ -2027,244 +1883,73 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_4412201",
-   "c": "Random",
-   "tag": "AI",
-   "px": 56,
-   "q": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4412200",
-   "c": "Random",
-   "tag": "AI",
-   "px": 14,
-   "q": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
-   "t": "2027-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3554659",
-   "c": "Random",
-   "tag": "AI",
-   "px": 90,
-   "q": "Will Google have the best AI model at the end of October 2026?",
-   "t": "2026-10-31T16:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3554657",
-   "c": "Random",
-   "tag": "AI",
-   "px": 8,
-   "q": "Will Anthropic have the best AI model at the end of October 2026?",
-   "t": "2026-10-31T16:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6075855",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 78,
-   "q": "Will the highest temperature in London be 14\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6075854",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 19,
-   "q": "Will the highest temperature in London be 13\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6075856",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 3,
-   "q": "Will the highest temperature in London be 15\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5713519",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 67,
-   "q": "Will \"Wildwood\" Opening Weekend Box Office be between 10m and 12m?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5713520",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 29,
-   "q": "Will \"Wildwood\" Opening Weekend Box Office be between 12m and 14m?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3215073",
-   "c": "Politics",
-   "tag": "World",
-   "px": 8,
-   "q": "Kharg Island no longer under Iranian control by December 31?",
-   "t": "2027-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4170752",
+   "id": "pm_2412745",
    "c": "Economics",
    "tag": "Economy",
-   "px": 74,
-   "q": "Will the Fed Hike\u2013Pause\u2013Hike in the next three decisions (Sep\u2013Oct\u2013Dec)?",
-   "t": "2026-12-09T23:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4170753",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 21,
-   "q": "Will the Fed Hike\u2013Pause\u2013Pause in the next three decisions (Sep\u2013Oct\u2013Dec)?",
-   "t": "2026-12-09T23:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2316998",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 26,
-   "q": "Will OpenAI's IPO valuation be less than $1T?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2317001",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 20,
-   "q": "Will OpenAI's IPO valuation be between $1.5T and $1.75T?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2317000",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 19,
-   "q": "Will OpenAI's IPO valuation be between $1.25T and $1.5T?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2317002",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 13,
-   "q": "Will OpenAI's IPO valuation be between $1.75T and $2.0T?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2316999",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 8,
-   "q": "Will OpenAI's IPO valuation be between $1.0T and $1.25T?",
-   "t": "2027-07-01T00:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2317003",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 7,
-   "q": "Will OpenAI's IPO valuation be between $2.0T and $2.25T?",
-   "t": "2028-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3059499",
-   "c": "Random",
-   "tag": "Culture",
    "px": 6,
-   "q": "New \"Stranger Things\" episode released by March 31, 2027?",
-   "t": "2027-04-01T03:59:00Z",
+   "q": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+   "t": "2028-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_2413330",
+   "id": "pm_6139608",
    "c": "Economics",
-   "tag": "Economy",
-   "px": 74,
-   "q": "Will Anthropic IPO by December 31, 2026?",
-   "t": "2027-01-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4319441",
-   "c": "Economics",
-   "tag": "Economy",
-   "px": 73,
-   "q": "Will Anthropic IPO by December 15, 2026?",
-   "t": "2026-12-16T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4319439",
-   "c": "Economics",
-   "tag": "Economy",
+   "tag": "Crypto",
    "px": 62,
-   "q": "Will Anthropic IPO by November 30, 2026?",
-   "t": "2026-12-01T04:59:00Z",
+   "q": "Will Ethereum reach $2,400 in October?",
+   "t": "2026-11-01T04:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6066697",
+   "id": "pm_5170789",
    "c": "Economics",
-   "tag": "Economy",
-   "px": 54,
-   "q": "Will Anthropic IPO by November 25, 2026?",
-   "t": "2026-11-26T04:59:00Z",
+   "tag": "Crypto",
+   "px": 36,
+   "q": "Will Ethereum dip to $2,200 in October?",
+   "t": "2026-11-01T04:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6066698",
+   "id": "pm_6051342",
    "c": "Economics",
-   "tag": "Economy",
-   "px": 22,
-   "q": "Will Anthropic IPO by November 20, 2026?",
-   "t": "2026-11-21T04:59:00Z",
+   "tag": "Crypto",
+   "px": 26,
+   "q": "Will Ethereum reach $2,500 in October?",
+   "t": "2026-11-01T04:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6073936",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 87,
-   "q": "Will the highest temperature in Paris be 16\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6073937",
-   "c": "Random",
-   "tag": "Weather",
+   "id": "pm_5170791",
+   "c": "Economics",
+   "tag": "Crypto",
    "px": 14,
-   "q": "Will the highest temperature in Paris be 17\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "q": "Will Ethereum dip to $2,100 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5407572",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 10,
+   "q": "Will Ethereum reach $2,600 in October?",
+   "t": "2026-11-01T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5170792",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 4,
+   "q": "Will Ethereum dip to $2,000 in October?",
+   "t": "2026-11-01T04:00:00Z",
    "src": "Polymarket"
   },
   {
    "id": "pm_3128768",
    "c": "Politics",
    "tag": "World",
-   "px": 39,
+   "px": 36,
    "q": "Iran full airspace closure by December 31?",
    "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
@@ -2279,102 +1964,210 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_6043817",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 65,
-   "q": "Will \"You Can See Everything\" 2nd Weekend Box Office be between $18M and $19.5M?",
-   "t": "2026-10-25T12:00:00Z",
+   "id": "pm_4319441",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 83,
+   "q": "Will Anthropic IPO by December 15, 2026?",
+   "t": "2026-12-16T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6043818",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 19,
-   "q": "Will \"You Can See Everything\" 2nd Weekend Box Office be between $19.5M and $21M?",
-   "t": "2026-10-25T12:00:00Z",
+   "id": "pm_2413330",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 82,
+   "q": "Will Anthropic IPO by December 31, 2026?",
+   "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6043819",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 8,
-   "q": "Will \"You Can See Everything\" 2nd Weekend Box Office be at least $21M?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6074081",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 88,
-   "q": "Will the highest temperature in Warsaw be 14\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6074082",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 11,
-   "q": "Will the highest temperature in Warsaw be 15\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6071857",
+   "id": "pm_4319439",
    "c": "Economics",
    "tag": "Economy",
    "px": 72,
-   "q": "Will the 5-year Treasury yield dip below 4.70% before 2027?",
-   "t": "2027-01-01T04:59:00Z",
+   "q": "Will Anthropic IPO by November 30, 2026?",
+   "t": "2026-12-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6071860",
+   "id": "pm_6066697",
    "c": "Economics",
    "tag": "Economy",
-   "px": 62,
-   "q": "Will the 5-year Treasury yield dip below 4.65% before 2027?",
+   "px": 51,
+   "q": "Will Anthropic IPO by November 25, 2026?",
+   "t": "2026-11-26T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6066698",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 36,
+   "q": "Will Anthropic IPO by November 20, 2026?",
+   "t": "2026-11-21T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5972414",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 93,
+   "q": "Will the price of Bitcoin be above $78,000 on October 27?",
+   "t": "2026-10-27T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5972417",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 58,
+   "q": "Will the price of Bitcoin be above $80,000 on October 27?",
+   "t": "2026-10-27T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5972420",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 16,
+   "q": "Will the price of Bitcoin be above $82,000 on October 27?",
+   "t": "2026-10-27T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3866000",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 80,
+   "q": "Will Ethereum dip to $2,250 by December 31, 2026?",
+   "t": "2027-01-01T05:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3865999",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 34,
+   "q": "Will Ethereum dip to $2,000 by December 31, 2026?",
+   "t": "2027-01-01T05:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2467356",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 24,
+   "q": "Will Ethereum reach $3,000 by December 31, 2026?",
+   "t": "2027-01-01T05:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3387867",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 14,
+   "q": "Will Ethereum dip to $1,750 by December 31, 2026?",
+   "t": "2027-01-01T05:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_701549",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 11,
+   "q": "Will Ethereum reach $3,500 by December 31, 2026?",
+   "t": "2027-01-01T05:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2467362",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 10,
+   "q": "Will Ethereum dip to $1,250 by December 31, 2026?",
+   "t": "2027-01-01T05:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6236257",
+   "c": "Economics",
+   "tag": "Crypto",
+   "px": 70,
+   "q": "Will Ethereum reach $2,350 on October 26?",
+   "t": "2026-10-27T04:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5325719",
+   "c": "Politics",
+   "tag": "World",
+   "px": 33,
+   "q": "Israel withdraws from Lebanon by December 31, 2027?",
+   "t": "2028-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5325721",
+   "c": "Politics",
+   "tag": "World",
+   "px": 20,
+   "q": "Israel withdraws from Lebanon by June 30, 2027?",
+   "t": "2027-07-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5325720",
+   "c": "Politics",
+   "tag": "World",
+   "px": 14,
+   "q": "Israel withdraws from Lebanon by March 31, 2027?",
+   "t": "2027-04-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2641019",
+   "c": "Politics",
+   "tag": "World",
+   "px": 3,
+   "q": "Israel withdraws from Lebanon by December 31, 2026?",
    "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6073992",
+   "id": "pm_2431413",
    "c": "Random",
-   "tag": "Weather",
-   "px": 49,
-   "q": "Will the highest temperature in Munich be 13\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "tag": "Tech",
+   "px": 52,
+   "q": "Will Anthropic have the best AI model at the end of December 2026?",
+   "t": "2026-12-31T17:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6073991",
+   "id": "pm_2431412",
    "c": "Random",
-   "tag": "Weather",
+   "tag": "Tech",
    "px": 36,
-   "q": "Will the highest temperature in Munich be 12\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "q": "Will Google have the best AI model at the end of December 2026?",
+   "t": "2026-12-31T17:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6073993",
+   "id": "pm_2431414",
    "c": "Random",
-   "tag": "Weather",
-   "px": 12,
-   "q": "Will the highest temperature in Munich be 14\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "tag": "Tech",
+   "px": 6,
+   "q": "Will OpenAI have the best AI model at the end of December 2026?",
+   "t": "2026-12-31T17:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6073990",
-   "c": "Random",
-   "tag": "Weather",
+   "id": "pm_3215073",
+   "c": "Politics",
+   "tag": "World",
    "px": 8,
-   "q": "Will the highest temperature in Munich be 11\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "q": "Kharg Island no longer under Iranian control by December 31?",
+   "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
@@ -2390,7 +2183,7 @@
    "id": "pm_4178411",
    "c": "Random",
    "tag": "AI",
-   "px": 32,
+   "px": 30,
    "q": "Next Fable Model (5.2+) released by October 31, 2026?",
    "t": "2026-10-31T23:59:00Z",
    "src": "Polymarket"
@@ -2408,7 +2201,7 @@
    "id": "pm_5998478",
    "c": "Random",
    "tag": "AI",
-   "px": 24,
+   "px": 28,
    "q": "Next Fable Model (5.2+) released by October 29, 2026?",
    "t": "2026-10-30T03:59:00Z",
    "src": "Polymarket"
@@ -2417,7 +2210,7 @@
    "id": "pm_5998477",
    "c": "Random",
    "tag": "AI",
-   "px": 22,
+   "px": 26,
    "q": "Next Fable Model (5.2+) released by October 28, 2026?",
    "t": "2026-10-29T03:59:00Z",
    "src": "Polymarket"
@@ -2426,133 +2219,277 @@
    "id": "pm_5998474",
    "c": "Random",
    "tag": "AI",
-   "px": 20,
+   "px": 22,
    "q": "Next Fable Model (5.2+) released by October 27, 2026?",
    "t": "2026-10-28T03:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6081440",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 46,
-   "q": "Will the highest temperature in Sao Paulo be 21\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "id": "pm_6172752",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 91,
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6081441",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 28,
-   "q": "Will the highest temperature in Sao Paulo be 22\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "id": "pm_6207377",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 73,
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6081442",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 18,
-   "q": "Will the highest temperature in Sao Paulo be 23\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "id": "pm_6207378",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 52,
+   "q": "Will WTI Crude Oil (WTI) hit (LOW) $95 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6081443",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 7,
-   "q": "Will the highest temperature in Sao Paulo be 24\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "id": "pm_6172751",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 51,
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_2431413",
+   "id": "pm_6172753",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 36,
+   "q": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+   "t": "2026-12-01T04:59:59Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6207379",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 35,
+   "q": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in November?",
+   "t": "2026-12-01T04:59:59Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_616902",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 96,
+   "q": "Will no Fed rate cuts happen in 2026?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5219332",
    "c": "Random",
-   "tag": "Tech",
+   "tag": "AI",
+   "px": 70,
+   "q": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
+   "t": "2026-11-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5219327",
+   "c": "Random",
+   "tag": "AI",
+   "px": 15,
+   "q": "Will the next Fable model (5.2+) be released on October 27, 2026?",
+   "t": "2026-10-28T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5219326",
+   "c": "Random",
+   "tag": "AI",
+   "px": 5,
+   "q": "Will the next Fable model (5.2+) be released on October 26, 2026?",
+   "t": "2026-10-27T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5219328",
+   "c": "Random",
+   "tag": "AI",
+   "px": 4,
+   "q": "Will the next Fable model (5.2+) be released on October 28, 2026?",
+   "t": "2026-10-29T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5219329",
+   "c": "Random",
+   "tag": "AI",
+   "px": 4,
+   "q": "Will the next Fable model (5.2+) be released on October 29, 2026?",
+   "t": "2026-10-30T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_609655",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 8,
+   "q": "US recession by end of 2026?",
+   "t": "2027-01-31T00:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6107227",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 58,
+   "q": "Will the highest temperature in Madrid be 24\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6107228",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 25,
+   "q": "Will the highest temperature in Madrid be 25\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6107226",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 16,
+   "q": "Will the highest temperature in Madrid be 23\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6123774",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 52,
+   "q": "Will the highest temperature in Buenos Aires be 18\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6123775",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 29,
+   "q": "Will the highest temperature in Buenos Aires be 19\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6123773",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 16,
+   "q": "Will the highest temperature in Buenos Aires be 17\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6123776",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "q": "Will the highest temperature in Buenos Aires be 20\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175239",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 53,
+   "q": "Will the highest temperature in Chongqing be 19\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175238",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 30,
+   "q": "Will the highest temperature in Chongqing be 18\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175240",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 12,
+   "q": "Will the highest temperature in Chongqing be 20\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175237",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "q": "Will the highest temperature in Chongqing be 17\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6171144",
+   "c": "Economics",
+   "tag": "Economy",
    "px": 50,
-   "q": "Will Anthropic have the best AI model at the end of December 2026?",
-   "t": "2026-12-31T17:00:00Z",
+   "q": "Will Apple (AAPL) hit (HIGH) $392 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_2431412",
-   "c": "Random",
-   "tag": "Tech",
-   "px": 38,
-   "q": "Will Google have the best AI model at the end of December 2026?",
-   "t": "2026-12-31T17:00:00Z",
+   "id": "pm_6171161",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 50,
+   "q": "Will Apple (AAPL) hit (LOW) $328 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_2431414",
-   "c": "Random",
-   "tag": "Tech",
-   "px": 6,
-   "q": "Will OpenAI have the best AI model at the end of December 2026?",
-   "t": "2026-12-31T17:00:00Z",
+   "id": "pm_6171159",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 50,
+   "q": "Will Apple (AAPL) hit (LOW) $336 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5686240",
-   "c": "Random",
-   "tag": "Awards",
-   "px": 88,
-   "q": "Will Anne Hathaway be nominated for Best Supporting Actress at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
+   "id": "pm_6171154",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 50,
+   "q": "Will Apple (AAPL) hit (HIGH) $352 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5686242",
-   "c": "Random",
-   "tag": "Awards",
-   "px": 76,
-   "q": "Will Pen\u00e9lope Cruz be nominated for Best Supporting Actress at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686244",
-   "c": "Random",
-   "tag": "Awards",
-   "px": 76,
-   "q": "Will Samantha Morton be nominated for Best Supporting Actress at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686247",
-   "c": "Random",
-   "tag": "Awards",
-   "px": 62,
-   "q": "Will Tao Okamoto be nominated for Best Supporting Actress at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686257",
-   "c": "Random",
-   "tag": "Awards",
-   "px": 44,
-   "q": "Will Amanda Seyfried be nominated for Best Supporting Actress at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5686253",
-   "c": "Random",
-   "tag": "Awards",
-   "px": 42,
-   "q": "Will Kate O'Flynn be nominated for Best Supporting Actress at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
+   "id": "pm_6171156",
+   "c": "Economics",
+   "tag": "Economy",
+   "px": 49,
+   "q": "Will Apple (AAPL) hit (LOW) $344 in November?",
+   "t": "2026-12-01T04:59:59Z",
    "src": "Polymarket"
   },
   {
    "id": "pm_3145011",
    "c": "Random",
    "tag": "Awards",
-   "px": 45,
+   "px": 47,
    "q": "Will The Odyssey win Best Picture at the 99th Academy Awards?",
    "t": "2027-07-01T03:59:00Z",
    "src": "Polymarket"
@@ -2570,7 +2507,7 @@
    "id": "pm_3145036",
    "c": "Random",
    "tag": "Awards",
-   "px": 14,
+   "px": 12,
    "q": "Will La Bola Negra win Best Picture at the 99th Academy Awards?",
    "t": "2027-03-14T23:59:00Z",
    "src": "Polymarket"
@@ -2579,7 +2516,7 @@
    "id": "pm_3145010",
    "c": "Random",
    "tag": "Awards",
-   "px": 7,
+   "px": 6,
    "q": "Will Dune: Part Three win Best Picture at the 99th Academy Awards?",
    "t": "2027-03-14T23:59:00Z",
    "src": "Polymarket"
@@ -2594,280 +2531,172 @@
    "src": "Polymarket"
   },
   {
-   "id": "pm_6074197",
+   "id": "pm_6107357",
    "c": "Random",
    "tag": "Weather",
-   "px": 74,
-   "q": "Will the highest temperature in Amsterdam be 13\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 90,
+   "q": "Will the highest temperature in Amsterdam be 13\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6074198",
+   "id": "pm_6107358",
    "c": "Random",
    "tag": "Weather",
-   "px": 25,
-   "q": "Will the highest temperature in Amsterdam be 14\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 8,
+   "q": "Will the highest temperature in Amsterdam be 14\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6074069",
+   "id": "pm_6107390",
    "c": "Random",
    "tag": "Weather",
-   "px": 67,
-   "q": "Will the highest temperature in Madrid be 22\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 95,
+   "q": "Will the highest temperature in Jeddah be 36\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6074068",
+   "id": "pm_6107391",
    "c": "Random",
    "tag": "Weather",
-   "px": 26,
-   "q": "Will the highest temperature in Madrid be 21\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 3,
+   "q": "Will the highest temperature in Jeddah be 37\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6074070",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 6,
-   "q": "Will the highest temperature in Madrid be 23\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3554475",
-   "c": "Politics",
-   "tag": "World",
-   "px": 66,
-   "q": "Will Xiaomi have the best Chinese AI model at the end of October 2026?",
-   "t": "2026-10-31T16:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3554472",
-   "c": "Politics",
-   "tag": "World",
-   "px": 24,
-   "q": "Will Moonshot have the best Chinese AI model at the end of October 2026?",
-   "t": "2026-10-31T16:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_3554471",
-   "c": "Politics",
-   "tag": "World",
-   "px": 7,
-   "q": "Will Alibaba have the best Chinese AI model at the end of October 2026?",
-   "t": "2026-10-31T16:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6074274",
+   "id": "pm_6106575",
    "c": "Random",
    "tag": "Weather",
    "px": 96,
-   "q": "Will the highest temperature in Karachi be 37\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "q": "Will the lowest temperature in Shanghai be 16\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6074275",
+   "id": "pm_2293863",
    "c": "Random",
-   "tag": "Weather",
-   "px": 3,
-   "q": "Will the highest temperature in Karachi be 38\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "tag": "Culture",
+   "px": 35,
+   "q": "Jack Lowden announced as next James Bond?",
+   "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5775546",
+   "id": "pm_2293900",
    "c": "Random",
-   "tag": "Weather",
-   "px": 50,
-   "q": "Will there be 3 earthquakes of 6.5 or above magnitude worldwide?",
-   "t": "2026-10-26T03:59:00Z",
+   "tag": "Culture",
+   "px": 25,
+   "q": "No one announced as next James Bond?",
+   "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5775549",
+   "id": "pm_2293862",
    "c": "Random",
-   "tag": "Weather",
-   "px": 21,
-   "q": "Will there be more than 5 earthquakes of 6.5 or above magnitude worldwide?",
-   "t": "2026-10-26T03:59:00Z",
+   "tag": "Culture",
+   "px": 23,
+   "q": "Callum Turner announced as next James Bond?",
+   "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5775547",
+   "id": "pm_2293866",
    "c": "Random",
-   "tag": "Weather",
-   "px": 21,
-   "q": "Will there be 4 earthquakes of 6.5 or above magnitude worldwide?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_5775548",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 12,
-   "q": "Will there be 5 earthquakes of 6.5 or above magnitude worldwide?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6043823",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 89,
-   "q": "Will \"Clayface\" Opening Weekend Box Office be between $22.5M and $24M?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6043824",
-   "c": "Random",
-   "tag": "Movies",
-   "px": 10,
-   "q": "Will \"Clayface\" Opening Weekend Box Office be at least $24M?",
-   "t": "2026-10-26T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6043822",
-   "c": "Random",
-   "tag": "Movies",
+   "tag": "Culture",
    "px": 5,
-   "q": "Will \"Clayface\" Opening Weekend Box Office be between $21M and $22.5M?",
-   "t": "2026-10-26T03:59:00Z",
+   "q": "Josh O'Connor announced as next James Bond?",
+   "t": "2027-01-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6076501",
+   "id": "pm_2293853",
+   "c": "Random",
+   "tag": "Culture",
+   "px": 4,
+   "q": "James Norton announced as next James Bond?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5238391",
+   "c": "Politics",
+   "tag": "World",
+   "px": 22,
+   "q": "Saudi-Houthi ceasefire agreement announced by December 31?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4688838",
+   "c": "Politics",
+   "tag": "World",
+   "px": 4,
+   "q": "Saudi-Houthi ceasefire agreement announced by October 31?",
+   "t": "2026-11-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6107095",
    "c": "Random",
    "tag": "Weather",
-   "px": 59,
-   "q": "Will the highest temperature in New York City be between 66-67\u00b0F on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 51,
+   "q": "Will the highest temperature in Paris be 14\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6076500",
+   "id": "pm_6107096",
    "c": "Random",
    "tag": "Weather",
-   "px": 21,
-   "q": "Will the highest temperature in New York City be between 64-65\u00b0F on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 42,
+   "q": "Will the highest temperature in Paris be 15\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_6076502",
+   "id": "pm_6107094",
    "c": "Random",
    "tag": "Weather",
-   "px": 17,
-   "q": "Will the highest temperature in New York City be between 68-69\u00b0F on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 9,
+   "q": "Will the highest temperature in Paris be 13\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_4664662",
-   "c": "Random",
-   "tag": "AI",
-   "px": 49,
-   "q": "Will Google have the best AI model at the end of November 2026?",
-   "t": "2026-12-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4664660",
-   "c": "Random",
-   "tag": "AI",
-   "px": 44,
-   "q": "Will Anthropic have the best AI model at the end of November 2026?",
-   "t": "2026-12-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_4664665",
-   "c": "Random",
-   "tag": "AI",
-   "px": 3,
-   "q": "Will OpenAI have the best AI model at the end of November 2026?",
-   "t": "2026-12-01T04:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2371762",
-   "c": "Random",
-   "tag": "Culture",
-   "px": 90,
-   "q": "Will Matt Damon be nominated for Best Actor at the 99th Academy Awards?",
-   "t": "2027-01-21T00:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2371769",
-   "c": "Random",
-   "tag": "Culture",
-   "px": 85,
-   "q": "Will Andrew Scott be nominated for Best Actor at the 99th Academy Awards?",
-   "t": "2027-01-21T00:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2371758",
-   "c": "Random",
-   "tag": "Culture",
-   "px": 84,
-   "q": "Will John Malkovich be nominated for Best Actor at the 99th Academy Awards?",
-   "t": "2027-01-21T00:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2371760",
-   "c": "Random",
-   "tag": "Culture",
-   "px": 50,
-   "q": "Will Tom Cruise be nominated for Best Actor at the 99th Academy Awards?",
-   "t": "2027-03-15T03:59:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2371764",
-   "c": "Random",
-   "tag": "Culture",
-   "px": 46,
-   "q": "Will John Turturro be nominated for Best Actor at the 99th Academy Awards?",
-   "t": "2027-01-21T00:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_2371761",
-   "c": "Random",
-   "tag": "Culture",
-   "px": 44,
-   "q": "Will Ryan Gosling be nominated for Best Actor at the 99th Academy Awards?",
-   "t": "2027-01-21T00:00:00Z",
-   "src": "Polymarket"
-  },
-  {
-   "id": "pm_6074232",
+   "id": "pm_6175260",
    "c": "Random",
    "tag": "Weather",
-   "px": 87,
-   "q": "Will the highest temperature in Jeddah be 36\u00b0C on October 25?",
-   "t": "2026-10-25T12:00:00Z",
+   "px": 60,
+   "q": "Will the highest temperature in Beijing be 16\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175259",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 24,
+   "q": "Will the highest temperature in Beijing be 15\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175261",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 10,
+   "q": "Will the highest temperature in Beijing be 17\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
    "src": "Polymarket"
   },
   {
    "id": "pm_6066050",
    "c": "Random",
    "tag": "AI",
-   "px": 92,
+   "px": 94,
    "q": "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 55% or higher?",
    "t": "2027-07-01T03:59:00Z",
    "src": "Polymarket"
@@ -2885,7 +2714,7 @@
    "id": "pm_6066052",
    "c": "Random",
    "tag": "AI",
-   "px": 44,
+   "px": 52,
    "q": "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 65% or higher?",
    "t": "2027-07-01T03:59:00Z",
    "src": "Polymarket"
@@ -2894,1217 +2723,1319 @@
    "id": "pm_6066053",
    "c": "Random",
    "tag": "AI",
-   "px": 18,
+   "px": 24,
    "q": "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 70% or higher?",
    "t": "2027-07-01T03:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5219332",
+   "id": "pm_6107217",
    "c": "Random",
-   "tag": "AI",
-   "px": 68,
-   "q": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
+   "tag": "Weather",
+   "px": 64,
+   "q": "Will the highest temperature in Milan be 16\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6107216",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 32,
+   "q": "Will the highest temperature in Milan be 15\u00b0C on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6111457",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 62,
+   "q": "Will the highest temperature in Houston be between 82-83\u00b0F on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6111456",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 36,
+   "q": "Will the highest temperature in Houston be between 80-81\u00b0F on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6111458",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 4,
+   "q": "Will the highest temperature in Houston be between 84-85\u00b0F on October 26?",
+   "t": "2026-10-26T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175118",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 64,
+   "q": "Will the highest temperature in Lucknow be 31\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175119",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 34,
+   "q": "Will the highest temperature in Lucknow be 32\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_6175117",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 5,
+   "q": "Will the highest temperature in Lucknow be 30\u00b0C on October 27?",
+   "t": "2026-10-27T12:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2824614",
+   "c": "Politics",
+   "tag": "World",
+   "px": 13,
+   "q": "Iran charges Hormuz fees by December 31?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2757806",
+   "c": "Politics",
+   "tag": "World",
+   "px": 4,
+   "q": "Iran charges Hormuz fees by October 31?",
    "t": "2026-11-01T03:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5219327",
+   "id": "pm_678447",
    "c": "Random",
-   "tag": "AI",
-   "px": 18,
-   "q": "Will the next Fable model (5.2+) be released on October 27, 2026?",
-   "t": "2026-10-28T03:59:00Z",
+   "tag": "The Odyssey",
+   "px": 60,
+   "q": "Will Avengers: Doomsday have the best domestic opening weekend in 2026?",
+   "t": "2027-02-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5219326",
+   "id": "pm_678445",
    "c": "Random",
-   "tag": "AI",
-   "px": 4,
-   "q": "Will the next Fable model (5.2+) be released on October 26, 2026?",
-   "t": "2026-10-27T03:59:00Z",
+   "tag": "The Odyssey",
+   "px": 34,
+   "q": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
+   "t": "2027-02-01T04:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_5219330",
-   "c": "Random",
-   "tag": "AI",
-   "px": 4,
-   "q": "Will the next Fable model (5.2+) be released on October 30, 2026?",
-   "t": "2026-10-31T03:59:00Z",
+   "id": "pm_5426238",
+   "c": "Politics",
+   "tag": "World",
+   "px": 26,
+   "q": "Will Crude Oil reach a new all-time high by March 31, 2027?",
+   "t": "2027-04-01T03:59:00Z",
    "src": "Polymarket"
   },
   {
-   "id": "pm_668591",
+   "id": "pm_2126461",
+   "c": "Politics",
+   "tag": "World",
+   "px": 14,
+   "q": "Will Crude Oil reach a new all-time high by December 31?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3554475",
+   "c": "Politics",
+   "tag": "World",
+   "px": 66,
+   "q": "Will Xiaomi have the best Chinese AI model at the end of October 2026?",
+   "t": "2026-10-31T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3554472",
+   "c": "Politics",
+   "tag": "World",
+   "px": 26,
+   "q": "Will Moonshot have the best Chinese AI model at the end of October 2026?",
+   "t": "2026-10-31T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3554471",
+   "c": "Politics",
+   "tag": "World",
+   "px": 7,
+   "q": "Will Alibaba have the best Chinese AI model at the end of October 2026?",
+   "t": "2026-10-31T16:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5994195",
+   "c": "Politics",
+   "tag": "World",
+   "px": 47,
+   "q": "Will Russia capture Dobropillia by March 31, 2027?",
+   "t": "2027-04-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3862800",
+   "c": "Politics",
+   "tag": "World",
+   "px": 26,
+   "q": "Will Russia capture Dobropillia by December 31, 2026?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3862799",
+   "c": "Politics",
+   "tag": "World",
+   "px": 3,
+   "q": "Will Russia capture Dobropillia by October 31, 2026?",
+   "t": "2026-11-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4664724",
    "c": "Random",
-   "tag": "Culture",
+   "tag": "AI",
+   "px": 65,
+   "q": "Will Meta be the third-best AI lab at the end of November 2026?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4664727",
+   "c": "Random",
+   "tag": "AI",
+   "px": 12,
+   "q": "Will Google be the third-best AI lab at the end of November 2026?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4664730",
+   "c": "Random",
+   "tag": "AI",
+   "px": 8,
+   "q": "Will Alibaba be the third-best AI lab at the end of November 2026?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4664732",
+   "c": "Random",
+   "tag": "AI",
+   "px": 5,
+   "q": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4664737",
+   "c": "Random",
+   "tag": "AI",
+   "px": 5,
+   "q": "Will Z.ai be the third-best AI lab at the end of November 2026?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4664722",
+   "c": "Random",
+   "tag": "AI",
    "px": 4,
-   "q": "GTA 6 launch postponed again?",
-   "t": "2026-11-20T04:59:00Z",
+   "q": "Will Anthropic be the third-best AI lab at the end of November 2026?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3902571",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 95,
+   "q": "Will \"La Bola Negra\" be nominated for Best Picture at the 99th Academy Awards?",
+   "t": "2027-01-21T00:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2371745",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 90,
+   "q": "Will \"Wild Horse Nine\" be nominated for Best Picture at the 99th Academy Awards?",
+   "t": "2027-01-21T00:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2371741",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 88,
+   "q": "Will \"Dune: Part Three\" be nominated for Best Picture at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2371744",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 76,
+   "q": "Will \"Project Hail Mary\" be nominated for Best Picture at the 99th Academy Awards?",
+   "t": "2027-01-21T00:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5375321",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 76,
+   "q": "Will \"You Can See Everything\" be nominated for Best Picture at the 99th Academy Awards?",
+   "t": "2027-01-22T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_3902573",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 76,
+   "q": "Will \"The Debut\" be nominated for Best Picture at the 99th Academy Awards?",
+   "t": "2027-01-21T00:00:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5999258",
+   "c": "Politics",
+   "tag": "World",
+   "px": 42,
+   "q": "Houthi x Saudi Arabia effective ceasefire by December 31?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5999257",
+   "c": "Politics",
+   "tag": "World",
+   "px": 28,
+   "q": "Houthi x Saudi Arabia effective ceasefire by November 30?",
+   "t": "2026-12-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5999259",
+   "c": "Politics",
+   "tag": "World",
+   "px": 20,
+   "q": "Houthi x Saudi Arabia effective ceasefire by November 15?",
+   "t": "2026-11-16T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4640288",
+   "c": "Politics",
+   "tag": "World",
+   "px": 5,
+   "q": "Houthi x Saudi Arabia effective ceasefire by October 31?",
+   "t": "2026-11-01T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4412201",
+   "c": "Random",
+   "tag": "AI",
+   "px": 51,
+   "q": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+   "t": "2028-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4412200",
+   "c": "Random",
+   "tag": "AI",
+   "px": 14,
+   "q": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686305",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 94,
+   "q": "Will \"The Odyssey\" be nominated for Best Cinematography at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686308",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 78,
+   "q": "Will \"Dune: Part Three\" be nominated for Best Cinematography at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686311",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 68,
+   "q": "Will \"Project Hail Mary\" be nominated for Best Cinematography at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686313",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 41,
+   "q": "Will \"Fatherland\" be nominated for Best Cinematography at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686317",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 38,
+   "q": "Will \"Digger\" be nominated for Best Cinematography at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5686315",
+   "c": "Random",
+   "tag": "Awards",
+   "px": 37,
+   "q": "Will \"Werwulf\" be nominated for Best Cinematography at the 99th Academy Awards?",
+   "t": "2027-03-15T03:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_2232192",
+   "c": "Politics",
+   "tag": "World",
+   "px": 28,
+   "q": "Will Russia enter Druzkhivka by December 31, 2026?",
+   "t": "2027-01-01T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4218313",
+   "c": "Random",
+   "tag": "AI",
+   "px": 86,
+   "q": "Next Astra Model (6.1+) released by December 31, 2026?",
+   "t": "2026-12-31T23:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5997213",
+   "c": "Random",
+   "tag": "AI",
+   "px": 76,
+   "q": "Next Astra Model (6.1+) released by December 15, 2026?",
+   "t": "2026-12-16T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5971398",
+   "c": "Random",
+   "tag": "AI",
+   "px": 52,
+   "q": "Next Astra Model (6.1+) released by November 30, 2026?",
+   "t": "2026-11-30T23:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_5997211",
+   "c": "Random",
+   "tag": "AI",
+   "px": 36,
+   "q": "Next Astra Model (6.1+) released by November 15, 2026?",
+   "t": "2026-11-16T04:59:00Z",
+   "src": "Polymarket"
+  },
+  {
+   "id": "pm_4218310",
+   "c": "Random",
+   "tag": "AI",
+   "px": 19,
+   "q": "Next Astra Model (6.1+) released by October 31, 2026?",
+   "t": "2026-10-31T23:59:00Z",
    "src": "Polymarket"
   }
  ],
  "stats": [
   {
-   "league": "College football",
-   "date": "2026-10-25T02:20:00Z",
-   "home": "New Mexico",
-   "hs": "21",
-   "away": "N Dakota St",
-   "as": "16",
+   "league": "NFL",
+   "date": "2026-10-26T00:20:00Z",
+   "home": "Seahawks",
+   "hs": "20",
+   "away": "Chiefs",
+   "as": "3",
    "leaders": []
   },
   {
-   "league": "College football",
-   "date": "2026-10-25T02:15:00Z",
-   "home": "Utah",
-   "hs": "21",
-   "away": "Houston",
-   "as": "13",
-   "leaders": []
-  },
-  {
-   "league": "College football",
-   "date": "2026-10-25T00:00:00Z",
-   "home": "Tulane",
-   "hs": "19",
-   "away": "UTSA",
-   "as": "42",
-   "leaders": []
-  },
-  {
-   "league": "College football",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "Texas",
-   "hs": "34",
-   "away": "Ole Miss",
-   "as": "27",
-   "leaders": []
-  },
-  {
-   "league": "College football",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "Kentucky",
-   "hs": "34",
-   "away": "Vanderbilt",
+   "league": "NFL",
+   "date": "2026-10-25T20:25:00Z",
+   "home": "Lions",
+   "hs": "20",
+   "away": "Packers",
    "as": "17",
    "leaders": []
   },
   {
-   "league": "College football",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "Wisconsin",
+   "league": "NFL",
+   "date": "2026-10-25T20:25:00Z",
+   "home": "Raiders",
+   "hs": "21",
+   "away": "Rams",
+   "as": "35",
+   "leaders": []
+  },
+  {
+   "league": "NFL",
+   "date": "2026-10-25T20:05:00Z",
+   "home": "Cardinals",
+   "hs": "16",
+   "away": "Broncos",
+   "as": "30",
+   "leaders": []
+  },
+  {
+   "league": "NFL",
+   "date": "2026-10-25T17:00:00Z",
+   "home": "Falcons",
+   "hs": "29",
+   "away": "49ers",
+   "as": "20",
+   "leaders": []
+  },
+  {
+   "league": "NFL",
+   "date": "2026-10-25T17:00:00Z",
+   "home": "Titans",
    "hs": "24",
-   "away": "USC",
-   "as": "7",
+   "away": "Browns",
+   "as": "27",
    "leaders": []
   },
   {
-   "league": "College football",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "Arizona",
-   "hs": "39",
-   "away": "Iowa State",
-   "as": "3",
+   "league": "NFL",
+   "date": "2026-10-25T17:00:00Z",
+   "home": "Vikings",
+   "hs": "16",
+   "away": "Colts",
+   "as": "10",
    "leaders": []
   },
   {
-   "league": "College football",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "North Carolina",
-   "hs": "30",
-   "away": "Syracuse",
-   "as": "31",
+   "league": "NFL",
+   "date": "2026-10-25T17:00:00Z",
+   "home": "Jets",
+   "hs": "25",
+   "away": "Dolphins",
+   "as": "28",
    "leaders": []
-  },
-  {
-   "league": "MLB",
-   "date": "2026-10-25T00:00:00Z",
-   "home": "Brewers",
-   "hs": "5",
-   "away": "Rays",
-   "as": "4",
-   "leaders": [
-    {
-     "team": "Brewers",
-     "cat": "Batting Average",
-     "name": "Sal Frelick",
-     "val": "2-4, HR, RBI, R"
-    },
-    {
-     "team": "Brewers",
-     "cat": "Home Runs",
-     "name": "Sal Frelick",
-     "val": "2-4, HR, RBI, R"
-    },
-    {
-     "team": "Brewers",
-     "cat": "Runs Batted In",
-     "name": "William Contreras",
-     "val": "2-5, RBI, SB"
-    },
-    {
-     "team": "Rays",
-     "cat": "Batting Average",
-     "name": "Jonny DeLuca",
-     "val": "2-4, 2B, K"
-    },
-    {
-     "team": "Rays",
-     "cat": "Home Runs",
-     "name": "Liam Hicks",
-     "val": "1-2, HR, 2 RBI, R"
-    },
-    {
-     "team": "Rays",
-     "cat": "Runs Batted In",
-     "name": "Liam Hicks",
-     "val": "1-2, HR, 2 RBI, R"
-    }
-   ]
   },
   {
    "league": "NHL",
-   "date": "2026-10-25T02:00:00Z",
-   "home": "Flames",
-   "hs": "4",
-   "away": "Red Wings",
-   "as": "1",
-   "leaders": [
-    {
-     "team": "Flames",
-     "cat": "Goals",
-     "name": "Joel Farabee",
-     "val": "1"
-    },
-    {
-     "team": "Flames",
-     "cat": "Assists",
-     "name": "Joel Farabee",
-     "val": "2"
-    },
-    {
-     "team": "Flames",
-     "cat": "Points",
-     "name": "Joel Farabee",
-     "val": "3"
-    },
-    {
-     "team": "Red Wings",
-     "cat": "Goals",
-     "name": "Andrew Copp",
-     "val": "1"
-    },
-    {
-     "team": "Red Wings",
-     "cat": "Assists",
-     "name": "J.T. Compher",
-     "val": "1"
-    },
-    {
-     "team": "Red Wings",
-     "cat": "Points",
-     "name": "Andrew Copp",
-     "val": "1"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-10-25T02:00:00Z",
-   "home": "Kraken",
-   "hs": "1",
+   "date": "2026-10-26T02:00:00Z",
+   "home": "Canucks",
+   "hs": "2",
    "away": "Wild",
-   "as": "5",
-   "leaders": [
-    {
-     "team": "Kraken",
-     "cat": "Goals",
-     "name": "Berkly Catton",
-     "val": "1"
-    },
-    {
-     "team": "Kraken",
-     "cat": "Assists",
-     "name": "Brandon Montour",
-     "val": "1"
-    },
-    {
-     "team": "Kraken",
-     "cat": "Points",
-     "name": "Berkly Catton",
-     "val": "1"
-    },
-    {
-     "team": "Wild",
-     "cat": "Goals",
-     "name": "Blake Coleman",
-     "val": "2"
-    },
-    {
-     "team": "Wild",
-     "cat": "Assists",
-     "name": "Joel Eriksson Ek",
-     "val": "1"
-    },
-    {
-     "team": "Wild",
-     "cat": "Points",
-     "name": "Blake Coleman",
-     "val": "2"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-10-25T01:00:00Z",
-   "home": "Mammoth",
-   "hs": "5",
-   "away": "Lightning",
    "as": "4",
    "leaders": [
     {
-     "team": "Mammoth",
+     "team": "Canucks",
      "cat": "Goals",
-     "name": "Dmitri Simashev",
-     "val": "2"
+     "name": "Max Sasson",
+     "val": "1"
     },
     {
-     "team": "Mammoth",
+     "team": "Canucks",
      "cat": "Assists",
-     "name": "Vincent Trocheck",
-     "val": "2"
+     "name": "Filip Hronek",
+     "val": "1"
     },
     {
-     "team": "Mammoth",
+     "team": "Canucks",
      "cat": "Points",
-     "name": "Dmitri Simashev",
-     "val": "2"
+     "name": "Brock Boeser",
+     "val": "1"
     },
     {
-     "team": "Lightning",
+     "team": "Wild",
      "cat": "Goals",
-     "name": "Pontus Holmberg",
+     "name": "Kirill Kaprizov",
      "val": "1"
     },
     {
-     "team": "Lightning",
+     "team": "Wild",
      "cat": "Assists",
-     "name": "Erik Cernak",
+     "name": "Kirill Kaprizov",
      "val": "1"
     },
     {
-     "team": "Lightning",
+     "team": "Wild",
      "cat": "Points",
-     "name": "Jake Guentzel",
-     "val": "1"
+     "name": "Kirill Kaprizov",
+     "val": "2"
     }
    ]
   },
   {
    "league": "NHL",
-   "date": "2026-10-24T23:00:00Z",
-   "home": "Bruins",
+   "date": "2026-10-26T00:00:00Z",
+   "home": "Predators",
    "hs": "6",
-   "away": "Sharks",
-   "as": "4",
-   "leaders": [
-    {
-     "team": "Bruins",
-     "cat": "Goals",
-     "name": "Casey Mittelstadt",
-     "val": "1"
-    },
-    {
-     "team": "Bruins",
-     "cat": "Assists",
-     "name": "Elias Lindholm",
-     "val": "2"
-    },
-    {
-     "team": "Bruins",
-     "cat": "Points",
-     "name": "Casey Mittelstadt",
-     "val": "2"
-    },
-    {
-     "team": "Sharks",
-     "cat": "Goals",
-     "name": "Kiefer Sherwood",
-     "val": "1"
-    },
-    {
-     "team": "Sharks",
-     "cat": "Assists",
-     "name": "Jacob Trouba",
-     "val": "2"
-    },
-    {
-     "team": "Sharks",
-     "cat": "Points",
-     "name": "Jacob Trouba",
-     "val": "2"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-10-24T23:00:00Z",
-   "home": "Senators",
-   "hs": "7",
-   "away": "Rangers",
-   "as": "4",
-   "leaders": [
-    {
-     "team": "Senators",
-     "cat": "Goals",
-     "name": "Drake Batherson",
-     "val": "3"
-    },
-    {
-     "team": "Senators",
-     "cat": "Assists",
-     "name": "Jake Sanderson",
-     "val": "2"
-    },
-    {
-     "team": "Senators",
-     "cat": "Points",
-     "name": "Drake Batherson",
-     "val": "4"
-    },
-    {
-     "team": "Rangers",
-     "cat": "Goals",
-     "name": "J.T. Miller",
-     "val": "1"
-    },
-    {
-     "team": "Rangers",
-     "cat": "Assists",
-     "name": "Adam Fox",
-     "val": "2"
-    },
-    {
-     "team": "Rangers",
-     "cat": "Points",
-     "name": "J.T. Miller",
-     "val": "2"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-10-24T23:00:00Z",
-   "home": "Penguins",
-   "hs": "3",
-   "away": "Predators",
+   "away": "Avalanche",
    "as": "2",
    "leaders": [
     {
-     "team": "Penguins",
-     "cat": "Goals",
-     "name": "Ville Koivunen",
-     "val": "1"
-    },
-    {
-     "team": "Penguins",
-     "cat": "Assists",
-     "name": "Kris Letang",
-     "val": "1"
-    },
-    {
-     "team": "Penguins",
-     "cat": "Points",
-     "name": "Rickard Rakell",
-     "val": "1"
-    },
-    {
      "team": "Predators",
      "cat": "Goals",
-     "name": "Jayden Struble",
-     "val": "1"
-    },
-    {
-     "team": "Predators",
-     "cat": "Assists",
-     "name": "Nils Hoglander",
-     "val": "1"
-    },
-    {
-     "team": "Predators",
-     "cat": "Points",
-     "name": "Steven Stamkos",
-     "val": "1"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-10-24T23:00:00Z",
-   "home": "Capitals",
-   "hs": "4",
-   "away": "Sabres",
-   "as": "3",
-   "leaders": [
-    {
-     "team": "Capitals",
-     "cat": "Goals",
-     "name": "Dylan Strome",
+     "name": "Ryan O'Reilly",
      "val": "2"
     },
     {
-     "team": "Capitals",
+     "team": "Predators",
      "cat": "Assists",
-     "name": "Jordan Kyrou",
-     "val": "2"
-    },
-    {
-     "team": "Capitals",
-     "cat": "Points",
-     "name": "Dylan Strome",
+     "name": "Roman Josi",
      "val": "3"
     },
     {
-     "team": "Sabres",
-     "cat": "Goals",
-     "name": "Josh Doan",
-     "val": "1"
-    },
-    {
-     "team": "Sabres",
-     "cat": "Assists",
-     "name": "Rasmus Dahlin",
-     "val": "1"
-    },
-    {
-     "team": "Sabres",
+     "team": "Predators",
      "cat": "Points",
-     "name": "Jack Quinn",
+     "name": "Ryan O'Reilly",
+     "val": "4"
+    },
+    {
+     "team": "Avalanche",
+     "cat": "Goals",
+     "name": "Devon Toews",
      "val": "1"
+    },
+    {
+     "team": "Avalanche",
+     "cat": "Assists",
+     "name": "Martin Necas",
+     "val": "2"
+    },
+    {
+     "team": "Avalanche",
+     "cat": "Points",
+     "name": "Martin Necas",
+     "val": "2"
     }
    ]
   },
   {
    "league": "NHL",
-   "date": "2026-10-24T23:00:00Z",
-   "home": "Blue Jackets",
+   "date": "2026-10-25T23:00:00Z",
+   "home": "Jets",
+   "hs": "1",
+   "away": "Canadiens",
+   "as": "2",
+   "leaders": [
+    {
+     "team": "Jets",
+     "cat": "Goals",
+     "name": "Isak Rosen",
+     "val": "1"
+    },
+    {
+     "team": "Jets",
+     "cat": "Assists",
+     "name": "Haydn Fleury",
+     "val": "1"
+    },
+    {
+     "team": "Jets",
+     "cat": "Points",
+     "name": "Isak Rosen",
+     "val": "1"
+    },
+    {
+     "team": "Canadiens",
+     "cat": "Goals",
+     "name": "Lane Hutson",
+     "val": "1"
+    },
+    {
+     "team": "Canadiens",
+     "cat": "Assists",
+     "name": "Cole Caufield",
+     "val": "2"
+    },
+    {
+     "team": "Canadiens",
+     "cat": "Points",
+     "name": "Cole Caufield",
+     "val": "2"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-25T22:00:00Z",
+   "home": "Stars",
+   "hs": "6",
+   "away": "Islanders",
+   "as": "3",
+   "leaders": [
+    {
+     "team": "Stars",
+     "cat": "Goals",
+     "name": "Jason Robertson",
+     "val": "2"
+    },
+    {
+     "team": "Stars",
+     "cat": "Assists",
+     "name": "Roope Hintz",
+     "val": "2"
+    },
+    {
+     "team": "Stars",
+     "cat": "Points",
+     "name": "Jason Robertson",
+     "val": "2"
+    },
+    {
+     "team": "Islanders",
+     "cat": "Goals",
+     "name": "Matthew Schaefer",
+     "val": "1"
+    },
+    {
+     "team": "Islanders",
+     "cat": "Assists",
+     "name": "Bo Horvat",
+     "val": "2"
+    },
+    {
+     "team": "Islanders",
+     "cat": "Points",
+     "name": "Bo Horvat",
+     "val": "2"
+    }
+   ]
+  },
+  {
+   "league": "NHL",
+   "date": "2026-10-25T19:00:00Z",
+   "home": "Blackhawks",
    "hs": "2",
-   "away": "Golden Knights",
-   "as": "1",
+   "away": "Panthers",
+   "as": "3",
    "leaders": [
     {
-     "team": "Blue Jackets",
+     "team": "Blackhawks",
      "cat": "Goals",
-     "name": "Denton Mateychuk",
+     "name": "Ryan Greene",
      "val": "1"
     },
     {
-     "team": "Blue Jackets",
+     "team": "Blackhawks",
      "cat": "Assists",
-     "name": "Kent Johnson",
-     "val": "2"
+     "name": "Kevin Korchinski",
+     "val": "1"
     },
     {
-     "team": "Blue Jackets",
+     "team": "Blackhawks",
      "cat": "Points",
-     "name": "Kent Johnson",
-     "val": "2"
+     "name": "Ryan Greene",
+     "val": "1"
     },
     {
-     "team": "Golden Knights",
+     "team": "Panthers",
      "cat": "Goals",
-     "name": "Tomas Hertl",
+     "name": "Lars Eller",
      "val": "1"
     },
     {
-     "team": "Golden Knights",
+     "team": "Panthers",
      "cat": "Assists",
-     "name": "Trevor Connelly",
+     "name": "Carter Verhaeghe",
      "val": "1"
     },
     {
-     "team": "Golden Knights",
+     "team": "Panthers",
      "cat": "Points",
-     "name": "Tomas Hertl",
+     "name": "Lars Eller",
      "val": "1"
     }
    ]
   },
   {
    "league": "NBA",
-   "date": "2026-10-25T02:00:00Z",
-   "home": "Suns",
-   "hs": "131",
-   "away": "Warriors",
-   "as": "122",
+   "date": "2026-10-26T01:00:00Z",
+   "home": "Kings",
+   "hs": "112",
+   "away": "Grizzlies",
+   "as": "123",
    "leaders": [
     {
-     "team": "Suns",
+     "team": "Kings",
      "cat": "Points",
-     "name": "Devin Booker",
-     "val": "43"
+     "name": "Zach LaVine",
+     "val": "37"
     },
     {
-     "team": "Suns",
+     "team": "Kings",
      "cat": "Rebounds",
-     "name": "Khaman Maluach",
-     "val": "9"
-    },
-    {
-     "team": "Suns",
-     "cat": "Assists",
-     "name": "Collin Gillespie",
-     "val": "9"
-    },
-    {
-     "team": "Warriors",
-     "cat": "Points",
-     "name": "Yaxel Lendeborg",
-     "val": "26"
-    },
-    {
-     "team": "Warriors",
-     "cat": "Rebounds",
-     "name": "Graham Ike",
-     "val": "10"
-    },
-    {
-     "team": "Warriors",
-     "cat": "Assists",
-     "name": "Yaxel Lendeborg",
-     "val": "5"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-10-25T01:00:00Z",
-   "home": "Nuggets",
-   "hs": "141",
-   "away": "Pelicans",
-   "as": "135",
-   "leaders": [
-    {
-     "team": "Nuggets",
-     "cat": "Points",
-     "name": "Jamal Murray",
-     "val": "42"
-    },
-    {
-     "team": "Nuggets",
-     "cat": "Rebounds",
-     "name": "Nikola Jokic",
+     "name": "Domantas Sabonis",
      "val": "15"
     },
     {
-     "team": "Nuggets",
+     "team": "Kings",
      "cat": "Assists",
-     "name": "Nikola Jokic",
-     "val": "10"
-    },
-    {
-     "team": "Pelicans",
-     "cat": "Points",
-     "name": "Trey Murphy III",
-     "val": "26"
-    },
-    {
-     "team": "Pelicans",
-     "cat": "Rebounds",
-     "name": "DeAndre Jordan",
-     "val": "9"
-    },
-    {
-     "team": "Pelicans",
-     "cat": "Assists",
-     "name": "Jordan Poole",
+     "name": "Darius Acuff Jr.",
      "val": "7"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-10-25T00:30:00Z",
-   "home": "Hawks",
-   "hs": "114",
-   "away": "Rockets",
-   "as": "121",
-   "leaders": [
+    },
     {
-     "team": "Hawks",
+     "team": "Grizzlies",
      "cat": "Points",
-     "name": "Jalen Johnson",
-     "val": "26"
+     "name": "Ty Jerome",
+     "val": "31"
     },
     {
-     "team": "Hawks",
+     "team": "Grizzlies",
      "cat": "Rebounds",
-     "name": "Jalen Johnson",
-     "val": "9"
-    },
-    {
-     "team": "Hawks",
-     "cat": "Assists",
-     "name": "Jalen Johnson",
-     "val": "16"
-    },
-    {
-     "team": "Rockets",
-     "cat": "Points",
-     "name": "Kevin Durant",
-     "val": "22"
-    },
-    {
-     "team": "Rockets",
-     "cat": "Rebounds",
-     "name": "Amen Thompson",
+     "name": "Cameron Boozer",
      "val": "11"
     },
     {
-     "team": "Rockets",
+     "team": "Grizzlies",
      "cat": "Assists",
-     "name": "Reed Sheppard",
-     "val": "7"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-10-25T00:00:00Z",
-   "home": "Bulls",
-   "hs": "120",
-   "away": "Wizards",
-   "as": "124",
-   "leaders": [
-    {
-     "team": "Bulls",
-     "cat": "Points",
-     "name": "Caleb Wilson",
-     "val": "30"
-    },
-    {
-     "team": "Bulls",
-     "cat": "Rebounds",
-     "name": "Caleb Wilson",
-     "val": "14"
-    },
-    {
-     "team": "Bulls",
-     "cat": "Assists",
-     "name": "Josh Giddey",
-     "val": "10"
-    },
-    {
-     "team": "Wizards",
-     "cat": "Points",
-     "name": "Trae Young",
-     "val": "25"
-    },
-    {
-     "team": "Wizards",
-     "cat": "Rebounds",
-     "name": "Justin Champagnie",
-     "val": "14"
-    },
-    {
-     "team": "Wizards",
-     "cat": "Assists",
-     "name": "Trae Young",
-     "val": "9"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-10-25T00:00:00Z",
-   "home": "Mavericks",
-   "hs": "106",
-   "away": "Spurs",
-   "as": "122",
-   "leaders": [
-    {
-     "team": "Mavericks",
-     "cat": "Points",
-     "name": "Sergio de Larrea",
-     "val": "21"
-    },
-    {
-     "team": "Mavericks",
-     "cat": "Rebounds",
-     "name": "Daniel Gafford",
-     "val": "9"
-    },
-    {
-     "team": "Mavericks",
-     "cat": "Assists",
-     "name": "Marcus Sasser",
-     "val": "5"
-    },
-    {
-     "team": "Spurs",
-     "cat": "Points",
-     "name": "Victor Wembanyama",
-     "val": "23"
-    },
-    {
-     "team": "Spurs",
-     "cat": "Rebounds",
-     "name": "Victor Wembanyama",
-     "val": "7"
-    },
-    {
-     "team": "Spurs",
-     "cat": "Assists",
-     "name": "De'Aaron Fox",
-     "val": "9"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "Cavaliers",
-   "hs": "125",
-   "away": "Nets",
-   "as": "121",
-   "leaders": [
-    {
-     "team": "Cavaliers",
-     "cat": "Points",
-     "name": "Donovan Mitchell",
-     "val": "22"
-    },
-    {
-     "team": "Cavaliers",
-     "cat": "Rebounds",
-     "name": "Evan Mobley",
-     "val": "10"
-    },
-    {
-     "team": "Cavaliers",
-     "cat": "Assists",
-     "name": "James Harden",
-     "val": "7"
-    },
-    {
-     "team": "Nets",
-     "cat": "Points",
-     "name": "Michael Porter Jr.",
-     "val": "28"
-    },
-    {
-     "team": "Nets",
-     "cat": "Rebounds",
-     "name": "Michael Porter Jr.",
-     "val": "9"
-    },
-    {
-     "team": "Nets",
-     "cat": "Assists",
-     "name": "Egor Demin",
+     "name": "Ty Jerome",
      "val": "6"
     }
    ]
   },
   {
    "league": "NBA",
-   "date": "2026-10-24T23:30:00Z",
+   "date": "2026-10-25T23:30:00Z",
    "home": "76ers",
-   "hs": "127",
-   "away": "Bucks",
-   "as": "116",
+   "hs": "93",
+   "away": "Pistons",
+   "as": "106",
    "leaders": [
     {
      "team": "76ers",
      "cat": "Points",
-     "name": "Joel Embiid",
+     "name": "Tyrese Maxey",
+     "val": "29"
+    },
+    {
+     "team": "76ers",
+     "cat": "Rebounds",
+     "name": "Adem Bona",
+     "val": "13"
+    },
+    {
+     "team": "76ers",
+     "cat": "Assists",
+     "name": "LeBron James",
+     "val": "5"
+    },
+    {
+     "team": "Pistons",
+     "cat": "Points",
+     "name": "Cade Cunningham",
+     "val": "26"
+    },
+    {
+     "team": "Pistons",
+     "cat": "Rebounds",
+     "name": "John Collins",
+     "val": "11"
+    },
+    {
+     "team": "Pistons",
+     "cat": "Assists",
+     "name": "Cade Cunningham",
+     "val": "8"
+    }
+   ]
+  },
+  {
+   "league": "NBA",
+   "date": "2026-10-25T23:00:00Z",
+   "home": "Knicks",
+   "hs": "102",
+   "away": "Magic",
+   "as": "111",
+   "leaders": [
+    {
+     "team": "Knicks",
+     "cat": "Points",
+     "name": "Jalen Brunson",
      "val": "28"
     },
     {
-     "team": "76ers",
+     "team": "Knicks",
      "cat": "Rebounds",
-     "name": "VJ Edgecombe",
-     "val": "13"
+     "name": "Karl-Anthony Towns",
+     "val": "14"
     },
     {
-     "team": "76ers",
+     "team": "Knicks",
      "cat": "Assists",
-     "name": "Joel Embiid",
-     "val": "10"
+     "name": "Tyler Kolek",
+     "val": "9"
     },
     {
-     "team": "Bucks",
+     "team": "Magic",
      "cat": "Points",
-     "name": "Jaime Jaquez Jr.",
-     "val": "21"
+     "name": "Franz Wagner",
+     "val": "23"
     },
     {
-     "team": "Bucks",
+     "team": "Magic",
      "cat": "Rebounds",
-     "name": "Kel'el Ware",
+     "name": "Franz Wagner",
      "val": "13"
     },
     {
-     "team": "Bucks",
+     "team": "Magic",
      "cat": "Assists",
-     "name": "Jaime Jaquez Jr.",
+     "name": "Franz Wagner",
+     "val": "9"
+    }
+   ]
+  },
+  {
+   "league": "NBA",
+   "date": "2026-10-25T23:00:00Z",
+   "home": "Timberwolves",
+   "hs": "117",
+   "away": "Raptors",
+   "as": "94",
+   "leaders": [
+    {
+     "team": "Timberwolves",
+     "cat": "Points",
+     "name": "Anthony Edwards",
+     "val": "26"
+    },
+    {
+     "team": "Timberwolves",
+     "cat": "Rebounds",
+     "name": "Rudy Gobert",
+     "val": "13"
+    },
+    {
+     "team": "Timberwolves",
+     "cat": "Assists",
+     "name": "LaMelo Ball",
+     "val": "8"
+    },
+    {
+     "team": "Raptors",
+     "cat": "Points",
+     "name": "Ja'Kobe Walter",
+     "val": "22"
+    },
+    {
+     "team": "Raptors",
+     "cat": "Rebounds",
+     "name": "Collin Murray-Boyles",
+     "val": "7"
+    },
+    {
+     "team": "Raptors",
+     "cat": "Assists",
+     "name": "Allen Graves",
      "val": "4"
     }
    ]
   },
   {
    "league": "NBA",
-   "date": "2026-10-24T22:00:00Z",
-   "home": "Hornets",
-   "hs": "115",
-   "away": "Heat",
-   "as": "110",
+   "date": "2026-10-25T23:00:00Z",
+   "home": "Thunder",
+   "hs": "108",
+   "away": "Clippers",
+   "as": "101",
    "leaders": [
     {
-     "team": "Hornets",
+     "team": "Thunder",
      "cat": "Points",
-     "name": "Brandon Miller",
+     "name": "Shai Gilgeous-Alexander",
      "val": "34"
     },
     {
-     "team": "Hornets",
+     "team": "Thunder",
      "cat": "Rebounds",
-     "name": "Naz Reid",
-     "val": "9"
+     "name": "Isaiah Hartenstein",
+     "val": "12"
     },
     {
-     "team": "Hornets",
+     "team": "Thunder",
      "cat": "Assists",
-     "name": "Grayson Allen",
-     "val": "5"
+     "name": "Alex Caruso",
+     "val": "6"
     },
     {
-     "team": "Heat",
+     "team": "Clippers",
      "cat": "Points",
-     "name": "Davion Mitchell",
-     "val": "22"
+     "name": "Darius Garland",
+     "val": "16"
     },
     {
-     "team": "Heat",
+     "team": "Clippers",
      "cat": "Rebounds",
-     "name": "Bam Adebayo",
+     "name": "Derrick Jones Jr.",
+     "val": "6"
+    },
+    {
+     "team": "Clippers",
+     "cat": "Assists",
+     "name": "Darius Garland",
+     "val": "11"
+    }
+   ]
+  },
+  {
+   "league": "NBA",
+   "date": "2026-10-25T22:00:00Z",
+   "home": "Nets",
+   "hs": "109",
+   "away": "Pacers",
+   "as": "136",
+   "leaders": [
+    {
+     "team": "Nets",
+     "cat": "Points",
+     "name": "Nolan Traore",
+     "val": "17"
+    },
+    {
+     "team": "Nets",
+     "cat": "Rebounds",
+     "name": "Josh Minott",
      "val": "8"
     },
     {
-     "team": "Heat",
+     "team": "Nets",
      "cat": "Assists",
-     "name": "Davion Mitchell",
+     "name": "Julius Randle",
+     "val": "7"
+    },
+    {
+     "team": "Pacers",
+     "cat": "Points",
+     "name": "Tyrese Haliburton",
+     "val": "24"
+    },
+    {
+     "team": "Pacers",
+     "cat": "Rebounds",
+     "name": "Pascal Siakam",
+     "val": "7"
+    },
+    {
+     "team": "Pacers",
+     "cat": "Assists",
+     "name": "Tyrese Haliburton",
      "val": "10"
     }
    ]
   },
   {
-   "league": "WNBA",
-   "date": "2026-10-24T17:00:00Z",
-   "home": "Dream",
-   "hs": "62",
-   "away": "Valkyries",
-   "as": "67",
+   "league": "NBA",
+   "date": "2026-10-25T21:00:00Z",
+   "home": "Jazz",
+   "hs": "123",
+   "away": "Lakers",
+   "as": "132",
    "leaders": [
     {
-     "team": "Dream",
+     "team": "Jazz",
      "cat": "Points",
-     "name": "Rhyne Howard",
-     "val": "19"
+     "name": "Lauri Markkanen",
+     "val": "28"
     },
     {
-     "team": "Dream",
+     "team": "Jazz",
      "cat": "Rebounds",
-     "name": "Angel Reese",
-     "val": "9"
+     "name": "Ace Bailey",
+     "val": "12"
     },
     {
-     "team": "Dream",
+     "team": "Jazz",
      "cat": "Assists",
-     "name": "Jordin Canada",
-     "val": "4"
+     "name": "Keyonte George",
+     "val": "10"
     },
     {
-     "team": "Valkyries",
+     "team": "Lakers",
      "cat": "Points",
-     "name": "Gabby Williams",
-     "val": "17"
+     "name": "Luka Doncic",
+     "val": "52"
     },
     {
-     "team": "Valkyries",
+     "team": "Lakers",
      "cat": "Rebounds",
-     "name": "Kiah Stokes",
-     "val": "16"
+     "name": "Luka Doncic",
+     "val": "8"
     },
     {
-     "team": "Valkyries",
+     "team": "Lakers",
      "cat": "Assists",
-     "name": "Veronica Burton",
-     "val": "5"
+     "name": "Luka Doncic",
+     "val": "10"
     }
    ]
   },
   {
    "league": "Premier League",
-   "date": "2026-10-24T16:30:00Z",
-   "home": "Chelsea",
+   "date": "2026-10-25T16:30:00Z",
+   "home": "Sunderland",
    "hs": "0",
-   "away": "Spurs",
+   "away": "Leeds",
+   "as": "0",
+   "leaders": []
+  },
+  {
+   "league": "Premier League",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "C Palace",
+   "hs": "0",
+   "away": "Newcastle",
    "as": "2",
    "leaders": []
   },
   {
    "league": "Premier League",
-   "date": "2026-10-24T14:00:00Z",
-   "home": "Arsenal",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "Hull",
+   "hs": "1",
+   "away": "Brentford",
+   "as": "1",
+   "leaders": []
+  },
+  {
+   "league": "Premier League",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "Liverpool",
    "hs": "2",
-   "away": "Everton",
+   "away": "Brighton",
    "as": "0",
    "leaders": []
   },
   {
    "league": "Premier League",
-   "date": "2026-10-24T14:00:00Z",
-   "home": "Coventry",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "Man Utd",
    "hs": "0",
-   "away": "Fulham",
-   "as": "1",
-   "leaders": []
-  },
-  {
-   "league": "Premier League",
-   "date": "2026-10-24T11:30:00Z",
-   "home": "Aston Villa",
-   "hs": "2",
-   "away": "Man City",
-   "as": "1",
+   "away": "Bournemouth",
+   "as": "3",
    "leaders": []
   },
   {
    "league": "La Liga",
-   "date": "2026-10-24T19:00:00Z",
-   "home": "Atl\u00e9tico",
+   "date": "2026-10-25T20:00:00Z",
+   "home": "Barcelona",
    "hs": "1",
-   "away": "Deportivo",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "La Liga",
-   "date": "2026-10-24T16:30:00Z",
-   "home": "Valencia",
-   "hs": "1",
-   "away": "Villarreal",
+   "away": "Real Madrid",
    "as": "2",
    "leaders": []
   },
   {
    "league": "La Liga",
-   "date": "2026-10-24T14:15:00Z",
-   "home": "Racing",
+   "date": "2026-10-25T17:30:00Z",
+   "home": "Real Sociedad",
    "hs": "2",
-   "away": "Espanyol",
+   "away": "Levante",
    "as": "1",
    "leaders": []
   },
   {
    "league": "La Liga",
-   "date": "2026-10-24T12:00:00Z",
-   "home": "Rayo",
+   "date": "2026-10-25T15:15:00Z",
+   "home": "Celta Vigo",
    "hs": "0",
-   "away": "Elche",
-   "as": "3",
-   "leaders": []
-  },
-  {
-   "league": "Bundesliga",
-   "date": "2026-10-24T16:30:00Z",
-   "home": "Dortmund",
-   "hs": "1",
-   "away": "Frankfurt",
+   "away": "Betis",
    "as": "0",
    "leaders": []
   },
   {
-   "league": "Bundesliga",
-   "date": "2026-10-24T13:30:00Z",
-   "home": "Augsburg",
-   "hs": "1",
-   "away": "Union Berlin",
-   "as": "1",
-   "leaders": []
-  },
-  {
-   "league": "Bundesliga",
-   "date": "2026-10-24T13:30:00Z",
-   "home": "Cologne",
-   "hs": "0",
-   "away": "Schalke",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "Bundesliga",
-   "date": "2026-10-24T13:30:00Z",
-   "home": "Mainz",
-   "hs": "2",
-   "away": "Bremen",
-   "as": "3",
-   "leaders": []
-  },
-  {
-   "league": "Bundesliga",
-   "date": "2026-10-24T13:30:00Z",
-   "home": "RB Leipzig",
+   "league": "La Liga",
+   "date": "2026-10-25T13:00:00Z",
+   "home": "Athletic",
    "hs": "4",
-   "away": "Elversberg",
+   "away": "Getafe",
    "as": "0",
    "leaders": []
   },
   {
    "league": "Bundesliga",
-   "date": "2026-10-24T13:30:00Z",
-   "home": "Paderborn",
+   "date": "2026-10-25T16:30:00Z",
+   "home": "Freiburg",
    "hs": "1",
-   "away": "Hamburg",
+   "away": "Bayern",
+   "as": "3",
+   "leaders": []
+  },
+  {
+   "league": "Bundesliga",
+   "date": "2026-10-25T14:30:00Z",
+   "home": "Hoffenheim",
+   "hs": "3",
+   "away": "Leverkusen",
    "as": "0",
    "leaders": []
   },
   {
    "league": "Serie A",
-   "date": "2026-10-24T18:45:00Z",
-   "home": "Lazio",
-   "hs": "2",
-   "away": "Parma",
-   "as": "1",
-   "leaders": []
-  },
-  {
-   "league": "Serie A",
-   "date": "2026-10-24T16:00:00Z",
-   "home": "Napoli",
-   "hs": "3",
-   "away": "AS Roma",
-   "as": "3",
-   "leaders": []
-  },
-  {
-   "league": "Serie A",
-   "date": "2026-10-24T13:00:00Z",
-   "home": "Cagliari",
+   "date": "2026-10-25T19:45:00Z",
+   "home": "Udinese",
    "hs": "0",
-   "away": "Bologna",
+   "away": "Milan",
    "as": "2",
    "leaders": []
   },
   {
    "league": "Serie A",
-   "date": "2026-10-24T13:00:00Z",
-   "home": "Como",
+   "date": "2026-10-25T17:00:00Z",
+   "home": "Lecce",
+   "hs": "0",
+   "away": "Juventus",
+   "as": "2",
+   "leaders": []
+  },
+  {
+   "league": "Serie A",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "Atalanta",
+   "hs": "4",
+   "away": "Frosinone",
+   "as": "4",
+   "leaders": []
+  },
+  {
+   "league": "Serie A",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "Genoa",
+   "hs": "1",
+   "away": "Venezia",
+   "as": "0",
+   "leaders": []
+  },
+  {
+   "league": "Serie A",
+   "date": "2026-10-25T11:30:00Z",
+   "home": "Inter Milan",
    "hs": "2",
-   "away": "Sassuolo",
+   "away": "Fiorentina",
+   "as": "1",
+   "leaders": []
+  },
+  {
+   "league": "Ligue 1",
+   "date": "2026-10-25T16:15:00Z",
+   "home": "Auxerre",
+   "hs": "1",
+   "away": "Le Mans",
+   "as": "1",
+   "leaders": []
+  },
+  {
+   "league": "Ligue 1",
+   "date": "2026-10-25T16:15:00Z",
+   "home": "Angers",
+   "hs": "0",
+   "away": "Lorient",
    "as": "0",
    "leaders": []
   },
   {
    "league": "Ligue 1",
-   "date": "2026-10-24T18:45:00Z",
-   "home": "Lens",
-   "hs": "2",
-   "away": "Paris FC",
-   "as": "1",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T02:30:00Z",
-   "home": "Portland",
-   "hs": "3",
-   "away": "Charlotte",
-   "as": "2",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T02:30:00Z",
-   "home": "San Diego",
-   "hs": "2",
-   "away": "Seattle",
-   "as": "2",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T01:30:00Z",
-   "home": "Colorado",
-   "hs": "1",
-   "away": "Vancouver",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T01:30:00Z",
-   "home": "Salt Lake",
-   "hs": "3",
-   "away": "St. Louis",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T00:30:00Z",
-   "home": "Dallas",
-   "hs": "3",
-   "away": "San Jose",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T00:30:00Z",
-   "home": "Houston",
-   "hs": "0",
-   "away": "Minnesota",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-25T00:30:00Z",
-   "home": "Kansas City",
-   "hs": "1",
-   "away": "Austin",
-   "as": "2",
-   "leaders": []
-  },
-  {
-   "league": "MLS",
-   "date": "2026-10-24T23:30:00Z",
-   "home": "Atlanta",
-   "hs": "2",
-   "away": "Chicago",
+   "date": "2026-10-25T16:15:00Z",
+   "home": "Marseille",
+   "hs": "4",
+   "away": "Le Havre AC",
    "as": "3",
    "leaders": []
   },
   {
-   "league": "NWSL",
-   "date": "2026-10-25T00:45:00Z",
-   "home": "Angel City",
-   "hs": "2",
-   "away": "Bay",
+   "league": "Ligue 1",
+   "date": "2026-10-25T16:15:00Z",
+   "home": "Rennes",
+   "hs": "3",
+   "away": "Strasbourg",
    "as": "0",
    "leaders": []
   },
   {
-   "league": "NWSL",
-   "date": "2026-10-24T22:30:00Z",
-   "home": "Denver",
-   "hs": "6",
-   "away": "Louisville",
+   "league": "Ligue 1",
+   "date": "2026-10-25T16:15:00Z",
+   "home": "Toulouse",
+   "hs": "0",
+   "away": "Troyes",
+   "as": "0",
+   "leaders": []
+  },
+  {
+   "league": "Ligue 1",
+   "date": "2026-10-25T14:00:00Z",
+   "home": "Monaco",
+   "hs": "1",
+   "away": "Lille",
    "as": "1",
+   "leaders": []
+  },
+  {
+   "league": "MLS",
+   "date": "2026-10-26T01:00:00Z",
+   "home": "LAFC",
+   "hs": "2",
+   "away": "LA Galaxy",
+   "as": "2",
+   "leaders": []
+  },
+  {
+   "league": "NWSL",
+   "date": "2026-10-25T23:00:00Z",
+   "home": "San Diego",
+   "hs": "2",
+   "away": "Boston",
+   "as": "2",
+   "leaders": []
+  },
+  {
+   "league": "NWSL",
+   "date": "2026-10-25T21:00:00Z",
+   "home": "Kansas City",
+   "hs": "2",
+   "away": "Washington",
+   "as": "1",
+   "leaders": []
+  },
+  {
+   "league": "NWSL",
+   "date": "2026-10-25T19:00:00Z",
+   "home": "Orlando",
+   "hs": "1",
+   "away": "Gotham",
+   "as": "2",
    "leaders": []
   }
  ],
@@ -4741,6 +4672,82 @@
   "nwsl_401854093": 1,
   "nwsl_draw_401854093": 0,
   "nwsl_401854030": 1,
-  "nwsl_draw_401854030": 0
+  "nwsl_draw_401854030": 0,
+  "nfl_401873011": 0,
+  "nfl_401873017": 1,
+  "nfl_401873013": 0,
+  "nfl_401873014": 1,
+  "nfl_401873015": 0,
+  "nfl_401873018": 0,
+  "nfl_401873012": 0,
+  "nfl_401873016": 0,
+  "nfl_401873019": 0,
+  "nfl_401873020": 1,
+  "nfl_401873021": 0,
+  "nfl_401873022": 1,
+  "nhl_401892578": 0,
+  "nhl_401892579": 1,
+  "nhl_401891807": 0,
+  "nhl_401892580": 1,
+  "nhl_401892581": 0,
+  "nba_401909861": 0,
+  "nba_401909862": 0,
+  "nba_401909863": 0,
+  "nba_401909864": 1,
+  "nba_401909865": 1,
+  "nba_401909866": 0,
+  "nba_401909867": 0,
+  "epl_401879254": 0,
+  "epl_draw_401879254": 0,
+  "epl_401878766": 0,
+  "epl_draw_401878766": 1,
+  "epl_401878765": 1,
+  "epl_draw_401878765": 0,
+  "epl_401879252": 0,
+  "epl_draw_401879252": 0,
+  "epl_401878764": 0,
+  "epl_draw_401878764": 1,
+  "liga_401882835": 1,
+  "liga_draw_401882835": 0,
+  "liga_401882833": 0,
+  "liga_draw_401882833": 1,
+  "liga_401882829": 1,
+  "liga_draw_401882829": 0,
+  "liga_401882832": 0,
+  "liga_draw_401882832": 0,
+  "bund_401884760": 1,
+  "bund_draw_401884760": 0,
+  "bund_401884759": 0,
+  "bund_draw_401884759": 0,
+  "sera_401875036": 1,
+  "sera_draw_401875036": 0,
+  "sera_401874972": 0,
+  "sera_draw_401874972": 1,
+  "sera_401874952": 1,
+  "sera_draw_401874952": 0,
+  "sera_401874772": 0,
+  "sera_draw_401874772": 0,
+  "sera_401874779": 0,
+  "sera_draw_401874779": 0,
+  "lig1_401876425": 0,
+  "lig1_draw_401876425": 1,
+  "lig1_401876429": 0,
+  "lig1_draw_401876429": 1,
+  "lig1_401876430": 0,
+  "lig1_draw_401876430": 1,
+  "lig1_401876426": 1,
+  "lig1_draw_401876426": 0,
+  "lig1_401876424": 1,
+  "lig1_draw_401876424": 0,
+  "lig1_401876423": 0,
+  "lig1_draw_401876423": 1,
+  "mls_761904": 0,
+  "mls_draw_761904": 1,
+  "nwsl_401854031": 0,
+  "nwsl_draw_401854031": 0,
+  "nwsl_401854032": 1,
+  "nwsl_draw_401854032": 0,
+  "nwsl_401854094": 0,
+  "nwsl_draw_401854094": 1
  }
 }
