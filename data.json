@@ -1,24 +1,6 @@
 {
- "asof": "Nov 26, 2026",
+ "asof": "Nov 27, 2026",
  "markets": [
-  {
-   "id": "nfl_401873080",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 77,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will the Cowboys beat the Eagles?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "nfl_401873082",
-   "c": "Sports",
-   "tag": "NFL",
-   "px": 61,
-   "t": "2026-11-27T01:20:00Z",
-   "q": "Will the Bills beat the Chiefs?",
-   "src": "ESPN point spread"
-  },
   {
    "id": "nfl_401873083",
    "c": "Sports",
@@ -50,7 +32,7 @@
    "id": "nfl_401873089",
    "c": "Sports",
    "tag": "NFL",
-   "px": 34,
+   "px": 31,
    "t": "2026-11-29T18:00:00Z",
    "q": "Will the Dolphins beat the Jets?",
    "src": "ESPN point spread"
@@ -68,7 +50,7 @@
    "id": "nfl_401873090",
    "c": "Sports",
    "tag": "NFL",
-   "px": 89,
+   "px": 88,
    "t": "2026-11-29T18:00:00Z",
    "q": "Will the Jaguars beat the Titans?",
    "src": "ESPN point spread"
@@ -128,30 +110,12 @@
    "src": "ESPN point spread"
   },
   {
-   "id": "cfb_401856879",
+   "id": "nfl_401873096",
    "c": "Sports",
-   "tag": "College football",
-   "px": 88,
-   "t": "2026-11-27T01:00:00Z",
-   "q": "Will No. 11 Texas Tech beat TCU?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cfb_401858536",
-   "c": "Sports",
-   "tag": "College football",
-   "px": 62,
-   "t": "2026-11-27T17:00:00Z",
-   "q": "Will No. 13 Iowa beat No. 25 Nebraska?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cfb_401856762",
-   "c": "Sports",
-   "tag": "College football",
-   "px": 94,
-   "t": "2026-11-27T17:00:00Z",
-   "q": "Will No. 22 Ole Miss beat Mississippi St?",
+   "tag": "NFL",
+   "px": 55,
+   "t": "2026-12-04T01:15:00Z",
+   "q": "Will the Rams beat the Chiefs?",
    "src": "ESPN point spread"
   },
   {
@@ -167,7 +131,7 @@
    "id": "cfb_401856756",
    "c": "Sports",
    "tag": "College football",
-   "px": 16,
+   "px": 18,
    "t": "2026-11-28T00:30:00Z",
    "q": "Will Texas A&M beat No. 3 Texas?",
    "src": "ESPN point spread"
@@ -176,7 +140,7 @@
    "id": "cfb_401858544",
    "c": "Sports",
    "tag": "College football",
-   "px": 75,
+   "px": 80,
    "t": "2026-11-28T00:30:00Z",
    "q": "Will Wisconsin beat Minnesota?",
    "src": "ESPN point spread"
@@ -230,7 +194,7 @@
    "id": "cfb_401858313",
    "c": "Sports",
    "tag": "College football",
-   "px": 70,
+   "px": 69,
    "t": "2026-11-28T17:00:00Z",
    "q": "Will North Carolina beat NC State?",
    "src": "ESPN point spread"
@@ -266,7 +230,7 @@
    "id": "cfb_401856878",
    "c": "Sports",
    "tag": "College football",
-   "px": 62,
+   "px": 64,
    "t": "2026-11-28T19:00:00Z",
    "q": "Will Iowa State beat Kansas St?",
    "src": "ESPN point spread"
@@ -275,7 +239,7 @@
    "id": "cfb_401856764",
    "c": "Sports",
    "tag": "College football",
-   "px": 30,
+   "px": 28,
    "t": "2026-11-28T20:00:00Z",
    "q": "Will Clemson beat South Carolina?",
    "src": "ESPN point spread"
@@ -311,7 +275,7 @@
    "id": "cfb_401858543",
    "c": "Sports",
    "tag": "College football",
-   "px": 28,
+   "px": 34,
    "t": "2026-11-28T20:30:00Z",
    "q": "Will No. 9 UCLA beat No. 15 USC?",
    "src": "ESPN point spread"
@@ -329,7 +293,7 @@
    "id": "cfb_401858316",
    "c": "Sports",
    "tag": "College football",
-   "px": 27,
+   "px": 25,
    "t": "2026-11-28T20:30:00Z",
    "q": "Will Stanford beat SMU?",
    "src": "ESPN point spread"
@@ -338,7 +302,7 @@
    "id": "cfb_401858539",
    "c": "Sports",
    "tag": "College football",
-   "px": 27,
+   "px": 25,
    "t": "2026-11-28T20:30:00Z",
    "q": "Will Maryland beat Penn State?",
    "src": "ESPN point spread"
@@ -356,7 +320,7 @@
    "id": "cfb_401858542",
    "c": "Sports",
    "tag": "College football",
-   "px": 39,
+   "px": 41,
    "t": "2026-11-28T21:15:00Z",
    "q": "Will Rutgers beat Michigan St?",
    "src": "ESPN point spread"
@@ -365,7 +329,7 @@
    "id": "cfb_401856877",
    "c": "Sports",
    "tag": "College football",
-   "px": 72,
+   "px": 70,
    "t": "2026-11-28T23:15:00Z",
    "q": "Will Oklahoma St beat Kansas?",
    "src": "ESPN point spread"
@@ -392,7 +356,7 @@
    "id": "cfb_401856757",
    "c": "Sports",
    "tag": "College football",
-   "px": 90,
+   "px": 89,
    "t": "2026-11-29T00:30:00Z",
    "q": "Will No. 6 Alabama beat Auburn?",
    "src": "ESPN point spread"
@@ -419,7 +383,7 @@
    "id": "cfb_401856873",
    "c": "Sports",
    "tag": "College football",
-   "px": 75,
+   "px": 77,
    "t": "2026-11-29T02:00:00Z",
    "q": "Will No. 16 Arizona beat Arizona St?",
    "src": "ESPN point spread"
@@ -428,46 +392,10 @@
    "id": "cfb_401856874",
    "c": "Sports",
    "tag": "College football",
-   "px": 66,
+   "px": 62,
    "t": "2026-11-29T02:30:00Z",
    "q": "Will No. 18 Houston beat Baylor?",
    "src": "ESPN point spread"
-  },
-  {
-   "id": "nhl_401892795",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 76,
-   "t": "2026-11-27T18:00:00Z",
-   "q": "Will the Bruins beat the Maple Leafs?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892796",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 74,
-   "t": "2026-11-27T18:00:00Z",
-   "q": "Will the Devils beat the Flames?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892797",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 62,
-   "t": "2026-11-27T18:00:00Z",
-   "q": "Will the Predators beat the Mammoth?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "nhl_401892798",
-   "c": "Sports",
-   "tag": "NHL",
-   "px": 44,
-   "t": "2026-11-27T19:00:00Z",
-   "q": "Will the Blues beat the Stars?",
-   "src": "team records (no betting line yet)"
   },
   {
    "id": "nhl_401892799",
@@ -686,10 +614,28 @@
    "src": "team records (no betting line yet)"
   },
   {
+   "id": "nhl_401892823",
+   "c": "Sports",
+   "tag": "NHL",
+   "px": 20,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will the Blackhawks beat the Wild?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nhl_401892824",
+   "c": "Sports",
+   "tag": "NHL",
+   "px": 88,
+   "t": "2026-11-29T22:00:00Z",
+   "q": "Will the Bruins beat the Canucks?",
+   "src": "team records (no betting line yet)"
+  },
+  {
    "id": "nba_401909326",
    "c": "Sports",
    "tag": "NBA",
-   "px": 63,
+   "px": 59,
    "t": "2026-11-28T00:00:00Z",
    "q": "Will the Knicks beat the Heat?",
    "src": "ESPN point spread"
@@ -698,7 +644,7 @@
    "id": "nba_401909327",
    "c": "Sports",
    "tag": "NBA",
-   "px": 85,
+   "px": 81,
    "t": "2026-11-28T00:30:00Z",
    "q": "Will the Pistons beat the Bucks?",
    "src": "ESPN point spread"
@@ -716,7 +662,7 @@
    "id": "nba_401909329",
    "c": "Sports",
    "tag": "NBA",
-   "px": 75,
+   "px": 81,
    "t": "2026-11-28T00:30:00Z",
    "q": "Will the Raptors beat the Nets?",
    "src": "ESPN point spread"
@@ -725,7 +671,7 @@
    "id": "nba_401909330",
    "c": "Sports",
    "tag": "NBA",
-   "px": 81,
+   "px": 78,
    "t": "2026-11-28T01:00:00Z",
    "q": "Will the Celtics beat the Hawks?",
    "src": "ESPN point spread"
@@ -743,7 +689,7 @@
    "id": "nba_401909332",
    "c": "Sports",
    "tag": "NBA",
-   "px": 59,
+   "px": 63,
    "t": "2026-11-28T02:00:00Z",
    "q": "Will the Suns beat the Mavericks?",
    "src": "ESPN point spread"
@@ -770,7 +716,7 @@
    "id": "nba_401909335",
    "c": "Sports",
    "tag": "NBA",
-   "px": 63,
+   "px": 59,
    "t": "2026-11-28T02:30:00Z",
    "q": "Will the Clippers beat the Pelicans?",
    "src": "ESPN point spread"
@@ -830,6 +776,96 @@
    "src": "team records (no betting line yet)"
   },
   {
+   "id": "nba_401910054",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 42,
+   "t": "2026-11-29T20:30:00Z",
+   "q": "Will the Cavaliers beat the Heat?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910051",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 39,
+   "t": "2026-11-29T21:00:00Z",
+   "q": "Will the Grizzlies beat the Lakers?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910052",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 68,
+   "t": "2026-11-29T21:00:00Z",
+   "q": "Will the Spurs beat the Celtics?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910053",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 17,
+   "t": "2026-11-29T22:00:00Z",
+   "q": "Will the Jazz beat the Suns?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910055",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 75,
+   "t": "2026-11-29T23:00:00Z",
+   "q": "Will the Pistons beat the Magic?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910056",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 55,
+   "t": "2026-11-29T23:00:00Z",
+   "q": "Will the Knicks beat the Hawks?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910057",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 28,
+   "t": "2026-11-29T23:00:00Z",
+   "q": "Will the Raptors beat the Nuggets?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910058",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 88,
+   "t": "2026-11-29T23:00:00Z",
+   "q": "Will the Trail Blazers beat the Pelicans?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910059",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 83,
+   "t": "2026-11-30T01:30:00Z",
+   "q": "Will the Warriors beat the Clippers?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "nba_401910060",
+   "c": "Sports",
+   "tag": "NBA",
+   "px": 10,
+   "t": "2026-11-30T02:00:00Z",
+   "q": "Will the Kings beat the Timberwolves?",
+   "src": "team records (no betting line yet)"
+  },
+  {
    "id": "p_nba_401909326_3934672_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
@@ -884,12 +920,12 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909327_4432166_pointsPerGame",
+   "id": "p_nba_401909327_5107199_pointsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
    "t": "2026-11-28T00:30:00Z",
-   "q": "Will Cade Cunningham have 24+ points against the Bucks?",
+   "q": "Will Daniss Jenkins have 14+ points against the Bucks?",
    "src": "ESPN season stat leaders"
   },
   {
@@ -902,12 +938,12 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909327_4432166_assistsPerGame",
+   "id": "p_nba_401909327_4684742_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
    "t": "2026-11-28T00:30:00Z",
-   "q": "Will Cade Cunningham have 8+ assists against the Bucks?",
+   "q": "Will Ausar Thompson have 5+ assists against the Bucks?",
    "src": "ESPN season stat leaders"
   },
   {
@@ -1118,12 +1154,12 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_nba_401909331_4432816_assistsPerGame",
+   "id": "p_nba_401909331_4431671_assistsPerGame",
    "c": "Sports",
    "tag": "NBA player stats",
    "px": 48,
    "t": "2026-11-28T01:30:00Z",
-   "q": "Will LaMelo Ball have 6+ assists against the Grizzlies?",
+   "q": "Will Jaden McDaniels have 4+ assists against the Grizzlies?",
    "src": "ESPN season stat leaders"
   },
   {
@@ -1154,400 +1190,346 @@
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "cbb_401920529",
+   "id": "cbb_401928468",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 66,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Iowa State beat No. 9 Tennessee?",
+   "px": 34,
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Louisiana Tech beat Texas St?",
    "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920537",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 44,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Michigan beat No. 17 Miami?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401925757",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 70,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will No. 11 Michigan St beat Arkansas?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401921673",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 56,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will No. 18 USC beat Utah State?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401917547",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 75,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will No. 6 UCLA beat Saint Mary's?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920538",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 56,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Creighton beat TCU?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401918972",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 75,
-   "t": "2026-11-27T00:00:00Z",
-   "q": "Will No. 20 LSU beat SMU?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401909506",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 44,
-   "t": "2026-11-27T00:00:00Z",
-   "q": "Will Pitt beat DePaul?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401911523",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 37,
-   "t": "2026-11-27T01:00:00Z",
-   "q": "Will UC Davis beat Jax State?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920530",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 56,
-   "t": "2026-11-27T02:00:00Z",
-   "q": "Will No. 13 St John's beat No. 25 Louisville?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920539",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 12,
-   "t": "2026-11-27T02:00:00Z",
-   "q": "Will Kansas St beat No. 15 Alabama?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401917546",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 25,
-   "t": "2026-11-27T03:30:00Z",
-   "q": "Will Omaha beat Pacific?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920531",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 17,
-   "t": "2026-11-27T04:30:00Z",
-   "q": "Will Oregon beat No. 5 Texas Tech?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920540",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 63,
-   "t": "2026-11-27T04:30:00Z",
-   "q": "Will No. 22 Gonzaga beat Baylor?",
-   "src": "ESPN point spread"
-  },
-  {
-   "id": "cbb_401920848",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 51,
-   "t": "2026-11-27T17:00:00Z",
-   "q": "Will St Thomas beat Liberty?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401924810",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 28,
-   "t": "2026-11-27T18:00:00Z",
-   "q": "Will Merrimack beat Vermont?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401921416",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 90,
-   "t": "2026-11-27T18:00:00Z",
-   "q": "Will UMass Lowell beat Hampton?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401929288",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 48,
-   "t": "2026-11-27T18:30:00Z",
-   "q": "Will No. 24 Memphis beat Wake Forest?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401929181",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 65,
-   "t": "2026-11-27T19:00:00Z",
-   "q": "Will Fresno St beat South Alabama?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401921224",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 58,
-   "t": "2026-11-27T19:00:00Z",
-   "q": "Will Fairfield beat Navy?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401919786",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 68,
-   "t": "2026-11-27T19:00:00Z",
-   "q": "Will Le Moyne beat Maine?",
-   "src": "team records (no betting line yet)"
   },
   {
    "id": "cbb_401924738",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 74,
+   "px": 75,
    "t": "2026-11-27T20:00:00Z",
    "q": "Will UNC Wilmington beat Princeton?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920542",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 66,
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Baylor beat TCU?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401902282",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 66,
+   "px": 94,
    "t": "2026-11-27T20:00:00Z",
    "q": "Will Butler beat Bellarmine?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401921417",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 21,
+   "px": 19,
    "t": "2026-11-27T20:30:00Z",
    "q": "Will Bucknell beat La Salle?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401920774",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 60,
+   "px": 56,
    "t": "2026-11-27T20:30:00Z",
    "q": "Will Hofstra beat Colgate?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920532",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 37,
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Oregon beat Maryland?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401921818",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 97,
+   "t": "2026-11-27T21:00:00Z",
+   "q": "Will Missouri beat AR-Pine Bluff?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401912213",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 83,
+   "px": 73,
    "t": "2026-11-27T21:00:00Z",
    "q": "Will American beat Radford?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401911212",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 79,
+   "px": 96,
    "t": "2026-11-27T21:00:00Z",
    "q": "Will G Washington beat UMBC?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401929283",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 22,
+   "t": "2026-11-27T21:30:00Z",
+   "q": "Will Boston College beat Cincinnati?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401924845",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 78,
+   "px": 70,
    "t": "2026-11-27T21:30:00Z",
    "q": "Will Lafayette beat Niagara?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401921718",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 25,
+   "t": "2026-11-27T22:00:00Z",
+   "q": "Will Saint Mary's beat No. 7 Texas?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401909789",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 74,
+   "px": 83,
    "t": "2026-11-27T22:00:00Z",
    "q": "Will No. 12 Kansas beat Villanova?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401920810",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 85,
+   "px": 44,
    "t": "2026-11-27T22:00:00Z",
    "q": "Will Texas A&M beat Marquette?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401920382",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 53,
+   "px": 93,
    "t": "2026-11-27T22:00:00Z",
    "q": "Will Virginia Tech beat Old Dominion?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401927366",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 53,
+   "px": 73,
    "t": "2026-11-27T22:30:00Z",
    "q": "Will Boise St beat Drake?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920541",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 19,
+   "t": "2026-11-27T22:30:00Z",
+   "q": "Will Kansas St beat Michigan?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401913531",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 74,
+   "px": 97,
    "t": "2026-11-27T23:00:00Z",
    "q": "Will No. 4 Illinois beat Western KY?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401911030",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 96,
+   "t": "2026-11-27T23:00:00Z",
+   "q": "Will No. 23 Indiana beat Bowling Green?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401921185",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 67,
+   "px": 63,
    "t": "2026-11-27T23:00:00Z",
    "q": "Will Penn beat Towson?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401929284",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 78,
+   "px": 70,
    "t": "2026-11-28T00:00:00Z",
    "q": "Will Georgia beat UCF?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401926756",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 88,
+   "t": "2026-11-28T00:00:00Z",
+   "q": "Will Santa Barbara beat Lehigh?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401912711",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 74,
+   "px": 41,
    "t": "2026-11-28T00:00:00Z",
    "q": "Will North Carolina beat West Virginia?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401911380",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 74,
+   "px": 81,
    "t": "2026-11-28T00:00:00Z",
    "q": "Will ETSU beat Charleston So?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401925703",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 97,
+   "t": "2026-11-28T00:30:00Z",
+   "q": "Will No. 1 Houston beat Oakland?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401929289",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 53,
+   "px": 73,
    "t": "2026-11-28T00:30:00Z",
    "q": "Will Mississippi St beat Penn State?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401928624",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 66,
+   "t": "2026-11-28T01:00:00Z",
+   "q": "Will Oral Roberts beat Missouri St?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401925829",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 74,
+   "px": 70,
    "t": "2026-11-28T01:00:00Z",
    "q": "Will North Texas beat N Dakota St?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401922264",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 39,
+   "px": 85,
    "t": "2026-11-28T01:00:00Z",
    "q": "Will Washington St beat Idaho?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401920737",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 80,
+   "px": 87,
    "t": "2026-11-28T01:00:00Z",
    "q": "Will Northwestern beat Northeastern?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401911524",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 47,
+   "px": 27,
    "t": "2026-11-28T01:00:00Z",
    "q": "Will UC Davis beat Pacific?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920543",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 44,
+   "t": "2026-11-28T01:30:00Z",
+   "q": "Will No. 15 Alabama beat No. 17 Miami?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920534",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 63,
+   "t": "2026-11-28T02:00:00Z",
+   "q": "Will No. 25 Louisville beat No. 9 Tennessee?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401919033",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 28,
+   "px": 66,
    "t": "2026-11-28T02:00:00Z",
    "q": "Will Kentucky beat Wichita St?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401926783",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 39,
+   "px": 30,
    "t": "2026-11-28T03:30:00Z",
    "q": "Will Omaha beat Jax State?",
-   "src": "team records (no betting line yet)"
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920544",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 73,
+   "t": "2026-11-28T04:00:00Z",
+   "q": "Will No. 22 Gonzaga beat Creighton?",
+   "src": "ESPN point spread"
+  },
+  {
+   "id": "cbb_401920535",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 78,
+   "t": "2026-11-28T04:30:00Z",
+   "q": "Will No. 5 Texas Tech beat San Diego St?",
+   "src": "ESPN point spread"
   },
   {
    "id": "cbb_401920890",
@@ -1562,7 +1544,7 @@
    "id": "cbb_401920849",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 36,
+   "px": 32,
    "t": "2026-11-28T17:00:00Z",
    "q": "Will St Thomas beat Princeton?",
    "src": "team records (no betting line yet)"
@@ -1685,6 +1667,15 @@
    "src": "team records (no betting line yet)"
   },
   {
+   "id": "cbb_401920859",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 39,
+   "t": "2026-11-28T19:00:00Z",
+   "q": "Will Marshall beat East Texas A&M?",
+   "src": "team records (no betting line yet)"
+  },
+  {
    "id": "cbb_401920728",
    "c": "Sports",
    "tag": "College basketball",
@@ -1769,7 +1760,7 @@
    "id": "cbb_401926796",
    "c": "Sports",
    "tag": "College basketball",
-   "px": 85,
+   "px": 81,
    "t": "2026-11-28T20:00:00Z",
    "q": "Will UNC Wilmington beat Liberty?",
    "src": "team records (no betting line yet)"
@@ -1880,15 +1871,6 @@
    "px": 63,
    "t": "2026-11-28T21:00:00Z",
    "q": "Will Stony Brook beat Delaware?",
-   "src": "team records (no betting line yet)"
-  },
-  {
-   "id": "cbb_401920859",
-   "c": "Sports",
-   "tag": "College basketball",
-   "px": 39,
-   "t": "2026-11-28T21:00:00Z",
-   "q": "Will Marshall beat East Texas A&M?",
    "src": "team records (no betting line yet)"
   },
   {
@@ -2063,346 +2045,508 @@
    "src": "team records (no betting line yet)"
   },
   {
-   "id": "p_cbb_401920529_5226071_pointsPerGame",
+   "id": "cbb_401919851",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 90,
+   "t": "2026-11-29T01:00:00Z",
+   "q": "Will Notre Dame beat Stonehill?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401917551",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 40,
+   "t": "2026-11-29T03:00:00Z",
+   "q": "Will UC San Diego beat LMU?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401923306",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 65,
+   "t": "2026-11-29T17:00:00Z",
+   "q": "Will Maine beat Niagara?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401920776",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 70,
+   "t": "2026-11-29T17:00:00Z",
+   "q": "Will Colgate beat Merrimack?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401911189",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 16,
+   "t": "2026-11-29T18:00:00Z",
+   "q": "Will Dayton beat No. 24 Memphis?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401927392",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 56,
+   "t": "2026-11-29T18:00:00Z",
+   "q": "Will UMass beat Loyola Chicago?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401921415",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 83,
+   "t": "2026-11-29T18:00:00Z",
+   "q": "Will UMass Lowell beat Radford?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401920238",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 59,
+   "t": "2026-11-29T18:00:00Z",
+   "q": "Will App State beat Dartmouth?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401920280",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 60,
+   "t": "2026-11-29T18:30:00Z",
+   "q": "Will UIC beat Canisius?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401928808",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 53,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Green Bay beat North Dakota?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401926815",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 68,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Charleston beat Howard?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401925866",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 53,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Tulsa beat IU Indy?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401924764",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 53,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Fairfield beat C Connecticut?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401924745",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 66,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Yale beat Quinnipiac?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401923263",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 70,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will FAU beat Davidson?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401921288",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 17,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Holy Cross beat New Hampshire?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401921098",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 53,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Arkansas St beat Rice?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401920869",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 83,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Sacred Heart beat NJIT?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401917984",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 61,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will Tulane beat UL Monroe?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "cbb_401917905",
+   "c": "Sports",
+   "tag": "College basketball",
+   "px": 29,
+   "t": "2026-11-29T19:00:00Z",
+   "q": "Will SC Upstate beat West Georgia?",
+   "src": "team records (no betting line yet)"
+  },
+  {
+   "id": "p_cbb_401928468_5461585_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Tre Singleton have 19+ points against the Tennessee?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Braylon Wenger have 18+ points against the Texas St?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920529_5226071_reboundsPerGame",
+   "id": "p_cbb_401928468_5254333_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Tre Singleton have 6+ rebounds against the Tennessee?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Jaylen Fenner have 9+ rebounds against the Texas St?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920529_5106254_assistsPerGame",
+   "id": "p_cbb_401928468_5461583_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Tamin Lipsey have 4+ assists against the Tennessee?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Adam Boyd have 4+ assists against the Texas St?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920529_5060712_pointsPerGame",
+   "id": "p_cbb_401928468_5313358_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Terrence Hill Jr. have 14+ points against the Iowa State?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will DJ Hall have 15+ points against the Louisiana Tech?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920529_5142710_reboundsPerGame",
+   "id": "p_cbb_401928468_5313358_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will DeWayne Brown II have 8+ rebounds against the Iowa State?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will DJ Hall have 7+ rebounds against the Louisiana Tech?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920529_5060712_assistsPerGame",
+   "id": "p_cbb_401928468_5176728_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Terrence Hill Jr. have 4+ assists against the Iowa State?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Kaden Gumbs have 4+ assists against the Louisiana Tech?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920537_5041954_pointsPerGame",
+   "id": "p_cbb_401924738_4838717_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Trey McKenney have 17+ points against the Miami?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Patrick Wessler have 21+ points against the Princeton?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920537_5093142_reboundsPerGame",
+   "id": "p_cbb_401924738_4838717_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will J.P. Estrella have 8+ rebounds against the Miami?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Patrick Wessler have 12+ rebounds against the Princeton?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920537_4869764_assistsPerGame",
+   "id": "p_cbb_401924738_5315245_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Elliot Cadeau have 6+ assists against the Miami?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Tahlan Pettway have 3+ assists against the Princeton?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920537_5101809_pointsPerGame",
+   "id": "p_cbb_401924738_5177174_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Shelton Henderson have 14+ points against the Michigan?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Jackson Hicke have 17+ points against the UNC Wilmington?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920537_5101809_reboundsPerGame",
+   "id": "p_cbb_401924738_5177174_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Shelton Henderson have 7+ rebounds against the Michigan?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Jackson Hicke have 6+ rebounds against the UNC Wilmington?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920537_5144105_assistsPerGame",
+   "id": "p_cbb_401924738_5177174_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T20:30:00Z",
-   "q": "Will Acaden Lewis have 5+ assists against the Michigan?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Jackson Hicke have 4+ assists against the UNC Wilmington?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401925757_4711255_pointsPerGame",
+   "id": "p_cbb_401920542_5144108_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Jeremy Fears Jr. have 17+ points against the Arkansas?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Kayden Mingo have 15+ points against the TCU?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401925757_5101798_reboundsPerGame",
+   "id": "p_cbb_401920542_5144473_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Cam Ward have 6+ rebounds against the Arkansas?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Dylan Mingo have 6+ rebounds against the TCU?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401925757_4711255_assistsPerGame",
+   "id": "p_cbb_401920542_5144108_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Jeremy Fears Jr. have 9+ assists against the Arkansas?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Kayden Mingo have 4+ assists against the TCU?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401925757_5060732_pointsPerGame",
+   "id": "p_cbb_401920542_5037876_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Billy Richmond III have 15+ points against the Michigan St?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Micah Robinson have 19+ points against the Baylor?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401925757_5176136_reboundsPerGame",
+   "id": "p_cbb_401920542_5311928_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Cooper Bowser have 6+ rebounds against the Michigan St?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Xavier Edmonds have 8+ rebounds against the Baylor?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401925757_5210941_assistsPerGame",
+   "id": "p_cbb_401920542_5103589_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Davion Thompson have 6+ assists against the Michigan St?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Brock Harding have 9+ assists against the Baylor?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401921673_5144495_pointsPerGame",
+   "id": "p_cbb_401919021_4873087_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Alijah Arenas have 22+ points against the Utah State?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Deuce Jones have 17+ points against the AU Montgomery?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401921673_5210968_reboundsPerGame",
+   "id": "p_cbb_401919021_5243102_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Adonis Ratliff have 6+ rebounds against the Utah State?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Jeremy Elyzee have 6+ rebounds against the AU Montgomery?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401921673_4684634_assistsPerGame",
+   "id": "p_cbb_401919021_4873087_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Rodney Rice have 5+ assists against the Utah State?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Deuce Jones have 4+ assists against the AU Montgomery?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401921673_5107864_pointsPerGame",
+   "id": "p_cbb_401902282_5459441_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Mason Falslev have 21+ points against the USC?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Asim Djulovic have 19+ points against the Bellarmine?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401921673_5107864_reboundsPerGame",
+   "id": "p_cbb_401902282_5143607_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Mason Falslev have 8+ rebounds against the USC?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Drayton Jones have 7+ rebounds against the Bellarmine?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401921673_5105464_assistsPerGame",
+   "id": "p_cbb_401902282_5171788_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T21:30:00Z",
-   "q": "Will Dallin Hall have 7+ assists against the USC?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Eduardo Klafke have 5+ assists against the Bellarmine?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401917547_5060706_pointsPerGame",
+   "id": "p_cbb_401902282_5239763_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will Trent Perry have 16+ points against the Saint Mary's?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Tyler Doyle have 15+ points against the Butler?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401917547_4610012_reboundsPerGame",
+   "id": "p_cbb_401902282_5239763_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will Eric Dailey Jr. have 7+ rebounds against the Saint Mary's?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Tyler Doyle have 4+ rebounds against the Butler?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401917547_5060706_assistsPerGame",
+   "id": "p_cbb_401902282_5239763_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will Trent Perry have 6+ assists against the Saint Mary's?",
+   "t": "2026-11-27T20:00:00Z",
+   "q": "Will Tyler Doyle have 4+ assists against the Butler?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401917547_5313030_pointsPerGame",
+   "id": "p_cbb_401921417_5239546_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will Mantas Juzenas have 21+ points against the UCLA?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Aleksander Pachucki have 14+ points against the La Salle?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401917547_5313030_reboundsPerGame",
+   "id": "p_cbb_401921417_5242277_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will Mantas Juzenas have 9+ rebounds against the UCLA?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Luca Soroa Schaller have 4+ rebounds against the La Salle?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401917547_5183875_assistsPerGame",
+   "id": "p_cbb_401921417_5242277_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T22:00:00Z",
-   "q": "Will Joshua Dent have 5+ assists against the UCLA?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Luca Soroa Schaller have 5+ assists against the La Salle?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920538_5313560_pointsPerGame",
+   "id": "p_cbb_401921417_5176674_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Wes Enis have 18+ points against the TCU?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Kam Burton have 15+ points against the Bucknell?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920538_5164558_reboundsPerGame",
+   "id": "p_cbb_401921417_5175408_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Oswin Erhunmwunse have 4+ rebounds against the TCU?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Bowyn Beatty have 5+ rebounds against the Bucknell?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920538_5142717_assistsPerGame",
+   "id": "p_cbb_401921417_5240616_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Katrelle Harmon have 5+ assists against the TCU?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Jaden Johnson have 4+ assists against the Bucknell?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920538_5037876_pointsPerGame",
+   "id": "p_cbb_401920774_4897974_pointsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Micah Robinson have 20+ points against the Creighton?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Tanner Thomas have 12+ points against the Colgate?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920538_5311928_reboundsPerGame",
+   "id": "p_cbb_401920774_4897974_reboundsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Xavier Edmonds have 8+ rebounds against the Creighton?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Tanner Thomas have 6+ rebounds against the Colgate?",
    "src": "ESPN season stat leaders"
   },
   {
-   "id": "p_cbb_401920538_5103589_assistsPerGame",
+   "id": "p_cbb_401920774_5105780_assistsPerGame",
    "c": "Sports",
    "tag": "College basketball player stats",
    "px": 48,
-   "t": "2026-11-26T23:00:00Z",
-   "q": "Will Brock Harding have 9+ assists against the Creighton?",
+   "t": "2026-11-27T20:30:00Z",
+   "q": "Will Justin Moore have 5+ assists against the Colgate?",
    "src": "ESPN season stat leaders"
-  },
-  {
-   "id": "w_rain_20261126",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 3,
-   "t": "2026-11-27T05:59:00Z",
-   "q": "Will it rain in Houston on Thursday, Nov 26?",
-   "src": "National Weather Service"
-  },
-  {
-   "id": "w_hot_20261126",
-   "c": "Random",
-   "tag": "Weather",
-   "px": 3,
-   "t": "2026-11-27T05:59:00Z",
-   "q": "Will Houston hit a high of 85\u00b0F or more on Thursday, Nov 26?",
-   "src": "National Weather Service"
   },
   {
    "id": "w_rain_20261127",
@@ -2426,7 +2570,7 @@
    "id": "w_rain_20261128",
    "c": "Random",
    "tag": "Weather",
-   "px": 3,
+   "px": 4,
    "t": "2026-11-29T05:59:00Z",
    "q": "Will it rain in Houston on Saturday, Nov 28?",
    "src": "National Weather Service"
@@ -2456,6 +2600,24 @@
    "px": 3,
    "t": "2026-11-30T05:59:00Z",
    "q": "Will Houston hit a high of 85\u00b0F or more on Sunday, Nov 29?",
+   "src": "National Weather Service"
+  },
+  {
+   "id": "w_rain_20261130",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "t": "2026-12-01T05:59:00Z",
+   "q": "Will it rain in Houston on Monday, Nov 30?",
+   "src": "National Weather Service"
+  },
+  {
+   "id": "w_hot_20261130",
+   "c": "Random",
+   "tag": "Weather",
+   "px": 3,
+   "t": "2026-12-01T05:59:00Z",
+   "q": "Will Houston hit a high of 85\u00b0F or more on Monday, Nov 30?",
    "src": "National Weather Service"
   },
   {
@@ -3740,1171 +3902,410 @@
  "stats": [
   {
    "league": "NFL",
-   "date": "2026-11-26T01:00:00Z",
-   "home": "Rams",
-   "hs": "26",
-   "away": "Packers",
-   "as": "13",
+   "date": "2026-11-27T01:20:00Z",
+   "home": "Bills",
+   "hs": "13",
+   "away": "Chiefs",
+   "as": "10",
    "leaders": []
   },
   {
-   "league": "NHL",
-   "date": "2026-11-26T03:00:00Z",
-   "home": "Ducks",
-   "hs": "7",
-   "away": "Sharks",
-   "as": "0",
-   "leaders": [
-    {
-     "team": "Ducks",
-     "cat": "Goals",
-     "name": "Alex Killorn",
-     "val": "2"
-    },
-    {
-     "team": "Ducks",
-     "cat": "Assists",
-     "name": "Mikael Granlund",
-     "val": "3"
-    },
-    {
-     "team": "Ducks",
-     "cat": "Points",
-     "name": "Mikael Granlund",
-     "val": "3"
-    }
-   ]
+   "league": "NFL",
+   "date": "2026-11-26T21:30:00Z",
+   "home": "Cowboys",
+   "hs": "38",
+   "away": "Eagles",
+   "as": "39",
+   "leaders": []
   },
   {
-   "league": "NHL",
-   "date": "2026-11-26T02:40:00Z",
-   "home": "Kraken",
-   "hs": "1",
-   "away": "Blackhawks",
-   "as": "3",
-   "leaders": [
-    {
-     "team": "Kraken",
-     "cat": "Goals",
-     "name": "Jordan Eberle",
-     "val": "1"
-    },
-    {
-     "team": "Kraken",
-     "cat": "Assists",
-     "name": "Matty Beniers",
-     "val": "1"
-    },
-    {
-     "team": "Kraken",
-     "cat": "Points",
-     "name": "Jordan Eberle",
-     "val": "1"
-    },
-    {
-     "team": "Blackhawks",
-     "cat": "Goals",
-     "name": "Roman Kantserov",
-     "val": "2"
-    },
-    {
-     "team": "Blackhawks",
-     "cat": "Assists",
-     "name": "Jordan Greenway",
-     "val": "1"
-    },
-    {
-     "team": "Blackhawks",
-     "cat": "Points",
-     "name": "Roman Kantserov",
-     "val": "2"
-    }
-   ]
+   "league": "NFL",
+   "date": "2026-11-26T18:00:00Z",
+   "home": "Lions",
+   "hs": "35",
+   "away": "Bears",
+   "as": "39",
+   "leaders": []
   },
   {
-   "league": "NHL",
-   "date": "2026-11-26T02:30:00Z",
-   "home": "Avalanche",
-   "hs": "6",
-   "away": "Canadiens",
-   "as": "0",
-   "leaders": [
-    {
-     "team": "Avalanche",
-     "cat": "Goals",
-     "name": "Devon Toews",
-     "val": "2"
-    },
-    {
-     "team": "Avalanche",
-     "cat": "Assists",
-     "name": "Cale Makar",
-     "val": "3"
-    },
-    {
-     "team": "Avalanche",
-     "cat": "Points",
-     "name": "Martin Necas",
-     "val": "3"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-11-26T01:00:00Z",
-   "home": "Stars",
-   "hs": "1",
-   "away": "Predators",
-   "as": "3",
-   "leaders": [
-    {
-     "team": "Stars",
-     "cat": "Goals",
-     "name": "Wyatt Johnston",
-     "val": "1"
-    },
-    {
-     "team": "Stars",
-     "cat": "Assists",
-     "name": "Tyler Seguin",
-     "val": "1"
-    },
-    {
-     "team": "Stars",
-     "cat": "Points",
-     "name": "Wyatt Johnston",
-     "val": "1"
-    },
-    {
-     "team": "Predators",
-     "cat": "Goals",
-     "name": "Jack Drury",
-     "val": "1"
-    },
-    {
-     "team": "Predators",
-     "cat": "Assists",
-     "name": "Ryan O'Reilly",
-     "val": "2"
-    },
-    {
-     "team": "Predators",
-     "cat": "Points",
-     "name": "Ryan O'Reilly",
-     "val": "2"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-11-26T01:00:00Z",
-   "home": "Wild",
-   "hs": "3",
-   "away": "Mammoth",
-   "as": "4",
-   "leaders": [
-    {
-     "team": "Wild",
-     "cat": "Goals",
-     "name": "Blake Coleman",
-     "val": "2"
-    },
-    {
-     "team": "Wild",
-     "cat": "Assists",
-     "name": "Jonas Brodin",
-     "val": "1"
-    },
-    {
-     "team": "Wild",
-     "cat": "Points",
-     "name": "Blake Coleman",
-     "val": "2"
-    },
-    {
-     "team": "Mammoth",
-     "cat": "Goals",
-     "name": "Dylan Guenther",
-     "val": "1"
-    },
-    {
-     "team": "Mammoth",
-     "cat": "Assists",
-     "name": "Dylan Guenther",
-     "val": "1"
-    },
-    {
-     "team": "Mammoth",
-     "cat": "Points",
-     "name": "Dylan Guenther",
-     "val": "2"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-11-26T00:30:00Z",
-   "home": "Red Wings",
-   "hs": "5",
-   "away": "Canucks",
-   "as": "1",
-   "leaders": [
-    {
-     "team": "Red Wings",
-     "cat": "Goals",
-     "name": "Emmitt Finnie",
-     "val": "2"
-    },
-    {
-     "team": "Red Wings",
-     "cat": "Assists",
-     "name": "Viktor Arvidsson",
-     "val": "2"
-    },
-    {
-     "team": "Red Wings",
-     "cat": "Points",
-     "name": "Emmitt Finnie",
-     "val": "3"
-    },
-    {
-     "team": "Canucks",
-     "cat": "Goals",
-     "name": "Paul Cotter",
-     "val": "1"
-    },
-    {
-     "team": "Canucks",
-     "cat": "Assists",
-     "name": "Cole Reinhardt",
-     "val": "1"
-    },
-    {
-     "team": "Canucks",
-     "cat": "Points",
-     "name": "Paul Cotter",
-     "val": "1"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-11-26T00:00:00Z",
-   "home": "Bruins",
-   "hs": "2",
-   "away": "Jets",
-   "as": "4",
-   "leaders": [
-    {
-     "team": "Bruins",
-     "cat": "Goals",
-     "name": "Fraser Minten",
-     "val": "1"
-    },
-    {
-     "team": "Bruins",
-     "cat": "Assists",
-     "name": "Hampus Lindholm",
-     "val": "1"
-    },
-    {
-     "team": "Bruins",
-     "cat": "Points",
-     "name": "Morgan Geekie",
-     "val": "1"
-    },
-    {
-     "team": "Jets",
-     "cat": "Goals",
-     "name": "Kyle Connor",
-     "val": "1"
-    },
-    {
-     "team": "Jets",
-     "cat": "Assists",
-     "name": "Kyle Connor",
-     "val": "2"
-    },
-    {
-     "team": "Jets",
-     "cat": "Points",
-     "name": "Kyle Connor",
-     "val": "3"
-    }
-   ]
-  },
-  {
-   "league": "NHL",
-   "date": "2026-11-26T00:00:00Z",
-   "home": "Sabres",
-   "hs": "5",
-   "away": "Rangers",
-   "as": "1",
-   "leaders": [
-    {
-     "team": "Sabres",
-     "cat": "Goals",
-     "name": "Rasmus Dahlin",
-     "val": "1"
-    },
-    {
-     "team": "Sabres",
-     "cat": "Assists",
-     "name": "Tage Thompson",
-     "val": "2"
-    },
-    {
-     "team": "Sabres",
-     "cat": "Points",
-     "name": "Rasmus Dahlin",
-     "val": "2"
-    },
-    {
-     "team": "Rangers",
-     "cat": "Goals",
-     "name": "Vladislav Gavrikov",
-     "val": "1"
-    },
-    {
-     "team": "Rangers",
-     "cat": "Assists",
-     "name": "Taylor Raddysh",
-     "val": "1"
-    },
-    {
-     "team": "Rangers",
-     "cat": "Points",
-     "name": "Vladislav Gavrikov",
-     "val": "1"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T03:00:00Z",
-   "home": "Warriors",
-   "hs": "129",
-   "away": "Kings",
-   "as": "110",
-   "leaders": [
-    {
-     "team": "Warriors",
-     "cat": "Points",
-     "name": "De'Anthony Melton",
-     "val": "24"
-    },
-    {
-     "team": "Warriors",
-     "cat": "Rebounds",
-     "name": "Yaxel Lendeborg",
-     "val": "8"
-    },
-    {
-     "team": "Warriors",
-     "cat": "Assists",
-     "name": "Draymond Green",
-     "val": "11"
-    },
-    {
-     "team": "Kings",
-     "cat": "Points",
-     "name": "Domantas Sabonis",
-     "val": "27"
-    },
-    {
-     "team": "Kings",
-     "cat": "Rebounds",
-     "name": "Domantas Sabonis",
-     "val": "10"
-    },
-    {
-     "team": "Kings",
-     "cat": "Assists",
-     "name": "Darius Acuff Jr.",
-     "val": "9"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T03:00:00Z",
-   "home": "Trail Blazers",
-   "hs": "116",
-   "away": "Spurs",
-   "as": "111",
-   "leaders": [
-    {
-     "team": "Trail Blazers",
-     "cat": "Points",
-     "name": "Deni Avdija",
-     "val": "33"
-    },
-    {
-     "team": "Trail Blazers",
-     "cat": "Rebounds",
-     "name": "Deni Avdija",
-     "val": "12"
-    },
-    {
-     "team": "Trail Blazers",
-     "cat": "Assists",
-     "name": "Deni Avdija",
-     "val": "7"
-    },
-    {
-     "team": "Spurs",
-     "cat": "Points",
-     "name": "Victor Wembanyama",
-     "val": "44"
-    },
-    {
-     "team": "Spurs",
-     "cat": "Rebounds",
-     "name": "Victor Wembanyama",
-     "val": "16"
-    },
-    {
-     "team": "Spurs",
-     "cat": "Assists",
-     "name": "Stephon Castle",
-     "val": "9"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T01:30:00Z",
-   "home": "Rockets",
-   "hs": "116",
-   "away": "Suns",
-   "as": "104",
-   "leaders": [
-    {
-     "team": "Rockets",
-     "cat": "Points",
-     "name": "Alperen Sengun",
-     "val": "23"
-    },
-    {
-     "team": "Rockets",
-     "cat": "Rebounds",
-     "name": "Alperen Sengun",
-     "val": "11"
-    },
-    {
-     "team": "Rockets",
-     "cat": "Assists",
-     "name": "Alperen Sengun",
-     "val": "11"
-    },
-    {
-     "team": "Suns",
-     "cat": "Points",
-     "name": "Devin Booker",
-     "val": "25"
-    },
-    {
-     "team": "Suns",
-     "cat": "Rebounds",
-     "name": "Miles Bridges",
-     "val": "8"
-    },
-    {
-     "team": "Suns",
-     "cat": "Assists",
-     "name": "Devin Booker",
-     "val": "5"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T01:00:00Z",
-   "home": "Grizzlies",
-   "hs": "115",
-   "away": "Clippers",
-   "as": "97",
-   "leaders": [
-    {
-     "team": "Grizzlies",
-     "cat": "Points",
-     "name": "Jaylen Wells",
-     "val": "19"
-    },
-    {
-     "team": "Grizzlies",
-     "cat": "Rebounds",
-     "name": "Cedric Coward",
-     "val": "10"
-    },
-    {
-     "team": "Grizzlies",
-     "cat": "Assists",
-     "name": "Ty Jerome",
-     "val": "7"
-    },
-    {
-     "team": "Clippers",
-     "cat": "Points",
-     "name": "Brandon Ingram",
-     "val": "18"
-    },
-    {
-     "team": "Clippers",
-     "cat": "Rebounds",
-     "name": "Rui Hachimura",
-     "val": "12"
-    },
-    {
-     "team": "Clippers",
-     "cat": "Assists",
-     "name": "Rui Hachimura",
-     "val": "5"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T01:00:00Z",
-   "home": "Bucks",
-   "hs": "97",
-   "away": "Nets",
-   "as": "104",
-   "leaders": [
-    {
-     "team": "Bucks",
-     "cat": "Points",
-     "name": "Tyler Herro",
-     "val": "28"
-    },
-    {
-     "team": "Bucks",
-     "cat": "Rebounds",
-     "name": "Kel'el Ware",
-     "val": "14"
-    },
-    {
-     "team": "Bucks",
-     "cat": "Assists",
-     "name": "Tyler Herro",
-     "val": "5"
-    },
-    {
-     "team": "Nets",
-     "cat": "Points",
-     "name": "Julius Randle",
-     "val": "28"
-    },
-    {
-     "team": "Nets",
-     "cat": "Rebounds",
-     "name": "Day'Ron Sharpe",
-     "val": "14"
-    },
-    {
-     "team": "Nets",
-     "cat": "Assists",
-     "name": "Day'Ron Sharpe",
-     "val": "5"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T00:30:00Z",
-   "home": "Knicks",
-   "hs": "121",
-   "away": "Cavaliers",
-   "as": "102",
-   "leaders": [
-    {
-     "team": "Knicks",
-     "cat": "Points",
-     "name": "Jose Alvarado",
-     "val": "21"
-    },
-    {
-     "team": "Knicks",
-     "cat": "Rebounds",
-     "name": "Karl-Anthony Towns",
-     "val": "10"
-    },
-    {
-     "team": "Knicks",
-     "cat": "Assists",
-     "name": "Josh Hart",
-     "val": "11"
-    },
-    {
-     "team": "Cavaliers",
-     "cat": "Points",
-     "name": "Donovan Mitchell",
-     "val": "30"
-    },
-    {
-     "team": "Cavaliers",
-     "cat": "Rebounds",
-     "name": "Thomas Bryant",
-     "val": "8"
-    },
-    {
-     "team": "Cavaliers",
-     "cat": "Assists",
-     "name": "James Harden",
-     "val": "5"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T00:30:00Z",
-   "home": "Thunder",
-   "hs": "106",
-   "away": "Timberwolves",
-   "as": "113",
-   "leaders": [
-    {
-     "team": "Thunder",
-     "cat": "Points",
-     "name": "Shai Gilgeous-Alexander",
-     "val": "32"
-    },
-    {
-     "team": "Thunder",
-     "cat": "Rebounds",
-     "name": "Isaiah Hartenstein",
-     "val": "16"
-    },
-    {
-     "team": "Thunder",
-     "cat": "Assists",
-     "name": "Isaiah Hartenstein",
-     "val": "6"
-    },
-    {
-     "team": "Timberwolves",
-     "cat": "Points",
-     "name": "Jaden McDaniels",
-     "val": "32"
-    },
-    {
-     "team": "Timberwolves",
-     "cat": "Rebounds",
-     "name": "Jaden McDaniels",
-     "val": "10"
-    },
-    {
-     "team": "Timberwolves",
-     "cat": "Assists",
-     "name": "LaMelo Ball",
-     "val": "8"
-    }
-   ]
-  },
-  {
-   "league": "NBA",
-   "date": "2026-11-26T00:00:00Z",
-   "home": "Hornets",
-   "hs": "105",
-   "away": "Bulls",
-   "as": "107",
-   "leaders": [
-    {
-     "team": "Hornets",
-     "cat": "Points",
-     "name": "Brandon Miller",
-     "val": "35"
-    },
-    {
-     "team": "Hornets",
-     "cat": "Rebounds",
-     "name": "Moussa Diabate",
-     "val": "14"
-    },
-    {
-     "team": "Hornets",
-     "cat": "Assists",
-     "name": "Coby White",
-     "val": "6"
-    },
-    {
-     "team": "Bulls",
-     "cat": "Points",
-     "name": "Matas Buzelis",
-     "val": "24"
-    },
-    {
-     "team": "Bulls",
-     "cat": "Rebounds",
-     "name": "Josh Giddey",
-     "val": "11"
-    },
-    {
-     "team": "Bulls",
-     "cat": "Assists",
-     "name": "Tre Jones",
-     "val": "8"
-    }
-   ]
+   "league": "College football",
+   "date": "2026-11-27T01:00:00Z",
+   "home": "Texas Tech",
+   "hs": "48",
+   "away": "TCU",
+   "as": "27",
+   "leaders": []
   },
   {
    "league": "College basketball",
-   "date": "2026-11-26T00:00:00Z",
-   "home": "UConn",
-   "hs": "63",
-   "away": "Duke",
-   "as": "77",
-   "leaders": [
-    {
-     "team": "UConn",
-     "cat": "Points",
-     "name": "Silas Demary Jr.",
-     "val": "25"
-    },
-    {
-     "team": "UConn",
-     "cat": "Rebounds",
-     "name": "Colben Landrew",
-     "val": "7"
-    },
-    {
-     "team": "UConn",
-     "cat": "Assists",
-     "name": "Silas Demary Jr.",
-     "val": "4"
-    },
-    {
-     "team": "Duke",
-     "cat": "Points",
-     "name": "John Blackwell",
-     "val": "25"
-    },
-    {
-     "team": "Duke",
-     "cat": "Rebounds",
-     "name": "Patrick Ngongba II",
-     "val": "11"
-    },
-    {
-     "team": "Duke",
-     "cat": "Assists",
-     "name": "Patrick Ngongba II",
-     "val": "5"
-    }
-   ]
-  },
-  {
-   "league": "College basketball",
-   "date": "2026-11-26T00:00:00Z",
-   "home": "Penn State",
-   "hs": "70",
-   "away": "Memphis",
+   "date": "2026-11-27T16:00:00Z",
+   "home": "Xavier",
+   "hs": "71",
+   "away": "Virginia",
    "as": "83",
    "leaders": [
     {
-     "team": "Penn State",
+     "team": "Xavier",
      "cat": "Points",
-     "name": "Ivan Juric",
-     "val": "19"
+     "name": "Mike Nwoko",
+     "val": "15"
     },
     {
-     "team": "Penn State",
+     "team": "Xavier",
      "cat": "Rebounds",
-     "name": "Ivan Juric",
-     "val": "11"
-    },
-    {
-     "team": "Penn State",
-     "cat": "Assists",
-     "name": "Dasonte Bowen",
-     "val": "4"
-    },
-    {
-     "team": "Memphis",
-     "cat": "Points",
-     "name": "Jayden Reid",
-     "val": "32"
-    },
-    {
-     "team": "Memphis",
-     "cat": "Rebounds",
-     "name": "Rihards Vavers",
-     "val": "6"
-    },
-    {
-     "team": "Memphis",
-     "cat": "Assists",
-     "name": "Jayden Reid",
-     "val": "9"
-    }
-   ]
-  },
-  {
-   "league": "College basketball",
-   "date": "2026-11-25T22:30:00Z",
-   "home": "Providence",
-   "hs": "82",
-   "away": "BYU",
-   "as": "85",
-   "leaders": [
-    {
-     "team": "Providence",
-     "cat": "Points",
-     "name": "Arrinten Page",
-     "val": "21"
-    },
-    {
-     "team": "Providence",
-     "cat": "Rebounds",
-     "name": "Miles Byrd",
-     "val": "7"
-    },
-    {
-     "team": "Providence",
-     "cat": "Assists",
-     "name": "Malik Mack",
+     "name": "Filip Borovicanin",
      "val": "8"
     },
     {
-     "team": "BYU",
-     "cat": "Points",
-     "name": "Collin Chandler",
-     "val": "24"
-    },
-    {
-     "team": "BYU",
-     "cat": "Rebounds",
-     "name": "Bruce Branch III",
-     "val": "6"
-    },
-    {
-     "team": "BYU",
+     "team": "Xavier",
      "cat": "Assists",
-     "name": "Collin Chandler",
+     "name": "Filip Borovicanin",
+     "val": "3"
+    },
+    {
+     "team": "Virginia",
+     "cat": "Points",
+     "name": "Sam Lewis",
+     "val": "21"
+    },
+    {
+     "team": "Virginia",
+     "cat": "Rebounds",
+     "name": "Thijs De Ridder",
+     "val": "10"
+    },
+    {
+     "team": "Virginia",
+     "cat": "Assists",
+     "name": "Chance Mallory",
+     "val": "9"
+    }
+   ]
+  },
+  {
+   "league": "College basketball",
+   "date": "2026-11-27T04:57:00Z",
+   "home": "Oregon",
+   "hs": "59",
+   "away": "Texas Tech",
+   "as": "62",
+   "leaders": [
+    {
+     "team": "Oregon",
+     "cat": "Points",
+     "name": "Jasper Johnson",
+     "val": "18"
+    },
+    {
+     "team": "Oregon",
+     "cat": "Rebounds",
+     "name": "Malique Ewin",
+     "val": "8"
+    },
+    {
+     "team": "Oregon",
+     "cat": "Assists",
+     "name": "Malique Ewin",
+     "val": "4"
+    },
+    {
+     "team": "Texas Tech",
+     "cat": "Points",
+     "name": "Cruz Davis",
+     "val": "18"
+    },
+    {
+     "team": "Texas Tech",
+     "cat": "Rebounds",
+     "name": "Jamichael Stillwell",
+     "val": "11"
+    },
+    {
+     "team": "Texas Tech",
+     "cat": "Assists",
+     "name": "Cruz Davis",
+     "val": "3"
+    }
+   ]
+  },
+  {
+   "league": "College basketball",
+   "date": "2026-11-27T04:53:00Z",
+   "home": "Gonzaga",
+   "hs": "72",
+   "away": "Baylor",
+   "as": "64",
+   "leaders": [
+    {
+     "team": "Gonzaga",
+     "cat": "Points",
+     "name": "Chauncey Wiggins",
+     "val": "19"
+    },
+    {
+     "team": "Gonzaga",
+     "cat": "Rebounds",
+     "name": "Massamba Diop",
+     "val": "7"
+    },
+    {
+     "team": "Gonzaga",
+     "cat": "Assists",
+     "name": "Xaivian Lee",
+     "val": "4"
+    },
+    {
+     "team": "Baylor",
+     "cat": "Points",
+     "name": "Isaac Williams IV",
+     "val": "20"
+    },
+    {
+     "team": "Baylor",
+     "cat": "Rebounds",
+     "name": "Dylan Mingo",
+     "val": "9"
+    },
+    {
+     "team": "Baylor",
+     "cat": "Assists",
+     "name": "Kayden Mingo",
      "val": "6"
     }
    ]
   },
   {
    "league": "College basketball",
-   "date": "2026-11-25T22:17:00Z",
-   "home": "USC",
-   "hs": "71",
-   "away": "South Carolina",
-   "as": "69",
+   "date": "2026-11-27T02:00:00Z",
+   "home": "St John's",
+   "hs": "90",
+   "away": "Louisville",
+   "as": "93",
    "leaders": [
     {
-     "team": "USC",
+     "team": "St John's",
      "cat": "Points",
-     "name": "Alijah Arenas",
-     "val": "25"
-    },
-    {
-     "team": "USC",
-     "cat": "Rebounds",
-     "name": "Darius Ratliff",
-     "val": "10"
-    },
-    {
-     "team": "USC",
-     "cat": "Assists",
-     "name": "Jacob Cofie",
-     "val": "3"
-    },
-    {
-     "team": "South Carolina",
-     "cat": "Points",
-     "name": "Aleksas Bieliauskas",
+     "name": "Ian Jackson",
      "val": "18"
     },
     {
-     "team": "South Carolina",
+     "team": "St John's",
      "cat": "Rebounds",
-     "name": "Aleksas Bieliauskas",
-     "val": "12"
+     "name": "Keyshawn Hall",
+     "val": "10"
     },
     {
-     "team": "South Carolina",
+     "team": "St John's",
      "cat": "Assists",
-     "name": "Marcus Johnson",
+     "name": "Quinn Ellis",
+     "val": "6"
+    },
+    {
+     "team": "Louisville",
+     "cat": "Points",
+     "name": "Seth Trimble",
+     "val": "33"
+    },
+    {
+     "team": "Louisville",
+     "cat": "Rebounds",
+     "name": "Flory Bidunga",
+     "val": "9"
+    },
+    {
+     "team": "Louisville",
+     "cat": "Assists",
+     "name": "Seth Trimble",
      "val": "5"
     }
    ]
   },
   {
    "league": "College basketball",
-   "date": "2026-11-25T22:00:00Z",
-   "home": "Nebraska",
-   "hs": "101",
-   "away": "Southern",
-   "as": "72",
+   "date": "2026-11-27T02:00:00Z",
+   "home": "Kansas St",
+   "hs": "91",
+   "away": "Alabama",
+   "as": "104",
    "leaders": [
     {
-     "team": "Nebraska",
+     "team": "Kansas St",
      "cat": "Points",
-     "name": "Pryce Sandfort",
-     "val": "20"
+     "name": "Brandon Rechsteiner",
+     "val": "27"
     },
     {
-     "team": "Nebraska",
+     "team": "Kansas St",
      "cat": "Rebounds",
-     "name": "Damon Wilkinson",
-     "val": "7"
+     "name": "Brandon Rechsteiner",
+     "val": "8"
     },
     {
-     "team": "Nebraska",
+     "team": "Kansas St",
      "cat": "Assists",
-     "name": "Trevan Leonhardt",
+     "name": "Brandon Rechsteiner",
+     "val": "4"
+    },
+    {
+     "team": "Alabama",
+     "cat": "Points",
+     "name": "Qayden Samuels",
+     "val": "14"
+    },
+    {
+     "team": "Alabama",
+     "cat": "Rebounds",
+     "name": "Amari Allen",
      "val": "7"
     },
     {
-     "team": "Southern",
+     "team": "Alabama",
+     "cat": "Assists",
+     "name": "Amari Allen",
+     "val": "7"
+    }
+   ]
+  },
+  {
+   "league": "College basketball",
+   "date": "2026-11-27T00:00:00Z",
+   "home": "SMU",
+   "hs": "86",
+   "away": "LSU",
+   "as": "95",
+   "leaders": [
+    {
+     "team": "SMU",
      "cat": "Points",
-     "name": "Sean Van Dorn Jr.",
-     "val": "24"
+     "name": "Oziyah Sellers",
+     "val": "25"
     },
     {
-     "team": "Southern",
+     "team": "SMU",
      "cat": "Rebounds",
-     "name": "Sean Van Dorn Jr.",
+     "name": "Jaden Toombs",
+     "val": "8"
+    },
+    {
+     "team": "SMU",
+     "cat": "Assists",
+     "name": "Rowan Brumbaugh",
+     "val": "12"
+    },
+    {
+     "team": "LSU",
+     "cat": "Points",
+     "name": "Mo Dioubate",
+     "val": "28"
+    },
+    {
+     "team": "LSU",
+     "cat": "Rebounds",
+     "name": "Mo Dioubate",
      "val": "10"
     },
     {
-     "team": "Southern",
+     "team": "LSU",
      "cat": "Assists",
-     "name": "Malik Ferguson",
+     "name": "Donovan Dent",
+     "val": "9"
+    }
+   ]
+  },
+  {
+   "league": "College basketball",
+   "date": "2026-11-26T22:00:00Z",
+   "home": "Saint Mary's",
+   "hs": "85",
+   "away": "UCLA",
+   "as": "70",
+   "leaders": [
+    {
+     "team": "Saint Mary's",
+     "cat": "Points",
+     "name": "Jeremy Dent-Smith",
+     "val": "21"
+    },
+    {
+     "team": "Saint Mary's",
+     "cat": "Rebounds",
+     "name": "Jeremy Dent-Smith",
+     "val": "6"
+    },
+    {
+     "team": "Saint Mary's",
+     "cat": "Assists",
+     "name": "Joshua Dent",
+     "val": "6"
+    },
+    {
+     "team": "UCLA",
+     "cat": "Points",
+     "name": "Jaylen Petty",
+     "val": "15"
+    },
+    {
+     "team": "UCLA",
+     "cat": "Rebounds",
+     "name": "Xavier Booker",
+     "val": "8"
+    },
+    {
+     "team": "UCLA",
+     "cat": "Assists",
+     "name": "Nikola Kusturica",
      "val": "4"
     }
    ]
   },
   {
    "league": "College basketball",
-   "date": "2026-11-25T19:30:00Z",
-   "home": "Arizona",
-   "hs": "84",
-   "away": "Ole Miss",
-   "as": "73",
+   "date": "2026-11-26T21:30:00Z",
+   "home": "Michigan St",
+   "hs": "70",
+   "away": "Arkansas",
+   "as": "67",
    "leaders": [
     {
-     "team": "Arizona",
+     "team": "Michigan St",
      "cat": "Points",
-     "name": "Motiejus Krivas",
-     "val": "31"
-    },
-    {
-     "team": "Arizona",
-     "cat": "Rebounds",
-     "name": "Motiejus Krivas",
-     "val": "17"
-    },
-    {
-     "team": "Arizona",
-     "cat": "Assists",
-     "name": "Ivan Kharchenkov",
-     "val": "5"
-    },
-    {
-     "team": "Ole Miss",
-     "cat": "Points",
-     "name": "Adam Clark",
-     "val": "17"
-    },
-    {
-     "team": "Ole Miss",
-     "cat": "Rebounds",
-     "name": "Ben Henshall",
-     "val": "5"
-    },
-    {
-     "team": "Ole Miss",
-     "cat": "Assists",
-     "name": "Ben Henshall",
-     "val": "3"
-    }
-   ]
-  },
-  {
-   "league": "College basketball",
-   "date": "2026-11-25T19:00:00Z",
-   "home": "Arizona St",
-   "hs": "92",
-   "away": "LSU",
-   "as": "94",
-   "leaders": [
-    {
-     "team": "Arizona St",
-     "cat": "Points",
-     "name": "Paulius Murauskas",
-     "val": "27"
-    },
-    {
-     "team": "Arizona St",
-     "cat": "Rebounds",
-     "name": "Dillan Shaw",
-     "val": "14"
-    },
-    {
-     "team": "Arizona St",
-     "cat": "Assists",
-     "name": "Joel Foxwell",
-     "val": "7"
-    },
-    {
-     "team": "LSU",
-     "cat": "Points",
-     "name": "Donovan Dent",
+     "name": "Jeremy Fears Jr.",
      "val": "20"
     },
     {
-     "team": "LSU",
+     "team": "Michigan St",
      "cat": "Rebounds",
-     "name": "Michael Ruzic",
+     "name": "Jordan Scott",
+     "val": "8"
+    },
+    {
+     "team": "Michigan St",
+     "cat": "Assists",
+     "name": "Jeremy Fears Jr.",
+     "val": "10"
+    },
+    {
+     "team": "Arkansas",
+     "cat": "Points",
+     "name": "Jordan Smith Jr.",
+     "val": "25"
+    },
+    {
+     "team": "Arkansas",
+     "cat": "Rebounds",
+     "name": "Jordan Smith Jr.",
      "val": "11"
     },
     {
-     "team": "LSU",
+     "team": "Arkansas",
      "cat": "Assists",
-     "name": "Donovan Dent",
-     "val": "12"
-    }
-   ]
-  },
-  {
-   "league": "College basketball",
-   "date": "2026-11-25T17:00:00Z",
-   "home": "Marquette",
-   "hs": "54",
-   "away": "Virginia",
-   "as": "60",
-   "leaders": [
-    {
-     "team": "Marquette",
-     "cat": "Points",
-     "name": "Sananda Fru",
-     "val": "12"
-    },
-    {
-     "team": "Marquette",
-     "cat": "Rebounds",
-     "name": "Sananda Fru",
-     "val": "9"
-    },
-    {
-     "team": "Marquette",
-     "cat": "Assists",
-     "name": "Nigel James Jr.",
+     "name": "Billy Richmond III",
      "val": "5"
-    },
-    {
-     "team": "Virginia",
-     "cat": "Points",
-     "name": "Johann Grunloh",
-     "val": "14"
-    },
-    {
-     "team": "Virginia",
-     "cat": "Rebounds",
-     "name": "Chance Mallory",
-     "val": "12"
-    },
-    {
-     "team": "Virginia",
-     "cat": "Assists",
-     "name": "Chance Mallory",
-     "val": "3"
     }
    ]
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "Atl\u00e9tico",
-   "hs": "2",
-   "away": "Viking FK",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "Club Brugge",
-   "hs": "0",
-   "away": "Liverpool",
-   "as": "3",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "Inter Milan",
-   "hs": "2",
-   "away": "Stuttgart",
-   "as": "0",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "Lille",
-   "hs": "2",
-   "away": "Bayern",
-   "as": "1",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "PSG",
-   "hs": "2",
-   "away": "AS Roma",
-   "as": "2",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "Shakhtar",
-   "hs": "0",
-   "away": "Fenerbahce",
-   "as": "1",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T20:00:00Z",
-   "home": "Sporting",
-   "hs": "2",
-   "away": "Man Utd",
-   "as": "2",
-   "leaders": []
-  },
-  {
-   "league": "Champions League",
-   "date": "2026-11-25T17:45:00Z",
-   "home": "Sabah",
-   "hs": "1",
-   "away": "Barcelona",
-   "as": "4",
-   "leaders": []
   }
  ],
  "results": {
-  "epl_401878760": 1,
-  "epl_draw_401878760": 0,
-  "epl_401879241": 0,
-  "epl_draw_401879241": 1,
-  "epl_401878757": 1,
-  "epl_draw_401878757": 0,
-  "liga_401882814": 0,
-  "liga_draw_401882814": 0,
-  "liga_401882813": 0,
-  "liga_draw_401882813": 1,
-  "liga_401882811": 0,
-  "liga_draw_401882811": 1,
-  "liga_401882808": 0,
-  "liga_draw_401882808": 0,
-  "bund_401884738": 0,
-  "bund_draw_401884738": 0,
   "bund_401884743": 1,
   "bund_draw_401884743": 0,
   "sera_401874810": 0,
@@ -5688,6 +5089,22 @@
   "ucl_401915375": 0,
   "ucl_draw_401915375": 0,
   "ucl_401915373": 0,
-  "ucl_draw_401915373": 1
+  "ucl_draw_401915373": 1,
+  "nfl_401873081": 0,
+  "nfl_401873080": 0,
+  "nfl_401873082": 1,
+  "cfb_401856879": 1,
+  "cbb_401920429": 0,
+  "cbb_401920531": 0,
+  "cbb_401917547": 1,
+  "cbb_401906869": 1,
+  "cbb_401920529": 0,
+  "cbb_401925757": 1,
+  "cbb_401920530": 0,
+  "cbb_401920539": 0,
+  "cbb_401920537": 0,
+  "cbb_401921673": 1,
+  "cbb_401918972": 0,
+  "cbb_401920540": 1
  }
 }
